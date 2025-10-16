@@ -1,0 +1,33 @@
+:host {
+    flex: 1 0;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    gap: 0.5rem;
+    .user-input {
+        flex: 0.5 0;
+    }
+}
+
+.close {
+    position: absolute;
+    top: -0.1em;
+    right: -0.1em;
+    transform: scale(0.8);
+}
+.p-inputicon {
+    cursor: pointer;
+}
+.form-message-container {
+    display: flex;
+    &__categories, &__extra {
+        flex-basis: 50%;
+        display: flex;
+        flex-direction: column;
+        gap: .2em;
+        justify-content: space-evenly;
+    }
+    &__extra {
+        font-size: .8em;
+    }
+}

@@ -1,0 +1,96 @@
+@if (streamsStore.activeStreamId()) {
+    <app-chat (authorClicked)="authorClicked$.next($event)" />
+
+    <div class="form-message-container">
+        <div class="form-message-container__categories">
+            <div>
+                <p-checkbox
+                    inputId="messages"
+                    [binary]="true"
+                    [formControl]="categoryForm.controls.messagesType" />
+                <label for="messages"> Messages </label>
+            </div>
+            <div>
+                <p-checkbox
+                    inputId="bans"
+                    [binary]="true"
+                    [formControl]="categoryForm.controls.bansType" />
+                <label for="bans"> {{ formDict().bans }} </label>
+            </div>
+            <div>
+                <p-checkbox
+                    inputId="subs"
+                    [binary]="true"
+                    [formControl]="categoryForm.controls.subsType" />
+                <label for="subs"> {{ formDict().subs }} </label>
+            </div>
+        </div>
+        <div class="form-message-container__extra">
+            <div>
+                <p-checkbox
+                    inputId="moderators"
+                    size="small"
+                    [binary]="true"
+                    [formControl]="categoryForm.controls.moderators" />
+                <label for="moderators"> Filter moderators </label>
+            </div>
+            <div>
+                <p-checkbox
+                    inputId="byBanned"
+                    size="small"
+                    [binary]="true"
+                    [formControl]="categoryForm.controls.includeBannedUsers" />
+                <label for="byBanned">
+                    {{ formDict().include }}
+                </label>
+            </div>
+        </div>
+    </div>
+
+    <div style="display: flex; gap: 0.5rem; align-items: center">
+        <p-inputgroup>
+            <input
+                class="user-input"
+                pInputText
+                placeholder="User"
+                style="border-right: none"
+                [formControl]="searchForm.controls.username" />
+            <p-inputgroup-addon>
+                @if (searchForm.controls.username.value !== '') {
+                    <p-inputicon
+                        class="pi pi-times"
+                        (click)="
+                            clearButtonClick$.next(searchForm.controls.username)
+                        " />
+                }
+            </p-inputgroup-addon>
+            <input
+                pInputText
+                placeholder="Message"
+                style="border-right: none"
+                [formControl]="searchForm.controls.message" />
+            <p-inputgroup-addon>
+                @if (searchForm.controls.message.value !== '') {
+                    <p-inputicon
+                        class="pi pi-times"
+                        (click)="
+                            clearButtonClick$.next(searchForm.controls.message)
+                        " />
+                }
+            </p-inputgroup-addon>
+            <p-button #searchButton icon="pi pi-search" />
+        </p-inputgroup>
+        <p-button
+            aria-label="Export"
+            icon="pi pi-download"
+            (click)="menu.toggle($event)" />
+    </div>
+    <p-menu #menu [model]="formatMenuItems" [popup]="true" />
+
+    <p-button
+        class="close"
+        icon="pi pi-times"
+        size="small"
+        [rounded]="true"
+        (click)="close()" />
+}

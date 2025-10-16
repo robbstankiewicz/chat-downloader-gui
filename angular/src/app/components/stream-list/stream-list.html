@@ -1,0 +1,23 @@
+<p-inputgroup>
+    <input
+        pInputText
+        placeholder="Link to the stream"
+        [formControl]="linkControl" />
+    <p-button icon="pi pi-plus" (click)="addStream()" />
+</p-inputgroup>
+
+@let streams = streamsStore.streamsEntities();
+
+<div class="list-container">
+    <p-scrollpanel [style]="{ width: '100%', height: '100%' }">
+        <div class="list">
+            @if (streams?.length) {
+                @for (stream of streams; track stream.id) {
+                    <app-stream [data]="stream" [logFilePath]="logFilePath()" />
+                }
+            } @else {
+                <div class="no-streams">No streams available</div>
+            }
+        </div>
+    </p-scrollpanel>
+</div>

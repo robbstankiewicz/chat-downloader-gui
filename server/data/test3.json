@@ -1,0 +1,122 @@
+[
+    {
+        "action_type": "remove_chat_item_by_author",
+        "author": {
+            "id": "UC-gKqmOr2qBtGKo8FUn6VYg",
+            "name": ""
+        },
+        "message": null,
+        "message_type": "ban_user"
+    }, 
+    {
+        "action_type": "remove_chat_item",
+        "message": null,
+        "message_type": "ban_user",
+        "target_message_id": "ChwKGkNONk4yODNrc1k0REZRSWcxZ0FkRmNvQlFn"
+    }, 
+    {
+        "action_type": "remove_chat_item_by_author",
+        "author": {
+            "id": "UCOHmyQZs4IX8MKEsr7dn1AA",
+            "name": ""
+        },
+        "message": null,
+        "message_type": "ban_user"
+    }, 
+    {
+        "action_type": "remove_chat_item",
+        "message": null,
+        "message_type": "ban_user",
+        "target_message_id": "ChwKGkNPTEtnYW5sc1k0REZhb3FyUVlkOU1zdXVR"
+    }, 
+    {
+        "action_type": "remove_chat_item_by_author",
+        "author": {
+            "id": "UC6T5bIF_W1XBqkap9E1FgWw",
+            "name": ""
+        },
+        "message": null,
+        "message_type": "ban_user"
+    }, 
+    {
+        "action_type": "remove_chat_item_by_author",
+        "author": {
+            "id": "UCgCRB7RaD9EzP2pNjXMpqeg",
+            "name": ""
+        },
+        "message": null,
+        "message_type": "ban_user"
+    }, 
+    {
+        "action_type": "remove_chat_item",
+        "message": null,
+        "message_type": "ban_user",
+        "target_message_id": "ChwKGkNLTFhpT2Zsc1k0REZYUFB3Z1FkVFpNcUNn"
+    }, 
+    {
+        "action_type": "remove_chat_item_by_author",
+        "author": {
+            "id": "UC4p7n1fr3GN5HWSWEYIx3bw",
+            "name": ""
+        },
+        "message": null,
+        "message_type": "ban_user"
+    }, 
+    {
+        "action_type": "remove_chat_item_by_author",
+        "author": {
+            "id": "UCkr_vqpboCq0Bji6SNv2CTw",
+            "name": ""
+        },
+        "message": null,
+        "message_type": "ban_user"
+    }, 
+    {
+        "action_type": "remove_chat_item",
+        "message": null,
+        "message_type": "ban_user",
+        "target_message_id": "ChwKGkNLM1N1c1Rtc1k0REZYN0J3Z1FkSi04dF9n"
+    }, 
+    {
+        "action_type": "remove_chat_item",
+        "message": null,
+        "message_type": "ban_user",
+        "target_message_id": "ChwKGkNPNlVnLV9tc1k0REZUM0ZGZ2tkelcwaU1R"
+    }, 
+    {
+        "action_type": "remove_chat_item",
+        "message": null,
+        "message_type": "ban_user",
+        "target_message_id": "ChwKGkNKblQ4WTduc1k0REZRZkR3Z1FkRmM0Yk13"
+    }, 
+    {
+        "action_type": "remove_chat_item",
+        "message": null,
+        "message_type": "ban_user",
+        "target_message_id": "ChwKGkNQcTMtdnJtc1k0REZadmV3Z1FkNmk0d2R3"
+    }, 
+    {
+        "action_type": "remove_chat_item",
+        "message": null,
+        "message_type": "ban_user",
+        "target_message_id": "ChwKGkNPR1F2Sl9uc1k0REZUV1RyZ1VkZi1BeXBB"
+    }, 
+    {
+        "action_type": "remove_chat_item",
+        "message": null,
+        "message_type": "ban_user",
+        "target_message_id": "ChwKGkNQUy1zdDduc1k0REZaRFVsQWtkelk4ME53"
+    }, 
+    {
+        "action_type": "remove_chat_item",
+        "message": null,
+        "message_type": "ban_user",
+        "target_message_id": "ChwKGkNPSFJ4Zkhuc1k0REZjdTdyZ1VkZ3ZFVnh3"
+    }, 
+    {
+        "action_type": "remove_chat_item",
+        "message": null,
+        "message_type": "ban_user",
+        "target_message_id": "ChwKGkNMV0dub25vc1k0REZjdnNGZ2tkN0ZvRGx3"
+    }
+]

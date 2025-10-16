@@ -1,0 +1,28 @@
+// PrimeIcons
+@import 'primeicons/primeicons.css';
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
+html {
+    font-size: 16px;
+}
+html,
+body {
+    height: 100%;
+    background-color: var(--p-slate-300);
+}
+
+body {
+    margin: 0;
+    font-family: 'Roboto Mono', monospace;
+    font-optical-sizing: auto;
+    font-style: normal;
+    // font-family: "Iosevka extended", "Helvetica Neue", sans-serif;
+    .p-scrollpanel-bar {
+        transition-property: opacity;
+        transition-delay: 0.2s;
+    }
+}
+
+* {
+    outline: none !important;
+    box-sizing: border-box;
+}

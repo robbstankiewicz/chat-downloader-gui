@@ -1,0 +1,121 @@
+[
+    {
+        "action_type": "clear_chat",
+        "author": {
+            "target_id": "671440171"
+        },
+        "ban_type": "permanent",
+        "banned_user": "rowdy_randomness",
+        "channel_id": "123456",
+        "message_type": "ban_user",
+        "timestamp": 1750273054437000
+    },
+    {
+        "action_type": "clear_chat",
+        "author": {
+            "target_id": "179585231"
+        },
+        "ban_duration": 10,
+        "ban_type": "timeout",
+        "banned_user": "4house",
+        "channel_id": "123456",
+        "message_type": "ban_user",
+        "timestamp": 1750273110118000
+    },
+    {
+        "action_type": "clear_chat",
+        "author": {
+            "target_id": "905075581"
+        },
+        "ban_duration": 30,
+        "ban_type": "timeout",
+        "banned_user": "imperatorart",
+        "channel_id": "123456",
+        "message_type": "ban_user",
+        "timestamp": 1750273141253000
+    },
+    {
+        "action_type": "clear_chat",
+        "author": {
+            "target_id": "37489215"
+        },
+        "ban_duration": 10,
+        "ban_type": "timeout",
+        "banned_user": "je3veslol",
+        "channel_id": "123456",
+        "message_type": "ban_user",
+        "timestamp": 1750273142806000
+    },
+    {
+        "action_type": "clear_chat",
+        "author": {
+            "target_id": "618887737"
+        },
+        "ban_duration": 10,
+        "ban_type": "timeout",
+        "banned_user": "trazerz2",
+        "channel_id": "123456",
+        "message_type": "ban_user",
+        "timestamp": 1750273157320000
+    },
+    {
+        "action_type": "clear_chat",
+        "author": {
+            "target_id": "229358858"
+        },
+        "ban_duration": 600,
+        "ban_type": "timeout",
+        "banned_user": "moskvenok_bd",
+        "channel_id": "123456",
+        "message_type": "ban_user",
+        "timestamp": 1750273231778000
+    },
+    {
+        "action_type": "clear_chat",
+        "author": {
+            "target_id": "79344168"
+        },
+        "ban_duration": 10,
+        "ban_type": "timeout",
+        "banned_user": "bedheadredemption2",
+        "channel_id": "123456",
+        "message_type": "ban_user",
+        "timestamp": 1750273257805000
+    },
+    {
+        "action_type": "clear_chat",
+        "author": {
+            "target_id": "89845448"
+        },
+        "ban_duration": 86400,
+        "ban_type": "timeout",
+        "banned_user": "kronofogdens",
+        "channel_id": "123456",
+        "message_type": "ban_user",
+        "timestamp": 1750273349350000
+    },
+    {
+        "action_type": "clear_chat",
+        "author": {
+            "target_id": "1320637182"
+        },
+        "ban_duration": 30,
+        "ban_type": "timeout",
+        "banned_user": "tay_nyon",
+        "channel_id": "123456",
+        "message_type": "ban_user",
+        "timestamp": 1750273381015000
+    },
+    {
+        "action_type": "clear_chat",
+        "author": {
+            "target_id": "1322942911"
+        },
+        "ban_duration": 10,
+        "ban_type": "timeout",
+        "banned_user": "harkleo",
+        "channel_id": "123456",
+        "message_type": "ban_user",
+        "timestamp": 1750273384027000
+    }
+]

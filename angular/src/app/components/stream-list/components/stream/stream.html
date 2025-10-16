@@ -1,0 +1,68 @@
+@let stream = data();
+<!-- <p-card> -->
+<!--         <div class="spinner-container"> -->
+<!--             <i class="pi pi-spin pi-spinner" style="font-size: 3rem"></i> -->
+<!--         </div> -->
+<!-- </p-card> -->
+<p-card>
+    @if (stream.stream_id === null && !stream.error) {
+        <div class="spinner-container">
+            <i class="pi pi-spin pi-spinner" style="font-size: 3rem"></i>
+        </div>
+    } @else {
+        @if (isDownloading()) {
+            <div class="downloading-animation"></div>
+        }
+        <div class="container">
+            @if (stream.download_status === 'error') {
+                <div class="error-container">
+                    <i class="pi pi-ban error-icon"></i>
+                    <div style="overflow: auto">
+                        <h3>An error occured for this stream</h3>
+                        <h4>{{ stream.url }}</h4>
+                        <h5>Log file: {{ logFilePath() }}</h5>
+                    </div>
+                </div>
+            } @else {
+                <div class="type">
+                    <i
+                        class="provider-icon"
+                        [class]="sourceIcon()"
+                        [class.jumping]="isDownloading()"></i>
+                    <app-stream-status [value]="stream.status" />
+                </div>
+                <div class="data">
+                    <h3>{{ stream.stream_id }}</h3>
+                    <h4>{{ stream.title }}</h4>
+                    <h5>messages: {{ stream.message_count }}</h5>
+                </div>
+            }
+            <div class="controls">
+                @if (
+                    stream.download_status !== 'completed' &&
+                    stream.download_status !== 'error'
+                ) {
+                    @if (stream.status !== 'past') {
+                        <p-button
+                            size="large"
+                            [icon]="playIcon()"
+                            [rounded]="true"
+                            (click)="playPress($event)" />
+                    }
+                    <p-button
+                        icon="pi pi-stop"
+                        size="large"
+                        [rounded]="true"
+                        (click)="stopPress($event)" />
+                }
+                <p-button
+                    icon="pi pi-trash"
+                    severity="danger"
+                    size="large"
+                    [rounded]="true"
+                    (click)="deletePress($event)" />
+            </div>
+        </div>
+        <p-confirmpopup />
+    }
+</p-card>

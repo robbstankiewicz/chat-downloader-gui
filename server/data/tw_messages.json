@@ -1,0 +1,534 @@
+[
+    {
+        "action_type": "text_message",
+        "author": {
+            "badges": [
+                {
+                    "clickAction": "SUBSCRIBE",
+                    "clickURL": null,
+                    "icons": [
+                        {
+                            "height": 18,
+                            "id": "18x18",
+                            "url": "https://static-cdn.jtvnw.net/badges/v1/c630db76-0319-4887-968a-3ea74f0692b3/1",
+                            "width": 18
+                        },
+                        {
+                            "height": 36,
+                            "id": "36x36",
+                            "url": "https://static-cdn.jtvnw.net/badges/v1/c630db76-0319-4887-968a-3ea74f0692b3/2",
+                            "width": 36
+                        },
+                        {
+                            "height": 72,
+                            "id": "72x72",
+                            "url": "https://static-cdn.jtvnw.net/badges/v1/c630db76-0319-4887-968a-3ea74f0692b3/3",
+                            "width": 72
+                        }
+                    ],
+                    "months": 10,
+                    "name": "subscriber",
+                    "title": "9-Month Subscriber",
+                    "version": 9
+                },
+                {
+                    "clickAction": "VISIT_URL",
+                    "clickURL": "https://www.twitch.tv/annual-recap",
+                    "icons": [
+                        {
+                            "height": 18,
+                            "id": "18x18",
+                            "url": "https://static-cdn.jtvnw.net/badges/v1/72f2a6ac-3d9b-4406-b9e9-998b27182f61/1",
+                            "width": 18
+                        },
+                        {
+                            "height": 36,
+                            "id": "36x36",
+                            "url": "https://static-cdn.jtvnw.net/badges/v1/72f2a6ac-3d9b-4406-b9e9-998b27182f61/2",
+                            "width": 36
+                        },
+                        {
+                            "height": 72,
+                            "id": "72x72",
+                            "url": "https://static-cdn.jtvnw.net/badges/v1/72f2a6ac-3d9b-4406-b9e9-998b27182f61/3",
+                            "width": 72
+                        }
+                    ],
+                    "name": "twitch_recap_2024",
+                    "title": "Twitch Recap 2024",
+                    "version": 1
+                }
+            ],
+            "display_name": "mf_bloosh",
+            "id": "132921637",
+            "is_moderator": false,
+            "is_subscriber": true,
+            "is_turbo": false,
+            "name": "mf_bloosh"
+        },
+        "channel_id": "123456",
+        "client_nonce": "3e5108ab52e93ee4a3590116bab99a9e",
+        "colour": "#FF0000",
+        "flags": "",
+        "is_first_message": false,
+        "is_returning_chatter": false,
+        "message": "Fatge ?",
+        "message_id": "4be34daa-29e5-4bbc-9fc8-633e5aa0efc7",
+        "message_type": "text_message",
+        "timestamp": 1750273052780000,
+        "user_type": ""
+    },
+    {
+        "action_type": "text_message",
+        "author": {
+            "display_name": "Trueblunts",
+            "id": "76609410",
+            "is_moderator": false,
+            "is_subscriber": false,
+            "is_turbo": false,
+            "name": "trueblunts"
+        },
+        "channel_id": "123456",
+        "colour": "#AEAE1E",
+        "flags": "",
+        "is_first_message": false,
+        "is_returning_chatter": false,
+        "message": "11 interceptors and no hit KEKW",
+        "message_id": "9197dce6-1a2e-4f3c-a80b-7a772810a42c",
+        "message_type": "text_message",
+        "timestamp": 1750273053278000,
+        "user_type": ""
+    },
+    {
+        "action_type": "text_message",
+        "author": {
+            "badges": [
+                {
+                    "clickAction": "VISIT_URL",
+                    "clickURL": "https://www.twitchcon.com/",
+                    "icons": [
+                        {
+                            "height": 18,
+                            "id": "18x18",
+                            "url": "https://static-cdn.jtvnw.net/badges/v1/1d4b03b9-51ea-42c9-8f29-698e3c85be3d/1",
+                            "width": 18
+                        },
+                        {
+                            "height": 36,
+                            "id": "36x36",
+                            "url": "https://static-cdn.jtvnw.net/badges/v1/1d4b03b9-51ea-42c9-8f29-698e3c85be3d/2",
+                            "width": 36
+                        },
+                        {
+                            "height": 72,
+                            "id": "72x72",
+                            "url": "https://static-cdn.jtvnw.net/badges/v1/1d4b03b9-51ea-42c9-8f29-698e3c85be3d/3",
+                            "width": 72
+                        }
+                    ],
+                    "name": "glitchcon2020",
+                    "title": "GlitchCon 2020",
+                    "version": 1
+                }
+            ],
+            "display_name": "4uEndu",
+            "id": "54086922",
+            "is_moderator": false,
+            "is_subscriber": false,
+            "is_turbo": false,
+            "name": "4uendu"
+        },
+        "channel_id": "123456",
+        "client_nonce": "ab74eaa5b00eef74ac32939160d43069",
+        "colour": "#8A2BE2",
+        "flags": "",
+        "is_first_message": false,
+        "is_returning_chatter": false,
+        "message": "It is reported that 12 F-22 Raptors , accompanied by KC-46 tankers, have flown from the US to RAF Lakenheath for onward deployment to Muwaffaq Salti Air Base in Jordan .",
+        "message_id": "19201978-0e2c-4456-821c-9ce7f3d72d93",
+        "message_type": "text_message",
+        "timestamp": 1750273053407000,
+        "user_type": ""
+    },
+    {
+        "action_type": "text_message",
+        "author": {
+            "display_name": "eolrv",
+            "id": "119839404",
+            "is_moderator": false,
+            "is_subscriber": false,
+            "is_turbo": false,
+            "name": "eolrv"
+        },
+        "channel_id": "123456",
+        "colour": "#000000",
+        "flags": "20-23:P.6",
+        "is_first_message": false,
+        "is_returning_chatter": false,
+        "message": "MaoZebron Tssk dont fuck with my oil big dawg",
+        "message_id": "d7523811-d581-47b8-a718-9ae7846789cd",
+        "message_type": "text_message",
+        "timestamp": 1750273053767000,
+        "user_type": ""
+    },
+    {
+        "action_type": "text_message",
+        "author": {
+            "badges": [
+                {
+                    "clickAction": "SUBSCRIBE",
+                    "clickURL": null,
+                    "icons": [
+                        {
+                            "height": 18,
+                            "id": "18x18",
+                            "url": "https://static-cdn.jtvnw.net/badges/v1/1e0e872a-f0e8-418a-a706-b3f74d16634b/1",
+                            "width": 18
+                        },
+                        {
+                            "height": 36,
+                            "id": "36x36",
+                            "url": "https://static-cdn.jtvnw.net/badges/v1/1e0e872a-f0e8-418a-a706-b3f74d16634b/2",
+                            "width": 36
+                        },
+                        {
+                            "height": 72,
+                            "id": "72x72",
+                            "url": "https://static-cdn.jtvnw.net/badges/v1/1e0e872a-f0e8-418a-a706-b3f74d16634b/3",
+                            "width": 72
+                        }
+                    ],
+                    "months": 53,
+                    "name": "subscriber",
+                    "title": "4-Year Subscriber",
+                    "version": 48
+                },
+                {
+                    "clickAction": "VISIT_URL",
+                    "clickURL": "https://gaming.amazon.com",
+                    "icons": [
+                        {
+                            "height": 18,
+                            "id": "18x18",
+                            "url": "https://static-cdn.jtvnw.net/badges/v1/bbbe0db0-a598-423e-86d0-f9fb98ca1933/1",
+                            "width": 18
+                        },
+                        {
+                            "height": 36,
+                            "id": "36x36",
+                            "url": "https://static-cdn.jtvnw.net/badges/v1/bbbe0db0-a598-423e-86d0-f9fb98ca1933/2",
+                            "width": 36
+                        },
+                        {
+                            "height": 72,
+                            "id": "72x72",
+                            "url": "https://static-cdn.jtvnw.net/badges/v1/bbbe0db0-a598-423e-86d0-f9fb98ca1933/3",
+                            "width": 72
+                        }
+                    ],
+                    "name": "premium",
+                    "title": "Prime Gaming",
+                    "version": 1
+                }
+            ],
+            "display_name": "pontiak1210",
+            "id": "151766303",
+            "is_moderator": false,
+            "is_subscriber": true,
+            "is_turbo": false,
+            "name": "pontiak1210"
+        },
+        "channel_id": "123456",
+        "client_nonce": "7aa0e3013c91ca762bec283f481cdbf2",
+        "colour": "#FF0000",
+        "flags": "",
+        "is_first_message": false,
+        "is_returning_chatter": false,
+        "message": "so iran use using its old arsenal to use up the iron dome missiles before it uses its good stuff? @foobar",
+        "message_id": "fdfd592f-551c-4fc7-8321-f5e2061c5c7b",
+        "message_type": "text_message",
+        "timestamp": 1750273053759000,
+        "user_type": ""
+    },
+    {
+        "action_type": "text_message",
+        "author": {
+            "badges": [
+                {
+                    "clickAction": "SUBSCRIBE",
+                    "clickURL": null,
+                    "icons": [
+                        {
+                            "height": 18,
+                            "id": "18x18",
+                            "url": "https://static-cdn.jtvnw.net/badges/v1/ac43fbe4-5f13-4d1d-bb29-d3b93dbf04f8/1",
+                            "width": 18
+                        },
+                        {
+                            "height": 36,
+                            "id": "36x36",
+                            "url": "https://static-cdn.jtvnw.net/badges/v1/ac43fbe4-5f13-4d1d-bb29-d3b93dbf04f8/2",
+                            "width": 36
+                        },
+                        {
+                            "height": 72,
+                            "id": "72x72",
+                            "url": "https://static-cdn.jtvnw.net/badges/v1/ac43fbe4-5f13-4d1d-bb29-d3b93dbf04f8/3",
+                            "width": 72
+                        }
+                    ],
+                    "months": 4,
+                    "name": "subscriber",
+                    "title": "3-Month Subscriber",
+                    "version": 3
+                },
+                {
+                    "clickAction": null,
+                    "clickURL": null,
+                    "icons": [
+                        {
+                            "height": 18,
+                            "id": "18x18",
+                            "url": "https://static-cdn.jtvnw.net/badges/v1/6c4783cd-0aba-4e75-a7a4-f48a70b665b0/1",
+                            "width": 18
+                        },
+                        {
+                            "height": 36,
+                            "id": "36x36",
+                            "url": "https://static-cdn.jtvnw.net/badges/v1/6c4783cd-0aba-4e75-a7a4-f48a70b665b0/2",
+                            "width": 36
+                        },
+                        {
+                            "height": 72,
+                            "id": "72x72",
+                            "url": "https://static-cdn.jtvnw.net/badges/v1/6c4783cd-0aba-4e75-a7a4-f48a70b665b0/3",
+                            "width": 72
+                        }
+                    ],
+                    "name": "sub_gifter",
+                    "title": "350 Gift Subs",
+                    "version": 350
+                }
+            ],
+            "display_name": "fooOnMe",
+            "id": "495333954",
+            "is_moderator": false,
+            "is_subscriber": true,
+            "is_turbo": false,
+            "name": "fooonme"
+        },
+        "channel_id": "123456",
+        "colour": "#EFFF00",
+        "flags": "",
+        "is_first_message": false,
+        "is_returning_chatter": false,
+        "message": "remember when u thought the sun was a missile",
+        "message_id": "81bed694-6f4b-43a9-8930-ab692c1abab8",
+        "message_type": "text_message",
+        "timestamp": 1750273054076000,
+        "user_type": ""
+    },
+    {
+        "action_type": "text_message",
+        "author": {
+            "display_name": "Saguaroten",
+            "id": "31232176",
+            "is_moderator": false,
+            "is_subscriber": false,
+            "is_turbo": false,
+            "name": "saguaroten"
+        },
+        "channel_id": "123456",
+        "client_nonce": "7848f5e6ede404a024ecc9365e848a8f",
+        "colour": "#2E8B57",
+        "flags": "",
+        "is_first_message": false,
+        "is_returning_chatter": false,
+        "message": "Missiles going to need some chase music now.",
+        "message_id": "5744b399-ddf1-4f47-ad27-5639c1131b87",
+        "message_type": "text_message",
+        "timestamp": 1750273054686000,
+        "user_type": ""
+    },
+    {
+        "action_type": "text_message",
+        "author": {
+            "badges": [
+                {
+                    "clickAction": "VISIT_URL",
+                    "clickURL": "https://gaming.amazon.com",
+                    "icons": [
+                        {
+                            "height": 18,
+                            "id": "18x18",
+                            "url": "https://static-cdn.jtvnw.net/badges/v1/bbbe0db0-a598-423e-86d0-f9fb98ca1933/1",
+                            "width": 18
+                        },
+                        {
+                            "height": 36,
+                            "id": "36x36",
+                            "url": "https://static-cdn.jtvnw.net/badges/v1/bbbe0db0-a598-423e-86d0-f9fb98ca1933/2",
+                            "width": 36
+                        },
+                        {
+                            "height": 72,
+                            "id": "72x72",
+                            "url": "https://static-cdn.jtvnw.net/badges/v1/bbbe0db0-a598-423e-86d0-f9fb98ca1933/3",
+                            "width": 72
+                        }
+                    ],
+                    "name": "premium",
+                    "title": "Prime Gaming",
+                    "version": 1
+                }
+            ],
+            "display_name": "prairydog",
+            "id": "47421206",
+            "is_moderator": false,
+            "is_subscriber": false,
+            "is_turbo": false,
+            "name": "prairydog"
+        },
+        "channel_id": "123456",
+        "client_nonce": "f65d97f184cfb05d95936f0d74627cba",
+        "colour": "#2E8B57",
+        "flags": "",
+        "is_first_message": false,
+        "is_returning_chatter": false,
+        "message": "blmCheer",
+        "message_id": "b712e10f-dcec-4f1b-b567-eb8e489a4c29",
+        "message_type": "text_message",
+        "timestamp": 1750273055003000,
+        "user_type": ""
+    },
+    {
+        "action_type": "text_message",
+        "author": {
+            "badges": [
+                {
+                    "clickAction": "SUBSCRIBE",
+                    "clickURL": null,
+                    "icons": [
+                        {
+                            "height": 18,
+                            "id": "18x18",
+                            "url": "https://static-cdn.jtvnw.net/badges/v1/c630db76-0319-4887-968a-3ea74f0692b3/1",
+                            "width": 18
+                        },
+                        {
+                            "height": 36,
+                            "id": "36x36",
+                            "url": "https://static-cdn.jtvnw.net/badges/v1/c630db76-0319-4887-968a-3ea74f0692b3/2",
+                            "width": 36
+                        },
+                        {
+                            "height": 72,
+                            "id": "72x72",
+                            "url": "https://static-cdn.jtvnw.net/badges/v1/c630db76-0319-4887-968a-3ea74f0692b3/3",
+                            "width": 72
+                        }
+                    ],
+                    "months": 10,
+                    "name": "subscriber",
+                    "title": "9-Month Subscriber",
+                    "version": 9
+                },
+                {
+                    "clickAction": "VISIT_URL",
+                    "clickURL": "http://blog.twitch.tv/2025/04/01/april-fools-day/",
+                    "icons": [
+                        {
+                            "height": 18,
+                            "id": "18x18",
+                            "url": "https://static-cdn.jtvnw.net/badges/v1/e2ba99f4-6079-44d1-8c07-4ca6b58de61f/1",
+                            "width": 18
+                        },
+                        {
+                            "height": 36,
+                            "id": "36x36",
+                            "url": "https://static-cdn.jtvnw.net/badges/v1/e2ba99f4-6079-44d1-8c07-4ca6b58de61f/2",
+                            "width": 36
+                        },
+                        {
+                            "height": 72,
+                            "id": "72x72",
+                            "url": "https://static-cdn.jtvnw.net/badges/v1/e2ba99f4-6079-44d1-8c07-4ca6b58de61f/3",
+                            "width": 72
+                        }
+                    ],
+                    "name": "gone_bananas",
+                    "title": "Gone Bananas Badge",
+                    "version": 1
+                }
+            ],
+            "display_name": "PeachyPeachyPrincess",
+            "id": "736187589",
+            "is_moderator": false,
+            "is_subscriber": true,
+            "is_turbo": false,
+            "name": "peachypeachyprincess"
+        },
+        "channel_id": "123456",
+        "colour": "#FCC5DA",
+        "flags": "",
+        "is_first_message": false,
+        "is_returning_chatter": false,
+        "message": "I watched this video earlier. manufacturing consent for the U.S. to bomb Israel it seems",
+        "message_id": "ab241dcb-a716-4fc7-a8ba-52d3874429a0",
+        "message_type": "text_message",
+        "timestamp": 1750273055560000,
+        "user_type": ""
+    },
+    {
+        "action_type": "text_message",
+        "author": {
+            "badges": [
+                {
+                    "clickAction": "SUBSCRIBE",
+                    "clickURL": null,
+                    "icons": [
+                        {
+                            "height": 18,
+                            "id": "18x18",
+                            "url": "https://static-cdn.jtvnw.net/badges/v1/733626d6-4f9b-4318-b0b2-ebed17bcfe8e/1",
+                            "width": 18
+                        },
+                        {
+                            "height": 36,
+                            "id": "36x36",
+                            "url": "https://static-cdn.jtvnw.net/badges/v1/733626d6-4f9b-4318-b0b2-ebed17bcfe8e/2",
+                            "width": 36
+                        },
+                        {
+                            "height": 72,
+                            "id": "72x72",
+                            "url": "https://static-cdn.jtvnw.net/badges/v1/733626d6-4f9b-4318-b0b2-ebed17bcfe8e/3",
+                            "width": 72
+                        }
+                    ],
+                    "months": 1,
+                    "name": "subscriber",
+                    "title": "Subscriber",
+                    "version": 0
+                }
+            ],
+            "display_name": "theerealsteele",
+            "id": "1287188402",
+            "is_moderator": false,
+            "is_subscriber": true,
+            "is_turbo": false,
+            "name": "theerealsteele"
+        },
+        "channel_id": "123456",
+        "client_nonce": "6e8bd7fd53ccae07ef229b741bca6f2c",
+        "colour": "",
+        "flags": "",
+        "is_first_message": false,
+        "is_returning_chatter": false,
+        "message": "@foobar Show video???",
+        "message_id": "89a3a59f-ed09-4d0a-a1d9-0c0e5e3aa3af",
+        "message_type": "text_message",
+        "timestamp": 1750273056000000,
+        "user_type": ""
+    }
+]

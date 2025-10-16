@@ -1,0 +1,19 @@
+<p-scrollpanel [style]="{ width: '100%', height: '100%' }">
+    <!-- swap switch for component outlet? -->
+    @switch (streamsStore.activeStream()!.platform) {
+        @case (Platform.Twitch) {
+            @for (item of streamsStore.messagesEntities(); track item.id) {
+                <app-message-tw
+                    [message]="item"
+                    (authorClicked)="authorClicked.emit($event)" />
+            }
+        }
+        @case (Platform.Youtube) {
+            @for (item of streamsStore.messagesEntities(); track item.id) {
+                <app-message-yt
+                    [message]="item"
+                    (authorClicked)="authorClicked.emit($event)" />
+            }
+        }
+    }
+</p-scrollpanel>

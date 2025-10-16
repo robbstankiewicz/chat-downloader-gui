@@ -1,0 +1,26 @@
+[
+    {
+        "action_type": "remove_chat_item",
+        "message": null,
+        "message_type": "ban_user",
+        "target_message_id": "ChwKGkNOdjdoLV9rc1k0REZTMDVzd0FkQnVZY0t3"
+    }, 
+    {
+        "action_type": "remove_chat_item",
+        "message": null,
+        "message_type": "ban_user",
+        "target_message_id": "ChwKGkNQT2EwSWpsc1k0REZWQTdzd0FkbDRRWkNn"
+    }, 
+    {
+        "action_type": "remove_chat_item",
+        "message": null,
+        "message_type": "ban_user",
+        "target_message_id": "ChwKGkNKTEZtNExyc1k0REZiQUsxZ0Fkc084anBB"
+    }, 
+    {
+        "action_type": "remove_chat_item",
+        "message": null,
+        "message_type": "ban_user",
+        "target_message_id": "ChwKGkNMdjRfLTN5c1k0REZSd0kxZ0FkQVBzRkFB"
+    }
+]

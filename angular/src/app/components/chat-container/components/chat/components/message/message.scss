@@ -1,0 +1,35 @@
+:host {
+    width: 100%;
+    overflow: hidden;
+    max-width: 100%;
+    display: block;
+    margin: 0.2rem 0;
+    &.sub {
+        .value {
+            color: var(--p-green-600);
+        }
+    }
+    &.ban {
+        .value {
+            color: var(--p-red-600);
+        }
+    }
+}
+
+.author {
+    font-weight: 700;
+    color: var(--p-green-600);
+    cursor: pointer;
+    &--banned {
+        color: var(--p-red-600);
+    }
+}
+
+.time {
+    display: inline-block;
+    width: 3.1rem;
+}
+
+.value {
+    color: var(--p-slate-200);
+}
