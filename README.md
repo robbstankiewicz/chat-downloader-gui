@@ -3,7 +3,8 @@
 This is a GUI for [Chat Downloader](https://github.com/xenova/chat-downloader). It downloads only selected [message types](https://chat-downloader.readthedocs.io/en/latest/options.html#:~:text=message%20groups%20and-,message%20types,-are%20allowed%20for) - messages, subs/superchats and bans by threading the original process. 
 
 
-https://github.com/user-attachments/assets/0b3f2612-1f2b-4fe4-9538-f10b745a80f1
+https://github.com/user-attachments/assets/087aecae-215d-4e01-a946-55aae0250da1
+
 
 
 | Platform | Download Link |
