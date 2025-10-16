@@ -1,0 +1,84 @@
+{
+    "name": "chat-downloader-gui",
+    "version": "1.0.0",
+    "description": "Gui for chat-downloader library",
+    "main": "main.js",
+    "type": "module",
+    "scripts": {
+        "package:linux": "npm run build && electron-builder --linux",
+        "build:backend:linux": "cd server && pyinstaller main.spec --distpath=dist/linux",
+        "build:backend:win": "cd server && pyinstaller main.spec --distpath=dist/win",
+        "build:frontend": "cd angular && npx ng build --configuration production --output-hashing none --base-href ./",
+        "dev:frontend": "cd angular && npx ng serve",
+        "dev": "concurrently -k \"npm run dev:frontend\" \"wait-on http://localhost:4200 && cross-env NODE_ENV=development electron .\"",
+        "setup": "npm i && cd angular && npm i && cd ../server && pip install -r requirements.txt"
+    },
+    "author": "Robert Stankiewicz <john@doe.com>",
+    "homepage": "https://github.com/robbstankiewicz/chat-dowloader-gui",
+    "dependencies": {
+        "tree-kill": "^1.2.2",
+        "get-port": "^7.1.0"
+    },
+    "devDependencies": {
+        "concurrently": "^9.1.2",
+        "cross-env": "^7.0.3",
+        "electron": "^36.4.0",
+        "electron-builder": "^26.0.12",
+        "wait-on": "^8.0.3"
+    },
+    "build": {
+        "artifactName": "${name}-${os}.${ext}",
+        "appId": "com.example.chat-downloader-gui",
+        "productName": "Chat Downloader GUI",
+        "directories": {
+            "output": "release",
+            "buildResources": "assets"
+        },
+        "files": [
+            "main.js",
+            "package.json",
+            "angular/dist/angular/**/*"
+        ],
+        "win": {
+            "target": [
+                {
+                    "target": "nsis",
+                    "arch": [
+                        "x64"
+                    ]
+                }
+            ],
+            "extraResources": [
+                {
+                    "from": "server/dist/win/main.exe",
+                    "to": "app/server/main.exe"
+                }
+            ]
+        },
+        "mac": {
+            "category": "public.app-category.utilities",
+            "target": [
+                "dmg",
+                "zip"
+            ],
+            "icon": "assets/icon.icns"
+        },
+        "linux": {
+            "target": [
+                "AppImage",
+                "deb"
+            ],
+            "icon": "assets/icon.png",
+            "extraResources": [
+                {
+                    "from": "server/dist/linux/main",
+                    "to": "app/server/main"
+                }
+            ]
+        },
+        "nsis": {
+            "oneClick": true,
+            "deleteAppDataOnUninstall": true
+        }
+    }
+}

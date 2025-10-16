@@ -1,0 +1,146 @@
+name: Build and Release
+
+on:
+    push:
+        branches: [main, master]
+        tags: ["v*"]
+    pull_request:
+        branches: [main, master]
+    workflow_dispatch:
+
+jobs:
+    build-windows:
+        runs-on: windows-latest
+        steps:
+            - name: Checkout repository
+              uses: actions/checkout@v4
+
+            - name: Set up Node.js
+              uses: actions/setup-node@v5
+              with:
+                  node-version: "22"
+                  cache: "npm"
+
+            - name: Set up Python
+              uses: actions/setup-python@v5
+              with:
+                  python-version: "3.10"
+                  cache: "pip"
+
+            - name: Install root npm dependencies
+              run: |
+                  npm ci
+
+            - name: Install frontend dependencies
+              working-directory: angular
+              run: |
+                  npm ci
+
+            - name: Install Python dependencies
+              run: |
+                  python -m pip install --upgrade pip
+                  pip install -r server/requirements.txt
+
+            - name: Build frontend
+              run: npm run build:frontend
+
+            - name: Build backend (Windows)
+              run: npm run build:backend:win
+
+            - name: Package for Windows
+              run: |
+                  npx electron-builder --win --x64 --publish never
+
+            - name: Upload Artifacts
+              uses: actions/upload-artifact@v4
+              with:
+                  name: chat-downloader-gui-win
+                  path: |
+                      release/*.exe
+                  if-no-files-found: error
+    build-linux:
+        runs-on: ubuntu-22.04
+        steps:
+            - name: Checkout repository
+              uses: actions/checkout@v4
+
+            - name: Set up Node.js
+              uses: actions/setup-node@v5
+              with:
+                  node-version: "22"
+                  cache: "npm"
+
+            - name: Set up Python
+              uses: actions/setup-python@v5
+              with:
+                  python-version: "3.10"
+                  cache: "pip"
+            - name: Install root npm dependencies
+              run: |
+                  npm ci
+            - name: Install frontend dependencies
+              working-directory: angular
+              run: |
+                  npm ci
+
+            - name: Install Python dependencies
+              run: |
+                  python -m pip install --upgrade pip
+                  pip install -r server/requirements.txt
+
+            - name: Build frontend
+              run: npm run build:frontend
+
+            - name: Build backend (Linux)
+              run: npm run build:backend:linux
+
+            - name: Package for Linux
+              run: |
+                  npx electron-builder --linux --x64 --publish never
+
+            - name: Upload Artifacts
+              uses: actions/upload-artifact@v4
+              with:
+                  name: chat-downloader-gui-linux
+                  path: |
+                      release/*.AppImage
+                      release/*.deb
+                  if-no-files-found: error
+    create-release:
+        needs: [build-windows, build-linux]
+        runs-on: ubuntu-latest
+        if: startsWith(github.ref, 'refs/tags/')
+        permissions:
+            contents: write
+        steps:
+            - name: Download all artifacts
+              uses: actions/download-artifact@v4
+              with:
+                  path: ./artifacts
+
+            - name: List downloaded files
+              run: |
+                  find ./artifacts -type f -name "*" | sort
+                  echo "Files ready for release:"
+                  ls -la ./artifacts/*/
+
+            - name: Create Release
+              id: create_release
+              uses: softprops/action-gh-release@v2
+              with:
+                  tag_name: ${{ github.ref_name }}
+                  name: Release ${{ github.ref_name }}
+                  body: |
+                      Automated release for version ${{ github.ref_name }}
+
+                      ### Downloads
+                      - **Windows**: `.exe` installer
+                      - **Linux**: `.AppImage` and `.deb` packages
+
+                      Built from commit: ${{ github.sha }}
+                  draft: false
+                  prerelease: false
+                  files: |
+                      artifacts/chat-downloader-gui-win/*.exe
+                      artifacts/chat-downloader-gui-linux/*.AppImage
+                      artifacts/chat-downloader-gui-linux/*.deb

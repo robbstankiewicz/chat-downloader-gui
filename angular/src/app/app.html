@@ -1,0 +1,11 @@
+@let ready = serverReady$ | async;
+
+@if (ready) {
+    <app-stream-list [logFilePath]="ready.log_file" />
+    <app-chat-container />
+} @else {
+    <div class="spinner-container">
+        <i class="pi pi-spin pi-spinner"></i>
+    </div>
+}
+<p-toast position="bottom-center" />

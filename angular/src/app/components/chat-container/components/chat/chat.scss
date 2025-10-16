@@ -1,0 +1,16 @@
+:host {
+    flex: 1 1;
+    overflow: hidden;
+    padding: 0.5em;
+    background-color: var(--p-slate-900);
+}
+
+.scroll-container {
+    height: 100%;
+}
+app-message {
+    // height: 50px;
+}
+p-scrollpanel {
+    height: 100%;
+}

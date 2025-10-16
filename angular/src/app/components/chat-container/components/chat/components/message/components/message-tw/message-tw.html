@@ -1,0 +1,23 @@
+@let data = message();
+<span class="time">{{ timestamp() }}</span>
+<span
+    class="author"
+    [style.color]="isSystem() ? null : data.author.color"
+    (click)="authorClicked.emit(data.author)">
+    {{ name() }}:
+</span>
+@switch (data.banType) {
+    @case ('timeout') {
+        <span class="value author" (click)="authorClicked.emit(data.author)"
+            >User <span>{{ data.author.name }}</span> got timeout</span
+        >
+    }
+    @case ('permaban') {
+        <span class="value author" (click)="authorClicked.emit(data.author)"
+            >User <span>{{ data.author.name }}</span> got permaban</span
+        >
+    }
+    @default {
+        <span class="value">{{ messageValue() }}</span>
+    }
+}

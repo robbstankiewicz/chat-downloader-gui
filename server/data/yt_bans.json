@@ -1,0 +1,80 @@
+[
+    {
+        "action_type": "remove_chat_item_by_author",
+        "author": {
+            "id": "UCMxKrXWqir5y76ynInqbRQg",
+            "name": ""
+        },
+        "message": null,
+        "message_type": "ban_user"
+    }, 
+    {
+        "action_type": "remove_chat_item",
+        "message": null,
+        "message_type": "ban_user",
+        "target_message_id": "ChwKGkNKTG9rZlhpLTQwREZRZkR3Z1FkMlNzVU93"
+    }, 
+    {
+        "action_type": "remove_chat_item",
+        "message": null,
+        "message_type": "ban_user",
+        "target_message_id": "ChwKGkNLajEtX1RsLTQwREZTMGhzd0FkaThzS053"
+    }, 
+    {
+        "action_type": "remove_chat_item",
+        "message": null,
+        "message_type": "ban_user",
+        "target_message_id": "ChwKGkNQN2ZoWTdtLTQwREZRY0kxZ0FkS1gwY1lB"
+    }, 
+    {
+        "action_type": "remove_chat_item",
+        "message": null,
+        "message_type": "ban_user",
+        "target_message_id": "ChwKGkNPdmpfS1RuLTQwREZYSXUxZ0FkWWh3cFd3"
+    }, 
+    {
+        "action_type": "remove_chat_item",
+        "message": null,
+        "message_type": "ban_user",
+        "target_message_id": "ChwKGkNLWHl6UDNwLTQwREZVOF9yUVlkX3cwWDlR"
+    }, 
+    {
+        "action_type": "remove_chat_item",
+        "message": null,
+        "message_type": "ban_user",
+        "target_message_id": "ChwKGkNQZUJ3b1RyLTQwREZac0sxZ0FkcE5BVC13"
+    }, 
+    {
+        "action_type": "remove_chat_item_by_author",
+        "author": {
+            "id": "UC_KwbaK7ot82cEAT_WE0d3A",
+            "name": ""
+        },
+        "message": null,
+        "message_type": "ban_user"
+    }, 
+    {
+        "action_type": "remove_chat_item",
+        "message": null,
+        "message_type": "ban_user",
+        "target_message_id": "ChwKGkNMck02Y1hyLTQwREZaRFVsQWtkcVFzQjRB"
+    }, 
+    {
+        "action_type": "remove_chat_item_by_author",
+        "author": {
+            "id": "UCcTJM3orF3JKeazZLrG1t_g",
+            "name": ""
+        },
+        "message": null,
+        "message_type": "ban_user"
+    }, 
+    {
+        "action_type": "remove_chat_item_by_author",
+        "author": {
+            "id": "UCUlFujj9vCX40QmL29T1eSQ",
+            "name": ""
+        },
+        "message": null,
+        "message_type": "ban_user"
+    }
+]

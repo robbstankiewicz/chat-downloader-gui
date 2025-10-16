@@ -1,0 +1,4233 @@
+[
+    {
+        "action_type": "add_chat_item",
+        "author": {
+            "id": "UCvJ82bKaixUaCJOGMXzyF5w",
+            "images": [
+                {
+                    "id": "source",
+                    "url": "https://yt4.ggpht.com/ytc/AIdro_lm_zOZN6FVCMC9XEgozZJNxopPmyd0qspJwRJFxH0emdOvBN8EgbvmEsBy4G2A8EPFaA"
+                },
+                {
+                    "height": 32,
+                    "id": "32x32",
+                    "url": "https://yt4.ggpht.com/ytc/AIdro_lm_zOZN6FVCMC9XEgozZJNxopPmyd0qspJwRJFxH0emdOvBN8EgbvmEsBy4G2A8EPFaA=s32-c-k-c0x00ffffff-no-rj",
+                    "width": 32
+                },
+                {
+                    "height": 64,
+                    "id": "64x64",
+                    "url": "https://yt4.ggpht.com/ytc/AIdro_lm_zOZN6FVCMC9XEgozZJNxopPmyd0qspJwRJFxH0emdOvBN8EgbvmEsBy4G2A8EPFaA=s64-c-k-c0x00ffffff-no-rj",
+                    "width": 64
+                }
+            ],
+            "name": "John Shotgun"
+        },
+        "emotes": [
+            {
+                "id": "\ud83d\udcaa",
+                "images": [
+                    {
+                        "id": "source",
+                        "url": "https://fonts.gstatic.com/s/e/notoemoji/15.1/1f4aa/72.png"
+                    },
+                    {
+                        "url": "https://fonts.gstatic.com/s/e/notoemoji/15.1/1f4aa/72.png"
+                    }
+                ],
+                "is_custom_emoji": false,
+                "name": ":flexed_biceps:",
+                "search_terms": [
+                    "flexed",
+                    "biceps",
+                    "muscle"
+                ],
+                "shortcuts": [
+                    ":flexed_biceps:",
+                    ":muscle:"
+                ]
+            }
+        ],
+        "message": "I am using Big Bob's HDR build when i play :flexed_biceps::flexed_biceps::flexed_biceps:",
+        "message_id": "ChwKGkNLbnRsYjdqc1k0REZlTUsxZ0FkY0NRY2NB",
+        "message_type": "text_message",
+        "timestamp": 1752132844094260
+    }, 
+    {
+        "action_type": "add_chat_item",
+        "author": {
+            "badges": [
+                {
+                    "icons": [
+                        {
+                            "id": "source",
+                            "url": "https://yt3.ggpht.com/zjvtMjZCg_7joyLzs_V8BvQ0L5MOYHvWrzzHlSKQrf10RQVGUdcexHNNcFozuvWwmpYzFlpc"
+                        },
+                        {
+                            "height": 16,
+                            "id": "16x16",
+                            "url": "https://yt3.ggpht.com/zjvtMjZCg_7joyLzs_V8BvQ0L5MOYHvWrzzHlSKQrf10RQVGUdcexHNNcFozuvWwmpYzFlpc=s16-c-k",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "id": "32x32",
+                            "url": "https://yt3.ggpht.com/zjvtMjZCg_7joyLzs_V8BvQ0L5MOYHvWrzzHlSKQrf10RQVGUdcexHNNcFozuvWwmpYzFlpc=s32-c-k",
+                            "width": 32
+                        }
+                    ],
+                    "title": "Member (1 month)"
+                }
+            ],
+            "id": "UC6Nwr8s5aZtkiSTk2m1Db-w",
+            "images": [
+                {
+                    "id": "source",
+                    "url": "https://yt4.ggpht.com/BeQhusgVOY1Q25EYaqEpgit8Nx6eyPmDK7iLXso7hB9CVbINncT8A718mll3EubQhslz1o9Ga5c"
+                },
+                {
+                    "height": 32,
+                    "id": "32x32",
+                    "url": "https://yt4.ggpht.com/BeQhusgVOY1Q25EYaqEpgit8Nx6eyPmDK7iLXso7hB9CVbINncT8A718mll3EubQhslz1o9Ga5c=s32-c-k-c0x00ffffff-no-rj",
+                    "width": 32
+                },
+                {
+                    "height": 64,
+                    "id": "64x64",
+                    "url": "https://yt4.ggpht.com/BeQhusgVOY1Q25EYaqEpgit8Nx6eyPmDK7iLXso7hB9CVbINncT8A718mll3EubQhslz1o9Ga5c=s64-c-k-c0x00ffffff-no-rj",
+                    "width": 64
+                }
+            ],
+            "name": "BigHomie"
+        },
+        "emotes": [
+            {
+                "id": "\ud83e\udd18",
+                "images": [
+                    {
+                        "id": "source",
+                        "url": "https://fonts.gstatic.com/s/e/notoemoji/15.1/1f918/72.png"
+                    },
+                    {
+                        "url": "https://fonts.gstatic.com/s/e/notoemoji/15.1/1f918/72.png"
+                    }
+                ],
+                "is_custom_emoji": false,
+                "name": ":sign_of_the_horns:",
+                "search_terms": [
+                    "sign",
+                    "of",
+                    "the",
+                    "horns"
+                ],
+                "shortcuts": [
+                    ":sign_of_the_horns:"
+                ]
+            },
+            {
+                "id": "\ud83c\udf7b",
+                "images": [
+                    {
+                        "id": "source",
+                        "url": "https://fonts.gstatic.com/s/e/notoemoji/15.1/1f37b/72.png"
+                    },
+                    {
+                        "url": "https://fonts.gstatic.com/s/e/notoemoji/15.1/1f37b/72.png"
+                    }
+                ],
+                "is_custom_emoji": false,
+                "name": ":clinking_beer_mugs:",
+                "search_terms": [
+                    "clinking",
+                    "beer",
+                    "mugs",
+                    "beers"
+                ],
+                "shortcuts": [
+                    ":clinking_beer_mugs:",
+                    ":beers:"
+                ]
+            }
+        ],
+        "message": "much love bobby:sign_of_the_horns::clinking_beer_mugs:",
+        "message_id": "ChwKGkNQNlFrOERqc1k0REZVT2E1UWNkSWhVN2JR",
+        "message_type": "text_message",
+        "timestamp": 1752132848243459
+    }, 
+    {
+        "action_type": "add_chat_item",
+        "author": {
+            "id": "UCE5ZJCebOEK0GKiZQzhcfAQ",
+            "images": [
+                {
+                    "id": "source",
+                    "url": "https://yt4.ggpht.com/ytc/AIdro_mkdeTBGlDh-mszZu7GIFaSddBTI--mUeWebPpa52I"
+                },
+                {
+                    "height": 32,
+                    "id": "32x32",
+                    "url": "https://yt4.ggpht.com/ytc/AIdro_mkdeTBGlDh-mszZu7GIFaSddBTI--mUeWebPpa52I=s32-c-k-c0x00ffffff-no-rj",
+                    "width": 32
+                },
+                {
+                    "height": 64,
+                    "id": "64x64",
+                    "url": "https://yt4.ggpht.com/ytc/AIdro_mkdeTBGlDh-mszZu7GIFaSddBTI--mUeWebPpa52I=s64-c-k-c0x00ffffff-no-rj",
+                    "width": 64
+                }
+            ],
+            "name": "steve quist"
+        },
+        "message": "lfg BigHomie",
+        "message_id": "ChwKGkNKQzlnTUxqc1k0REZRVUsxZ0FkOGdzbHRn",
+        "message_type": "text_message",
+        "timestamp": 1752132852133987
+    }, 
+    {
+        "action_type": "add_chat_item",
+        "author": {
+            "badges": [
+                {
+                    "icons": [
+                        {
+                            "id": "source",
+                            "url": "https://yt3.ggpht.com/zjvtMjZCg_7joyLzs_V8BvQ0L5MOYHvWrzzHlSKQrf10RQVGUdcexHNNcFozuvWwmpYzFlpc"
+                        },
+                        {
+                            "height": 16,
+                            "id": "16x16",
+                            "url": "https://yt3.ggpht.com/zjvtMjZCg_7joyLzs_V8BvQ0L5MOYHvWrzzHlSKQrf10RQVGUdcexHNNcFozuvWwmpYzFlpc=s16-c-k",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "id": "32x32",
+                            "url": "https://yt3.ggpht.com/zjvtMjZCg_7joyLzs_V8BvQ0L5MOYHvWrzzHlSKQrf10RQVGUdcexHNNcFozuvWwmpYzFlpc=s32-c-k",
+                            "width": 32
+                        }
+                    ],
+                    "title": "Member (1 month)"
+                }
+            ],
+            "id": "UC6Nwr8s5aZtkiSTk2m1Db-w",
+            "images": [
+                {
+                    "id": "source",
+                    "url": "https://yt4.ggpht.com/BeQhusgVOY1Q25EYaqEpgit8Nx6eyPmDK7iLXso7hB9CVbINncT8A718mll3EubQhslz1o9Ga5c"
+                },
+                {
+                    "height": 32,
+                    "id": "32x32",
+                    "url": "https://yt4.ggpht.com/BeQhusgVOY1Q25EYaqEpgit8Nx6eyPmDK7iLXso7hB9CVbINncT8A718mll3EubQhslz1o9Ga5c=s32-c-k-c0x00ffffff-no-rj",
+                    "width": 32
+                },
+                {
+                    "height": 64,
+                    "id": "64x64",
+                    "url": "https://yt4.ggpht.com/BeQhusgVOY1Q25EYaqEpgit8Nx6eyPmDK7iLXso7hB9CVbINncT8A718mll3EubQhslz1o9Ga5c=s64-c-k-c0x00ffffff-no-rj",
+                    "width": 64
+                }
+            ],
+            "name": "BigHomie"
+        },
+        "message": "don't even get me started oogie",
+        "message_id": "ChwKGkNQZnktc1hqc1k0REZibVk1UWNkRVRZcE9B",
+        "message_type": "text_message",
+        "timestamp": 1752132860428973
+    }, 
+    {
+        "action_type": "add_chat_item",
+        "author": {
+            "badges": [
+                {
+                    "icon_name": "moderator",
+                    "title": "Moderator"
+                },
+                {
+                    "icons": [
+                        {
+                            "id": "source",
+                            "url": "https://yt3.ggpht.com/WTHXbCJZspVQ2WyZu-9Qmyyb_RPr4t8rFamGp6hAhHIBqDd58Wb45tLwvnhix11w80zCbKtCzw"
+                        },
+                        {
+                            "height": 16,
+                            "id": "16x16",
+                            "url": "https://yt3.ggpht.com/WTHXbCJZspVQ2WyZu-9Qmyyb_RPr4t8rFamGp6hAhHIBqDd58Wb45tLwvnhix11w80zCbKtCzw=s16-c-k",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "id": "32x32",
+                            "url": "https://yt3.ggpht.com/WTHXbCJZspVQ2WyZu-9Qmyyb_RPr4t8rFamGp6hAhHIBqDd58Wb45tLwvnhix11w80zCbKtCzw=s32-c-k",
+                            "width": 32
+                        }
+                    ],
+                    "title": "Member (1 year)"
+                }
+            ],
+            "id": "UCL3c1Fs_Lfaf4VHVUt8nTDw",
+            "images": [
+                {
+                    "id": "source",
+                    "url": "https://yt4.ggpht.com/AFByDu6GyGPYBf-94O6hWKLyvoRs5dyqwyk13dTIiX2pyYytpG5UKSp-qi7w9iV8rd_k_MHu4g"
+                },
+                {
+                    "height": 32,
+                    "id": "32x32",
+                    "url": "https://yt4.ggpht.com/AFByDu6GyGPYBf-94O6hWKLyvoRs5dyqwyk13dTIiX2pyYytpG5UKSp-qi7w9iV8rd_k_MHu4g=s32-c-k-c0x00ffffff-no-rj",
+                    "width": 32
+                },
+                {
+                    "height": 64,
+                    "id": "64x64",
+                    "url": "https://yt4.ggpht.com/AFByDu6GyGPYBf-94O6hWKLyvoRs5dyqwyk13dTIiX2pyYytpG5UKSp-qi7w9iV8rd_k_MHu4g=s64-c-k-c0x00ffffff-no-rj",
+                    "width": 64
+                }
+            ],
+            "name": "Oogie Boogie"
+        },
+        "emotes": [
+            {
+                "id": "\ud83e\udd70",
+                "images": [
+                    {
+                        "id": "source",
+                        "url": "https://fonts.gstatic.com/s/e/notoemoji/15.1/1f970/72.png"
+                    },
+                    {
+                        "url": "https://fonts.gstatic.com/s/e/notoemoji/15.1/1f970/72.png"
+                    }
+                ],
+                "is_custom_emoji": false,
+                "name": ":smiling_face_with_hearts:",
+                "search_terms": [
+                    "smiling",
+                    "face",
+                    "with",
+                    "hearts"
+                ],
+                "shortcuts": [
+                    ":smiling_face_with_hearts:"
+                ]
+            }
+        ],
+        "message": "BIG HOMIE!!! Welcome to the SCARF SQUAD!!! :smiling_face_with_hearts:",
+        "message_id": "ChwKGkNKT21nc25qc1k0REZhN0J3Z1FkRnkwNVpB",
+        "message_type": "text_message",
+        "timestamp": 1752132866842181
+    }, 
+    {
+        "action_type": "add_chat_item",
+        "author": {
+            "badges": [
+                {
+                    "icons": [
+                        {
+                            "id": "source",
+                            "url": "https://yt3.ggpht.com/zjvtMjZCg_7joyLzs_V8BvQ0L5MOYHvWrzzHlSKQrf10RQVGUdcexHNNcFozuvWwmpYzFlpc"
+                        },
+                        {
+                            "height": 16,
+                            "id": "16x16",
+                            "url": "https://yt3.ggpht.com/zjvtMjZCg_7joyLzs_V8BvQ0L5MOYHvWrzzHlSKQrf10RQVGUdcexHNNcFozuvWwmpYzFlpc=s16-c-k",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "id": "32x32",
+                            "url": "https://yt3.ggpht.com/zjvtMjZCg_7joyLzs_V8BvQ0L5MOYHvWrzzHlSKQrf10RQVGUdcexHNNcFozuvWwmpYzFlpc=s32-c-k",
+                            "width": 32
+                        }
+                    ],
+                    "title": "Member (1 month)"
+                }
+            ],
+            "id": "UC6Nwr8s5aZtkiSTk2m1Db-w",
+            "images": [
+                {
+                    "id": "source",
+                    "url": "https://yt4.ggpht.com/BeQhusgVOY1Q25EYaqEpgit8Nx6eyPmDK7iLXso7hB9CVbINncT8A718mll3EubQhslz1o9Ga5c"
+                },
+                {
+                    "height": 32,
+                    "id": "32x32",
+                    "url": "https://yt4.ggpht.com/BeQhusgVOY1Q25EYaqEpgit8Nx6eyPmDK7iLXso7hB9CVbINncT8A718mll3EubQhslz1o9Ga5c=s32-c-k-c0x00ffffff-no-rj",
+                    "width": 32
+                },
+                {
+                    "height": 64,
+                    "id": "64x64",
+                    "url": "https://yt4.ggpht.com/BeQhusgVOY1Q25EYaqEpgit8Nx6eyPmDK7iLXso7hB9CVbINncT8A718mll3EubQhslz1o9Ga5c=s64-c-k-c0x00ffffff-no-rj",
+                    "width": 64
+                }
+            ],
+            "name": "BigHomie"
+        },
+        "message": "lol",
+        "message_id": "ChwKGkNJTHl0TW5qc1k0REZjZVI1UWNkbW1zSXln",
+        "message_type": "text_message",
+        "timestamp": 1752132867671369
+    }, 
+    {
+        "action_type": "add_chat_item",
+        "author": {
+            "badges": [
+                {
+                    "icon_name": "moderator",
+                    "title": "Moderator"
+                },
+                {
+                    "icons": [
+                        {
+                            "id": "source",
+                            "url": "https://yt3.ggpht.com/WTHXbCJZspVQ2WyZu-9Qmyyb_RPr4t8rFamGp6hAhHIBqDd58Wb45tLwvnhix11w80zCbKtCzw"
+                        },
+                        {
+                            "height": 16,
+                            "id": "16x16",
+                            "url": "https://yt3.ggpht.com/WTHXbCJZspVQ2WyZu-9Qmyyb_RPr4t8rFamGp6hAhHIBqDd58Wb45tLwvnhix11w80zCbKtCzw=s16-c-k",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "id": "32x32",
+                            "url": "https://yt3.ggpht.com/WTHXbCJZspVQ2WyZu-9Qmyyb_RPr4t8rFamGp6hAhHIBqDd58Wb45tLwvnhix11w80zCbKtCzw=s32-c-k",
+                            "width": 32
+                        }
+                    ],
+                    "title": "Member (1 year)"
+                }
+            ],
+            "id": "UCL3c1Fs_Lfaf4VHVUt8nTDw",
+            "images": [
+                {
+                    "id": "source",
+                    "url": "https://yt4.ggpht.com/AFByDu6GyGPYBf-94O6hWKLyvoRs5dyqwyk13dTIiX2pyYytpG5UKSp-qi7w9iV8rd_k_MHu4g"
+                },
+                {
+                    "height": 32,
+                    "id": "32x32",
+                    "url": "https://yt4.ggpht.com/AFByDu6GyGPYBf-94O6hWKLyvoRs5dyqwyk13dTIiX2pyYytpG5UKSp-qi7w9iV8rd_k_MHu4g=s32-c-k-c0x00ffffff-no-rj",
+                    "width": 32
+                },
+                {
+                    "height": 64,
+                    "id": "64x64",
+                    "url": "https://yt4.ggpht.com/AFByDu6GyGPYBf-94O6hWKLyvoRs5dyqwyk13dTIiX2pyYytpG5UKSp-qi7w9iV8rd_k_MHu4g=s64-c-k-c0x00ffffff-no-rj",
+                    "width": 64
+                }
+            ],
+            "name": "Oogie Boogie"
+        },
+        "message": "lol",
+        "message_id": "ChwKGkNPMkQxYzNqc1k0REZVSGV3Z1FkTFR3eHh3",
+        "message_type": "text_message",
+        "timestamp": 1752132876586201
+    }, 
+    {
+        "action_type": "add_chat_item",
+        "author": {
+            "badges": [
+                {
+                    "icons": [
+                        {
+                            "id": "source",
+                            "url": "https://yt3.ggpht.com/zjvtMjZCg_7joyLzs_V8BvQ0L5MOYHvWrzzHlSKQrf10RQVGUdcexHNNcFozuvWwmpYzFlpc"
+                        },
+                        {
+                            "height": 16,
+                            "id": "16x16",
+                            "url": "https://yt3.ggpht.com/zjvtMjZCg_7joyLzs_V8BvQ0L5MOYHvWrzzHlSKQrf10RQVGUdcexHNNcFozuvWwmpYzFlpc=s16-c-k",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "id": "32x32",
+                            "url": "https://yt3.ggpht.com/zjvtMjZCg_7joyLzs_V8BvQ0L5MOYHvWrzzHlSKQrf10RQVGUdcexHNNcFozuvWwmpYzFlpc=s32-c-k",
+                            "width": 32
+                        }
+                    ],
+                    "title": "Member (1 month)"
+                }
+            ],
+            "id": "UC6Nwr8s5aZtkiSTk2m1Db-w",
+            "images": [
+                {
+                    "id": "source",
+                    "url": "https://yt4.ggpht.com/BeQhusgVOY1Q25EYaqEpgit8Nx6eyPmDK7iLXso7hB9CVbINncT8A718mll3EubQhslz1o9Ga5c"
+                },
+                {
+                    "height": 32,
+                    "id": "32x32",
+                    "url": "https://yt4.ggpht.com/BeQhusgVOY1Q25EYaqEpgit8Nx6eyPmDK7iLXso7hB9CVbINncT8A718mll3EubQhslz1o9Ga5c=s32-c-k-c0x00ffffff-no-rj",
+                    "width": 32
+                },
+                {
+                    "height": 64,
+                    "id": "64x64",
+                    "url": "https://yt4.ggpht.com/BeQhusgVOY1Q25EYaqEpgit8Nx6eyPmDK7iLXso7hB9CVbINncT8A718mll3EubQhslz1o9Ga5c=s64-c-k-c0x00ffffff-no-rj",
+                    "width": 64
+                }
+            ],
+            "name": "BigHomie"
+        },
+        "emotes": [
+            {
+                "id": "\u2665",
+                "images": [
+                    {
+                        "id": "source",
+                        "url": "https://fonts.gstatic.com/s/e/notoemoji/15.1/2665/72.png"
+                    },
+                    {
+                        "url": "https://fonts.gstatic.com/s/e/notoemoji/15.1/2665/72.png"
+                    }
+                ],
+                "is_custom_emoji": false,
+                "name": ":heart_suit:",
+                "search_terms": [
+                    "heart",
+                    "suit",
+                    "hearts"
+                ],
+                "shortcuts": [
+                    ":heart_suit:",
+                    ":hearts:"
+                ]
+            }
+        ],
+        "message": ":heart_suit:",
+        "message_id": "ChwKGkNQUGFoTmZqc1k0REZkekJsQWtkcS1Rc2pR",
+        "message_type": "text_message",
+        "timestamp": 1752132896243656
+    }, 
+    {
+        "action_type": "add_chat_item",
+        "author": {
+            "badges": [
+                {
+                    "icon_name": "moderator",
+                    "title": "Moderator"
+                },
+                {
+                    "icons": [
+                        {
+                            "id": "source",
+                            "url": "https://yt3.ggpht.com/WTHXbCJZspVQ2WyZu-9Qmyyb_RPr4t8rFamGp6hAhHIBqDd58Wb45tLwvnhix11w80zCbKtCzw"
+                        },
+                        {
+                            "height": 16,
+                            "id": "16x16",
+                            "url": "https://yt3.ggpht.com/WTHXbCJZspVQ2WyZu-9Qmyyb_RPr4t8rFamGp6hAhHIBqDd58Wb45tLwvnhix11w80zCbKtCzw=s16-c-k",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "id": "32x32",
+                            "url": "https://yt3.ggpht.com/WTHXbCJZspVQ2WyZu-9Qmyyb_RPr4t8rFamGp6hAhHIBqDd58Wb45tLwvnhix11w80zCbKtCzw=s32-c-k",
+                            "width": 32
+                        }
+                    ],
+                    "title": "Member (1 year)"
+                }
+            ],
+            "id": "UCL3c1Fs_Lfaf4VHVUt8nTDw",
+            "images": [
+                {
+                    "id": "source",
+                    "url": "https://yt4.ggpht.com/AFByDu6GyGPYBf-94O6hWKLyvoRs5dyqwyk13dTIiX2pyYytpG5UKSp-qi7w9iV8rd_k_MHu4g"
+                },
+                {
+                    "height": 32,
+                    "id": "32x32",
+                    "url": "https://yt4.ggpht.com/AFByDu6GyGPYBf-94O6hWKLyvoRs5dyqwyk13dTIiX2pyYytpG5UKSp-qi7w9iV8rd_k_MHu4g=s32-c-k-c0x00ffffff-no-rj",
+                    "width": 32
+                },
+                {
+                    "height": 64,
+                    "id": "64x64",
+                    "url": "https://yt4.ggpht.com/AFByDu6GyGPYBf-94O6hWKLyvoRs5dyqwyk13dTIiX2pyYytpG5UKSp-qi7w9iV8rd_k_MHu4g=s64-c-k-c0x00ffffff-no-rj",
+                    "width": 64
+                }
+            ],
+            "name": "Oogie Boogie"
+        },
+        "message": "@John Shotgun Way to go, get those bangers.",
+        "message_id": "ChwKGkNJekZpdDNqc1k0REZlTFJ3Z1Fkbzg4UW5B",
+        "message_type": "text_message",
+        "timestamp": 1752132908920544
+    }, 
+    {
+        "action_type": "add_chat_item",
+        "author": {
+            "badges": [
+                {
+                    "icon_name": "moderator",
+                    "title": "Moderator"
+                },
+                {
+                    "icons": [
+                        {
+                            "id": "source",
+                            "url": "https://yt3.ggpht.com/WTHXbCJZspVQ2WyZu-9Qmyyb_RPr4t8rFamGp6hAhHIBqDd58Wb45tLwvnhix11w80zCbKtCzw"
+                        },
+                        {
+                            "height": 16,
+                            "id": "16x16",
+                            "url": "https://yt3.ggpht.com/WTHXbCJZspVQ2WyZu-9Qmyyb_RPr4t8rFamGp6hAhHIBqDd58Wb45tLwvnhix11w80zCbKtCzw=s16-c-k",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "id": "32x32",
+                            "url": "https://yt3.ggpht.com/WTHXbCJZspVQ2WyZu-9Qmyyb_RPr4t8rFamGp6hAhHIBqDd58Wb45tLwvnhix11w80zCbKtCzw=s32-c-k",
+                            "width": 32
+                        }
+                    ],
+                    "title": "Member (1 year)"
+                }
+            ],
+            "id": "UC_n821nAP3279nwH7VvNdPQ",
+            "images": [
+                {
+                    "id": "source",
+                    "url": "https://yt4.ggpht.com/bkzWnbcVxBmn7W9LKfodhJApu26vt9H8UXYKHyx16U4IzCW5nLwv8kfgsloql_SSKUpEd3dF3Q"
+                },
+                {
+                    "height": 32,
+                    "id": "32x32",
+                    "url": "https://yt4.ggpht.com/bkzWnbcVxBmn7W9LKfodhJApu26vt9H8UXYKHyx16U4IzCW5nLwv8kfgsloql_SSKUpEd3dF3Q=s32-c-k-c0x00ffffff-no-rj",
+                    "width": 32
+                },
+                {
+                    "height": 64,
+                    "id": "64x64",
+                    "url": "https://yt4.ggpht.com/bkzWnbcVxBmn7W9LKfodhJApu26vt9H8UXYKHyx16U4IzCW5nLwv8kfgsloql_SSKUpEd3dF3Q=s64-c-k-c0x00ffffff-no-rj",
+                    "width": 64
+                }
+            ],
+            "name": "CRUNCHY CRAIG"
+        },
+        "message": "W BigHomie",
+        "message_id": "ChwKGkNKckw0dF9qc1k0REZXQ1g1UWNkc20wdDB3",
+        "message_type": "text_message",
+        "timestamp": 1752132914557202
+    }, 
+    {
+        "action_type": "add_chat_item",
+        "author": {
+            "badges": [
+                {
+                    "icons": [
+                        {
+                            "id": "source",
+                            "url": "https://yt3.ggpht.com/zjvtMjZCg_7joyLzs_V8BvQ0L5MOYHvWrzzHlSKQrf10RQVGUdcexHNNcFozuvWwmpYzFlpc"
+                        },
+                        {
+                            "height": 16,
+                            "id": "16x16",
+                            "url": "https://yt3.ggpht.com/zjvtMjZCg_7joyLzs_V8BvQ0L5MOYHvWrzzHlSKQrf10RQVGUdcexHNNcFozuvWwmpYzFlpc=s16-c-k",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "id": "32x32",
+                            "url": "https://yt3.ggpht.com/zjvtMjZCg_7joyLzs_V8BvQ0L5MOYHvWrzzHlSKQrf10RQVGUdcexHNNcFozuvWwmpYzFlpc=s32-c-k",
+                            "width": 32
+                        }
+                    ],
+                    "title": "Member (1 month)"
+                }
+            ],
+            "id": "UC6Nwr8s5aZtkiSTk2m1Db-w",
+            "images": [
+                {
+                    "id": "source",
+                    "url": "https://yt4.ggpht.com/BeQhusgVOY1Q25EYaqEpgit8Nx6eyPmDK7iLXso7hB9CVbINncT8A718mll3EubQhslz1o9Ga5c"
+                },
+                {
+                    "height": 32,
+                    "id": "32x32",
+                    "url": "https://yt4.ggpht.com/BeQhusgVOY1Q25EYaqEpgit8Nx6eyPmDK7iLXso7hB9CVbINncT8A718mll3EubQhslz1o9Ga5c=s32-c-k-c0x00ffffff-no-rj",
+                    "width": 32
+                },
+                {
+                    "height": 64,
+                    "id": "64x64",
+                    "url": "https://yt4.ggpht.com/BeQhusgVOY1Q25EYaqEpgit8Nx6eyPmDK7iLXso7hB9CVbINncT8A718mll3EubQhslz1o9Ga5c=s64-c-k-c0x00ffffff-no-rj",
+                    "width": 64
+                }
+            ],
+            "name": "BigHomie"
+        },
+        "message": "thank you",
+        "message_id": "ChwKGkNKcm1tT3Jqc1k0REZlTFJ3Z1Fkbzg4UW5B",
+        "message_type": "text_message",
+        "timestamp": 1752132936421809
+    }, 
+    {
+        "action_type": "add_chat_item",
+        "author": {
+            "badges": [
+                {
+                    "icons": [
+                        {
+                            "id": "source",
+                            "url": "https://yt3.ggpht.com/WTHXbCJZspVQ2WyZu-9Qmyyb_RPr4t8rFamGp6hAhHIBqDd58Wb45tLwvnhix11w80zCbKtCzw"
+                        },
+                        {
+                            "height": 16,
+                            "id": "16x16",
+                            "url": "https://yt3.ggpht.com/WTHXbCJZspVQ2WyZu-9Qmyyb_RPr4t8rFamGp6hAhHIBqDd58Wb45tLwvnhix11w80zCbKtCzw=s16-c-k",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "id": "32x32",
+                            "url": "https://yt3.ggpht.com/WTHXbCJZspVQ2WyZu-9Qmyyb_RPr4t8rFamGp6hAhHIBqDd58Wb45tLwvnhix11w80zCbKtCzw=s32-c-k",
+                            "width": 32
+                        }
+                    ],
+                    "title": "Member (1 year)"
+                }
+            ],
+            "id": "UCW-jX-R64PsdIV4S6vG81nA",
+            "images": [
+                {
+                    "id": "source",
+                    "url": "https://yt4.ggpht.com/Bxr54IiahK3dPTtx9CCXUZKb-c7AOJUQFbrP4IL79nNoAO1efu4IXqPa_u6jyXO-VD5HQS_k0Q"
+                },
+                {
+                    "height": 32,
+                    "id": "32x32",
+                    "url": "https://yt4.ggpht.com/Bxr54IiahK3dPTtx9CCXUZKb-c7AOJUQFbrP4IL79nNoAO1efu4IXqPa_u6jyXO-VD5HQS_k0Q=s32-c-k-c0x00ffffff-no-rj",
+                    "width": 32
+                },
+                {
+                    "height": 64,
+                    "id": "64x64",
+                    "url": "https://yt4.ggpht.com/Bxr54IiahK3dPTtx9CCXUZKb-c7AOJUQFbrP4IL79nNoAO1efu4IXqPa_u6jyXO-VD5HQS_k0Q=s64-c-k-c0x00ffffff-no-rj",
+                    "width": 64
+                }
+            ],
+            "name": "Welcome to Warzone"
+        },
+        "message": "o no",
+        "message_id": "ChwKGkNJTE83ZTNqc1k0REZkd04xZ0FkZXNFUW5R",
+        "message_type": "text_message",
+        "timestamp": 1752132944096867
+    }, 
+    {
+        "action_type": "add_chat_item",
+        "author": {
+            "badges": [
+                {
+                    "icon_name": "moderator",
+                    "title": "Moderator"
+                },
+                {
+                    "icons": [
+                        {
+                            "id": "source",
+                            "url": "https://yt3.ggpht.com/WTHXbCJZspVQ2WyZu-9Qmyyb_RPr4t8rFamGp6hAhHIBqDd58Wb45tLwvnhix11w80zCbKtCzw"
+                        },
+                        {
+                            "height": 16,
+                            "id": "16x16",
+                            "url": "https://yt3.ggpht.com/WTHXbCJZspVQ2WyZu-9Qmyyb_RPr4t8rFamGp6hAhHIBqDd58Wb45tLwvnhix11w80zCbKtCzw=s16-c-k",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "id": "32x32",
+                            "url": "https://yt3.ggpht.com/WTHXbCJZspVQ2WyZu-9Qmyyb_RPr4t8rFamGp6hAhHIBqDd58Wb45tLwvnhix11w80zCbKtCzw=s32-c-k",
+                            "width": 32
+                        }
+                    ],
+                    "title": "Member (1 year)"
+                }
+            ],
+            "id": "UCL3c1Fs_Lfaf4VHVUt8nTDw",
+            "images": [
+                {
+                    "id": "source",
+                    "url": "https://yt4.ggpht.com/AFByDu6GyGPYBf-94O6hWKLyvoRs5dyqwyk13dTIiX2pyYytpG5UKSp-qi7w9iV8rd_k_MHu4g"
+                },
+                {
+                    "height": 32,
+                    "id": "32x32",
+                    "url": "https://yt4.ggpht.com/AFByDu6GyGPYBf-94O6hWKLyvoRs5dyqwyk13dTIiX2pyYytpG5UKSp-qi7w9iV8rd_k_MHu4g=s32-c-k-c0x00ffffff-no-rj",
+                    "width": 32
+                },
+                {
+                    "height": 64,
+                    "id": "64x64",
+                    "url": "https://yt4.ggpht.com/AFByDu6GyGPYBf-94O6hWKLyvoRs5dyqwyk13dTIiX2pyYytpG5UKSp-qi7w9iV8rd_k_MHu4g=s64-c-k-c0x00ffffff-no-rj",
+                    "width": 64
+                }
+            ],
+            "name": "Oogie Boogie"
+        },
+        "message": "damn it",
+        "message_id": "ChwKGkNQbjZfLV9qc1k0REZlYkd3Z1Fkcl9zTUNR",
+        "message_type": "text_message",
+        "timestamp": 1752132948593346
+    }, 
+    {
+        "action_type": "add_chat_item",
+        "author": {
+            "id": "UCvJ82bKaixUaCJOGMXzyF5w",
+            "images": [
+                {
+                    "id": "source",
+                    "url": "https://yt4.ggpht.com/ytc/AIdro_lm_zOZN6FVCMC9XEgozZJNxopPmyd0qspJwRJFxH0emdOvBN8EgbvmEsBy4G2A8EPFaA"
+                },
+                {
+                    "height": 32,
+                    "id": "32x32",
+                    "url": "https://yt4.ggpht.com/ytc/AIdro_lm_zOZN6FVCMC9XEgozZJNxopPmyd0qspJwRJFxH0emdOvBN8EgbvmEsBy4G2A8EPFaA=s32-c-k-c0x00ffffff-no-rj",
+                    "width": 32
+                },
+                {
+                    "height": 64,
+                    "id": "64x64",
+                    "url": "https://yt4.ggpht.com/ytc/AIdro_lm_zOZN6FVCMC9XEgozZJNxopPmyd0qspJwRJFxH0emdOvBN8EgbvmEsBy4G2A8EPFaA=s64-c-k-c0x00ffffff-no-rj",
+                    "width": 64
+                }
+            ],
+            "name": "John Shotgun"
+        },
+        "emotes": [
+            {
+                "id": "UCkszU2WH9gy1mb0dV-11UJg/hcMfY5_zAbbxvwKLooCoCA",
+                "images": [
+                    {
+                        "id": "source",
+                        "url": "https://yt3.ggpht.com/EURfJZi_heNulV3mfHzXBk8PIs9XmZ9lOOYi5za6wFMCGrps4i2BJX9j-H2gK6LIhW6h7sY"
+                    },
+                    {
+                        "height": 24,
+                        "id": "24x24",
+                        "url": "https://yt3.ggpht.com/EURfJZi_heNulV3mfHzXBk8PIs9XmZ9lOOYi5za6wFMCGrps4i2BJX9j-H2gK6LIhW6h7sY=w24-h24-c-k-nd",
+                        "width": 24
+                    },
+                    {
+                        "height": 48,
+                        "id": "48x48",
+                        "url": "https://yt3.ggpht.com/EURfJZi_heNulV3mfHzXBk8PIs9XmZ9lOOYi5za6wFMCGrps4i2BJX9j-H2gK6LIhW6h7sY=w48-h48-c-k-nd",
+                        "width": 48
+                    }
+                ],
+                "is_custom_emoji": true,
+                "name": ":face-fuchsia-tongue-out:",
+                "search_terms": [
+                    "face-fuchsia-tongue-out"
+                ],
+                "shortcuts": [
+                    ":face-fuchsia-tongue-out:"
+                ]
+            }
+        ],
+        "message": ":face-fuchsia-tongue-out::face-fuchsia-tongue-out:",
+        "message_id": "ChwKGkNQREt0X0Rqc1k0REZkd04xZ0FkZXNFUW5R",
+        "message_type": "text_message",
+        "timestamp": 1752132949504786
+    }, 
+    {
+        "action_type": "add_chat_item",
+        "author": {
+            "id": "UCAUkjJbHF0iTYwFKYV0G0RA",
+            "images": [
+                {
+                    "id": "source",
+                    "url": "https://yt4.ggpht.com/ytc/AIdro_nayJ4eQIOR2bOWZyWXIPS08bwzj710EQtIchc8IZKorNs"
+                },
+                {
+                    "height": 32,
+                    "id": "32x32",
+                    "url": "https://yt4.ggpht.com/ytc/AIdro_nayJ4eQIOR2bOWZyWXIPS08bwzj710EQtIchc8IZKorNs=s32-c-k-c0x00ffffff-no-rj",
+                    "width": 32
+                },
+                {
+                    "height": 64,
+                    "id": "64x64",
+                    "url": "https://yt4.ggpht.com/ytc/AIdro_nayJ4eQIOR2bOWZyWXIPS08bwzj710EQtIchc8IZKorNs=s64-c-k-c0x00ffffff-no-rj",
+                    "width": 64
+                }
+            ],
+            "name": "Home Pie"
+        },
+        "message": "ooosh - gutted fella",
+        "message_id": "ChwKGkNNbmI2dkhqc1k0REZkc0wxZ0FkazlNdDln",
+        "message_type": "text_message",
+        "timestamp": 1752132952439050
+    }, 
+    {
+        "action_type": "add_chat_item",
+        "author": {
+            "badges": [
+                {
+                    "icons": [
+                        {
+                            "id": "source",
+                            "url": "https://yt3.ggpht.com/WTHXbCJZspVQ2WyZu-9Qmyyb_RPr4t8rFamGp6hAhHIBqDd58Wb45tLwvnhix11w80zCbKtCzw"
+                        },
+                        {
+                            "height": 16,
+                            "id": "16x16",
+                            "url": "https://yt3.ggpht.com/WTHXbCJZspVQ2WyZu-9Qmyyb_RPr4t8rFamGp6hAhHIBqDd58Wb45tLwvnhix11w80zCbKtCzw=s16-c-k",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "id": "32x32",
+                            "url": "https://yt3.ggpht.com/WTHXbCJZspVQ2WyZu-9Qmyyb_RPr4t8rFamGp6hAhHIBqDd58Wb45tLwvnhix11w80zCbKtCzw=s32-c-k",
+                            "width": 32
+                        }
+                    ],
+                    "title": "Member (1 year)"
+                }
+            ],
+            "id": "UCW-jX-R64PsdIV4S6vG81nA",
+            "images": [
+                {
+                    "id": "source",
+                    "url": "https://yt4.ggpht.com/Bxr54IiahK3dPTtx9CCXUZKb-c7AOJUQFbrP4IL79nNoAO1efu4IXqPa_u6jyXO-VD5HQS_k0Q"
+                },
+                {
+                    "height": 32,
+                    "id": "32x32",
+                    "url": "https://yt4.ggpht.com/Bxr54IiahK3dPTtx9CCXUZKb-c7AOJUQFbrP4IL79nNoAO1efu4IXqPa_u6jyXO-VD5HQS_k0Q=s32-c-k-c0x00ffffff-no-rj",
+                    "width": 32
+                },
+                {
+                    "height": 64,
+                    "id": "64x64",
+                    "url": "https://yt4.ggpht.com/Bxr54IiahK3dPTtx9CCXUZKb-c7AOJUQFbrP4IL79nNoAO1efu4IXqPa_u6jyXO-VD5HQS_k0Q=s64-c-k-c0x00ffffff-no-rj",
+                    "width": 64
+                }
+            ],
+            "name": "Welcome to Warzone"
+        },
+        "emotes": [
+            {
+                "id": "UCIlelqWA2ycq30ebF9-K0Tw/k9yqZcuOLq2j_9EP-uKq8Ak",
+                "images": [
+                    {
+                        "id": "source",
+                        "url": "https://yt3.ggpht.com/ybG_dFykn-hu09Z1XBq-atY5PjTwSMRD2ZX87oAjRmhoiIjfnRmBhg3GFHo9jchJnEkyt6XGNg"
+                    },
+                    {
+                        "height": 24,
+                        "id": "24x24",
+                        "url": "https://yt3.ggpht.com/ybG_dFykn-hu09Z1XBq-atY5PjTwSMRD2ZX87oAjRmhoiIjfnRmBhg3GFHo9jchJnEkyt6XGNg=w24-h24-c-k-nd",
+                        "width": 24
+                    },
+                    {
+                        "height": 48,
+                        "id": "48x48",
+                        "url": "https://yt3.ggpht.com/ybG_dFykn-hu09Z1XBq-atY5PjTwSMRD2ZX87oAjRmhoiIjfnRmBhg3GFHo9jchJnEkyt6XGNg=w48-h48-c-k-nd",
+                        "width": 48
+                    }
+                ],
+                "is_custom_emoji": true,
+                "name": ":_poffGGs:",
+                "search_terms": [
+                    "_poffGGs",
+                    "poffGGs",
+                    "_GGs",
+                    "GGs"
+                ],
+                "shortcuts": [
+                    ":_poffGGs:",
+                    ":poffGGs:",
+                    ":_GGs:",
+                    ":GGs:"
+                ]
+            }
+        ],
+        "message": ":_poffGGs::_poffGGs::_poffGGs::_poffGGs::_poffGGs::_poffGGs::_poffGGs::_poffGGs:",
+        "message_id": "ChwKGkNMUHptdlBqc1k0REZiUUoxZ0FkalhRWTVn",
+        "message_type": "text_message",
+        "timestamp": 1752132955326112
+    }, 
+    {
+        "action_type": "add_chat_item",
+        "author": {
+            "id": "UCE5ZJCebOEK0GKiZQzhcfAQ",
+            "images": [
+                {
+                    "id": "source",
+                    "url": "https://yt4.ggpht.com/ytc/AIdro_mkdeTBGlDh-mszZu7GIFaSddBTI--mUeWebPpa52I"
+                },
+                {
+                    "height": 32,
+                    "id": "32x32",
+                    "url": "https://yt4.ggpht.com/ytc/AIdro_mkdeTBGlDh-mszZu7GIFaSddBTI--mUeWebPpa52I=s32-c-k-c0x00ffffff-no-rj",
+                    "width": 32
+                },
+                {
+                    "height": 64,
+                    "id": "64x64",
+                    "url": "https://yt4.ggpht.com/ytc/AIdro_mkdeTBGlDh-mszZu7GIFaSddBTI--mUeWebPpa52I=s64-c-k-c0x00ffffff-no-rj",
+                    "width": 64
+                }
+            ],
+            "name": "steve quist"
+        },
+        "message": "ggs",
+        "message_id": "ChwKGkNMenlnX1Rqc1k0REZXOEgxZ0FkMVFrbEhR",
+        "message_type": "text_message",
+        "timestamp": 1752132957045489
+    }, 
+    {
+        "action_type": "add_chat_item",
+        "author": {
+            "badges": [
+                {
+                    "icon_name": "moderator",
+                    "title": "Moderator"
+                },
+                {
+                    "icons": [
+                        {
+                            "id": "source",
+                            "url": "https://yt3.ggpht.com/WTHXbCJZspVQ2WyZu-9Qmyyb_RPr4t8rFamGp6hAhHIBqDd58Wb45tLwvnhix11w80zCbKtCzw"
+                        },
+                        {
+                            "height": 16,
+                            "id": "16x16",
+                            "url": "https://yt3.ggpht.com/WTHXbCJZspVQ2WyZu-9Qmyyb_RPr4t8rFamGp6hAhHIBqDd58Wb45tLwvnhix11w80zCbKtCzw=s16-c-k",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "id": "32x32",
+                            "url": "https://yt3.ggpht.com/WTHXbCJZspVQ2WyZu-9Qmyyb_RPr4t8rFamGp6hAhHIBqDd58Wb45tLwvnhix11w80zCbKtCzw=s32-c-k",
+                            "width": 32
+                        }
+                    ],
+                    "title": "Member (1 year)"
+                }
+            ],
+            "id": "UCL3c1Fs_Lfaf4VHVUt8nTDw",
+            "images": [
+                {
+                    "id": "source",
+                    "url": "https://yt4.ggpht.com/AFByDu6GyGPYBf-94O6hWKLyvoRs5dyqwyk13dTIiX2pyYytpG5UKSp-qi7w9iV8rd_k_MHu4g"
+                },
+                {
+                    "height": 32,
+                    "id": "32x32",
+                    "url": "https://yt4.ggpht.com/AFByDu6GyGPYBf-94O6hWKLyvoRs5dyqwyk13dTIiX2pyYytpG5UKSp-qi7w9iV8rd_k_MHu4g=s32-c-k-c0x00ffffff-no-rj",
+                    "width": 32
+                },
+                {
+                    "height": 64,
+                    "id": "64x64",
+                    "url": "https://yt4.ggpht.com/AFByDu6GyGPYBf-94O6hWKLyvoRs5dyqwyk13dTIiX2pyYytpG5UKSp-qi7w9iV8rd_k_MHu4g=s64-c-k-c0x00ffffff-no-rj",
+                    "width": 64
+                }
+            ],
+            "name": "Oogie Boogie"
+        },
+        "message": "SO CLOSE",
+        "message_id": "ChwKGkNMM0cwZlhqc1k0REZjanZ3Z1FkU1VJdjFR",
+        "message_type": "text_message",
+        "timestamp": 1752132960414586
+    }, 
+    {
+        "action_type": "add_chat_item",
+        "author": {
+            "badges": [
+                {
+                    "icons": [
+                        {
+                            "id": "source",
+                            "url": "https://yt3.ggpht.com/zjvtMjZCg_7joyLzs_V8BvQ0L5MOYHvWrzzHlSKQrf10RQVGUdcexHNNcFozuvWwmpYzFlpc"
+                        },
+                        {
+                            "height": 16,
+                            "id": "16x16",
+                            "url": "https://yt3.ggpht.com/zjvtMjZCg_7joyLzs_V8BvQ0L5MOYHvWrzzHlSKQrf10RQVGUdcexHNNcFozuvWwmpYzFlpc=s16-c-k",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "id": "32x32",
+                            "url": "https://yt3.ggpht.com/zjvtMjZCg_7joyLzs_V8BvQ0L5MOYHvWrzzHlSKQrf10RQVGUdcexHNNcFozuvWwmpYzFlpc=s32-c-k",
+                            "width": 32
+                        }
+                    ],
+                    "title": "Member (1 month)"
+                }
+            ],
+            "id": "UC6Nwr8s5aZtkiSTk2m1Db-w",
+            "images": [
+                {
+                    "id": "source",
+                    "url": "https://yt4.ggpht.com/BeQhusgVOY1Q25EYaqEpgit8Nx6eyPmDK7iLXso7hB9CVbINncT8A718mll3EubQhslz1o9Ga5c"
+                },
+                {
+                    "height": 32,
+                    "id": "32x32",
+                    "url": "https://yt4.ggpht.com/BeQhusgVOY1Q25EYaqEpgit8Nx6eyPmDK7iLXso7hB9CVbINncT8A718mll3EubQhslz1o9Ga5c=s32-c-k-c0x00ffffff-no-rj",
+                    "width": 32
+                },
+                {
+                    "height": 64,
+                    "id": "64x64",
+                    "url": "https://yt4.ggpht.com/BeQhusgVOY1Q25EYaqEpgit8Nx6eyPmDK7iLXso7hB9CVbINncT8A718mll3EubQhslz1o9Ga5c=s64-c-k-c0x00ffffff-no-rj",
+                    "width": 64
+                }
+            ],
+            "name": "BigHomie"
+        },
+        "emotes": [
+            {
+                "id": "\u2764",
+                "images": [
+                    {
+                        "id": "source",
+                        "url": "https://fonts.gstatic.com/s/e/notoemoji/15.1/2764/72.png"
+                    },
+                    {
+                        "url": "https://fonts.gstatic.com/s/e/notoemoji/15.1/2764/72.png"
+                    }
+                ],
+                "is_custom_emoji": false,
+                "name": ":red_heart:",
+                "search_terms": [
+                    "red",
+                    "heart"
+                ],
+                "shortcuts": [
+                    ":red_heart:",
+                    ":heart:",
+                    "<3"
+                ]
+            },
+            {
+                "id": "\ud83e\udd18",
+                "images": [
+                    {
+                        "id": "source",
+                        "url": "https://fonts.gstatic.com/s/e/notoemoji/15.1/1f918/72.png"
+                    },
+                    {
+                        "url": "https://fonts.gstatic.com/s/e/notoemoji/15.1/1f918/72.png"
+                    }
+                ],
+                "is_custom_emoji": false,
+                "name": ":sign_of_the_horns:",
+                "search_terms": [
+                    "sign",
+                    "of",
+                    "the",
+                    "horns"
+                ],
+                "shortcuts": [
+                    ":sign_of_the_horns:"
+                ]
+            }
+        ],
+        "message": ":red_heart::red_heart::red_heart::sign_of_the_horns::sign_of_the_horns:",
+        "message_id": "ChwKGkNMQ294dnJqc1k0REZReVo1UWNkbDNZa0RR",
+        "message_type": "text_message",
+        "timestamp": 1752132970718525
+    }, 
+    {
+        "action_type": "add_chat_item",
+        "author": {
+            "badges": [
+                {
+                    "icons": [
+                        {
+                            "id": "source",
+                            "url": "https://yt3.ggpht.com/zjvtMjZCg_7joyLzs_V8BvQ0L5MOYHvWrzzHlSKQrf10RQVGUdcexHNNcFozuvWwmpYzFlpc"
+                        },
+                        {
+                            "height": 16,
+                            "id": "16x16",
+                            "url": "https://yt3.ggpht.com/zjvtMjZCg_7joyLzs_V8BvQ0L5MOYHvWrzzHlSKQrf10RQVGUdcexHNNcFozuvWwmpYzFlpc=s16-c-k",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "id": "32x32",
+                            "url": "https://yt3.ggpht.com/zjvtMjZCg_7joyLzs_V8BvQ0L5MOYHvWrzzHlSKQrf10RQVGUdcexHNNcFozuvWwmpYzFlpc=s32-c-k",
+                            "width": 32
+                        }
+                    ],
+                    "title": "Member (1 month)"
+                }
+            ],
+            "id": "UC6Nwr8s5aZtkiSTk2m1Db-w",
+            "images": [
+                {
+                    "id": "source",
+                    "url": "https://yt4.ggpht.com/BeQhusgVOY1Q25EYaqEpgit8Nx6eyPmDK7iLXso7hB9CVbINncT8A718mll3EubQhslz1o9Ga5c"
+                },
+                {
+                    "height": 32,
+                    "id": "32x32",
+                    "url": "https://yt4.ggpht.com/BeQhusgVOY1Q25EYaqEpgit8Nx6eyPmDK7iLXso7hB9CVbINncT8A718mll3EubQhslz1o9Ga5c=s32-c-k-c0x00ffffff-no-rj",
+                    "width": 32
+                },
+                {
+                    "height": 64,
+                    "id": "64x64",
+                    "url": "https://yt4.ggpht.com/BeQhusgVOY1Q25EYaqEpgit8Nx6eyPmDK7iLXso7hB9CVbINncT8A718mll3EubQhslz1o9Ga5c=s64-c-k-c0x00ffffff-no-rj",
+                    "width": 64
+                }
+            ],
+            "name": "BigHomie"
+        },
+        "message": "all love bobby rest up bud",
+        "message_id": "ChwKGkNOX3ZsZjdqc1k0REZXLVQ1UWNkR1dZSEJB",
+        "message_type": "text_message",
+        "timestamp": 1752132978312255
+    }, 
+    {
+        "action_type": "add_chat_item",
+        "author": {
+            "badges": [
+                {
+                    "icons": [
+                        {
+                            "id": "source",
+                            "url": "https://yt3.ggpht.com/WTHXbCJZspVQ2WyZu-9Qmyyb_RPr4t8rFamGp6hAhHIBqDd58Wb45tLwvnhix11w80zCbKtCzw"
+                        },
+                        {
+                            "height": 16,
+                            "id": "16x16",
+                            "url": "https://yt3.ggpht.com/WTHXbCJZspVQ2WyZu-9Qmyyb_RPr4t8rFamGp6hAhHIBqDd58Wb45tLwvnhix11w80zCbKtCzw=s16-c-k",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "id": "32x32",
+                            "url": "https://yt3.ggpht.com/WTHXbCJZspVQ2WyZu-9Qmyyb_RPr4t8rFamGp6hAhHIBqDd58Wb45tLwvnhix11w80zCbKtCzw=s32-c-k",
+                            "width": 32
+                        }
+                    ],
+                    "title": "Member (1 year)"
+                }
+            ],
+            "id": "UCW-jX-R64PsdIV4S6vG81nA",
+            "images": [
+                {
+                    "id": "source",
+                    "url": "https://yt4.ggpht.com/Bxr54IiahK3dPTtx9CCXUZKb-c7AOJUQFbrP4IL79nNoAO1efu4IXqPa_u6jyXO-VD5HQS_k0Q"
+                },
+                {
+                    "height": 32,
+                    "id": "32x32",
+                    "url": "https://yt4.ggpht.com/Bxr54IiahK3dPTtx9CCXUZKb-c7AOJUQFbrP4IL79nNoAO1efu4IXqPa_u6jyXO-VD5HQS_k0Q=s32-c-k-c0x00ffffff-no-rj",
+                    "width": 32
+                },
+                {
+                    "height": 64,
+                    "id": "64x64",
+                    "url": "https://yt4.ggpht.com/Bxr54IiahK3dPTtx9CCXUZKb-c7AOJUQFbrP4IL79nNoAO1efu4IXqPa_u6jyXO-VD5HQS_k0Q=s64-c-k-c0x00ffffff-no-rj",
+                    "width": 64
+                }
+            ],
+            "name": "Welcome to Warzone"
+        },
+        "message": "What a Round. So good",
+        "message_id": "ChwKGkNMN1V4WUhrc1k0REZVTUkxZ0FkOHBvWktn",
+        "message_type": "text_message",
+        "timestamp": 1752132985387643
+    }, 
+    {
+        "action_type": "add_chat_item",
+        "author": {
+            "badges": [
+                {
+                    "icon_name": "moderator",
+                    "title": "Moderator"
+                },
+                {
+                    "icons": [
+                        {
+                            "id": "source",
+                            "url": "https://yt3.ggpht.com/WTHXbCJZspVQ2WyZu-9Qmyyb_RPr4t8rFamGp6hAhHIBqDd58Wb45tLwvnhix11w80zCbKtCzw"
+                        },
+                        {
+                            "height": 16,
+                            "id": "16x16",
+                            "url": "https://yt3.ggpht.com/WTHXbCJZspVQ2WyZu-9Qmyyb_RPr4t8rFamGp6hAhHIBqDd58Wb45tLwvnhix11w80zCbKtCzw=s16-c-k",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "id": "32x32",
+                            "url": "https://yt3.ggpht.com/WTHXbCJZspVQ2WyZu-9Qmyyb_RPr4t8rFamGp6hAhHIBqDd58Wb45tLwvnhix11w80zCbKtCzw=s32-c-k",
+                            "width": 32
+                        }
+                    ],
+                    "title": "Member (1 year)"
+                }
+            ],
+            "id": "UCL3c1Fs_Lfaf4VHVUt8nTDw",
+            "images": [
+                {
+                    "id": "source",
+                    "url": "https://yt4.ggpht.com/AFByDu6GyGPYBf-94O6hWKLyvoRs5dyqwyk13dTIiX2pyYytpG5UKSp-qi7w9iV8rd_k_MHu4g"
+                },
+                {
+                    "height": 32,
+                    "id": "32x32",
+                    "url": "https://yt4.ggpht.com/AFByDu6GyGPYBf-94O6hWKLyvoRs5dyqwyk13dTIiX2pyYytpG5UKSp-qi7w9iV8rd_k_MHu4g=s32-c-k-c0x00ffffff-no-rj",
+                    "width": 32
+                },
+                {
+                    "height": 64,
+                    "id": "64x64",
+                    "url": "https://yt4.ggpht.com/AFByDu6GyGPYBf-94O6hWKLyvoRs5dyqwyk13dTIiX2pyYytpG5UKSp-qi7w9iV8rd_k_MHu4g=s64-c-k-c0x00ffffff-no-rj",
+                    "width": 64
+                }
+            ],
+            "name": "Oogie Boogie"
+        },
+        "emotes": [
+            {
+                "id": "\ud83e\udd70",
+                "images": [
+                    {
+                        "id": "source",
+                        "url": "https://fonts.gstatic.com/s/e/notoemoji/15.1/1f970/72.png"
+                    },
+                    {
+                        "url": "https://fonts.gstatic.com/s/e/notoemoji/15.1/1f970/72.png"
+                    }
+                ],
+                "is_custom_emoji": false,
+                "name": ":smiling_face_with_hearts:",
+                "search_terms": [
+                    "smiling",
+                    "face",
+                    "with",
+                    "hearts"
+                ],
+                "shortcuts": [
+                    ":smiling_face_with_hearts:"
+                ]
+            }
+        ],
+        "message": ":smiling_face_with_hearts::smiling_face_with_hearts::smiling_face_with_hearts: BOBBY!",
+        "message_id": "ChwKGkNQbnM4NEhrc1k0REZkSGV3Z1FkdGtJeE9R",
+        "message_type": "text_message",
+        "timestamp": 1752132986143669
+    }, 
+    {
+        "action_type": "add_chat_item",
+        "author": {
+            "id": "UCvJ82bKaixUaCJOGMXzyF5w",
+            "images": [
+                {
+                    "id": "source",
+                    "url": "https://yt4.ggpht.com/ytc/AIdro_lm_zOZN6FVCMC9XEgozZJNxopPmyd0qspJwRJFxH0emdOvBN8EgbvmEsBy4G2A8EPFaA"
+                },
+                {
+                    "height": 32,
+                    "id": "32x32",
+                    "url": "https://yt4.ggpht.com/ytc/AIdro_lm_zOZN6FVCMC9XEgozZJNxopPmyd0qspJwRJFxH0emdOvBN8EgbvmEsBy4G2A8EPFaA=s32-c-k-c0x00ffffff-no-rj",
+                    "width": 32
+                },
+                {
+                    "height": 64,
+                    "id": "64x64",
+                    "url": "https://yt4.ggpht.com/ytc/AIdro_lm_zOZN6FVCMC9XEgozZJNxopPmyd0qspJwRJFxH0emdOvBN8EgbvmEsBy4G2A8EPFaA=s64-c-k-c0x00ffffff-no-rj",
+                    "width": 64
+                }
+            ],
+            "name": "John Shotgun"
+        },
+        "message": "Get the well deserved rest Big Bob",
+        "message_id": "ChwKGkNQdmt2SVBrc1k0REZYZ0gxZ0FkTTEwb3d3",
+        "message_type": "text_message",
+        "timestamp": 1752132989435249
+    }, 
+    {
+        "action_type": "add_chat_item",
+        "author": {
+            "badges": [
+                {
+                    "icons": [
+                        {
+                            "id": "source",
+                            "url": "https://yt3.ggpht.com/zjvtMjZCg_7joyLzs_V8BvQ0L5MOYHvWrzzHlSKQrf10RQVGUdcexHNNcFozuvWwmpYzFlpc"
+                        },
+                        {
+                            "height": 16,
+                            "id": "16x16",
+                            "url": "https://yt3.ggpht.com/zjvtMjZCg_7joyLzs_V8BvQ0L5MOYHvWrzzHlSKQrf10RQVGUdcexHNNcFozuvWwmpYzFlpc=s16-c-k",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "id": "32x32",
+                            "url": "https://yt3.ggpht.com/zjvtMjZCg_7joyLzs_V8BvQ0L5MOYHvWrzzHlSKQrf10RQVGUdcexHNNcFozuvWwmpYzFlpc=s32-c-k",
+                            "width": 32
+                        }
+                    ],
+                    "title": "Member (1 month)"
+                }
+            ],
+            "id": "UCdUHqVuKvGofez79Im4BLFw",
+            "images": [
+                {
+                    "id": "source",
+                    "url": "https://yt4.ggpht.com/ytc/AIdro_lhRCpMYpaOuavIVVcx0SrbhvZJbnyUyYm5LKMoCKY7ffk"
+                },
+                {
+                    "height": 32,
+                    "id": "32x32",
+                    "url": "https://yt4.ggpht.com/ytc/AIdro_lhRCpMYpaOuavIVVcx0SrbhvZJbnyUyYm5LKMoCKY7ffk=s32-c-k-c0x00ffffff-no-rj",
+                    "width": 32
+                },
+                {
+                    "height": 64,
+                    "id": "64x64",
+                    "url": "https://yt4.ggpht.com/ytc/AIdro_lhRCpMYpaOuavIVVcx0SrbhvZJbnyUyYm5LKMoCKY7ffk=s64-c-k-c0x00ffffff-no-rj",
+                    "width": 64
+                }
+            ],
+            "name": "Yeahnahbro"
+        },
+        "emotes": [
+            {
+                "id": "UCIlelqWA2ycq30ebF9-K0Tw/k9yqZcuOLq2j_9EP-uKq8Ak",
+                "images": [
+                    {
+                        "id": "source",
+                        "url": "https://yt3.ggpht.com/ybG_dFykn-hu09Z1XBq-atY5PjTwSMRD2ZX87oAjRmhoiIjfnRmBhg3GFHo9jchJnEkyt6XGNg"
+                    },
+                    {
+                        "height": 24,
+                        "id": "24x24",
+                        "url": "https://yt3.ggpht.com/ybG_dFykn-hu09Z1XBq-atY5PjTwSMRD2ZX87oAjRmhoiIjfnRmBhg3GFHo9jchJnEkyt6XGNg=w24-h24-c-k-nd",
+                        "width": 24
+                    },
+                    {
+                        "height": 48,
+                        "id": "48x48",
+                        "url": "https://yt3.ggpht.com/ybG_dFykn-hu09Z1XBq-atY5PjTwSMRD2ZX87oAjRmhoiIjfnRmBhg3GFHo9jchJnEkyt6XGNg=w48-h48-c-k-nd",
+                        "width": 48
+                    }
+                ],
+                "is_custom_emoji": true,
+                "name": ":_poffGGs:",
+                "search_terms": [
+                    "_poffGGs",
+                    "poffGGs",
+                    "_GGs",
+                    "GGs"
+                ],
+                "shortcuts": [
+                    ":_poffGGs:",
+                    ":poffGGs:",
+                    ":_GGs:",
+                    ":GGs:"
+                ]
+            },
+            {
+                "id": "UCIlelqWA2ycq30ebF9-K0Tw/k9yqZfOOLq2j_9EP-uKq8Ak",
+                "images": [
+                    {
+                        "id": "source",
+                        "url": "https://yt3.ggpht.com/SGtjdf1yHRGPJhtkyt8dTAwqBNQjc-dfpjEEV8fgiPvfvz5YK6vD9aVwO0XL7gyeWcxotmR_jYA"
+                    },
+                    {
+                        "height": 24,
+                        "id": "24x24",
+                        "url": "https://yt3.ggpht.com/SGtjdf1yHRGPJhtkyt8dTAwqBNQjc-dfpjEEV8fgiPvfvz5YK6vD9aVwO0XL7gyeWcxotmR_jYA=w24-h24-c-k-nd",
+                        "width": 24
+                    },
+                    {
+                        "height": 48,
+                        "id": "48x48",
+                        "url": "https://yt3.ggpht.com/SGtjdf1yHRGPJhtkyt8dTAwqBNQjc-dfpjEEV8fgiPvfvz5YK6vD9aVwO0XL7gyeWcxotmR_jYA=w48-h48-c-k-nd",
+                        "width": 48
+                    }
+                ],
+                "is_custom_emoji": true,
+                "name": ":_poffOhYeah:",
+                "search_terms": [
+                    "_poffOhYeah",
+                    "poffOhYeah",
+                    "_OhYeah",
+                    "OhYeah"
+                ],
+                "shortcuts": [
+                    ":_poffOhYeah:",
+                    ":poffOhYeah:",
+                    ":_OhYeah:",
+                    ":OhYeah:"
+                ]
+            },
+            {
+                "id": "UCIlelqWA2ycq30ebF9-K0Tw/kX_kZcTWA_-3_9EP1Jqg4AU",
+                "images": [
+                    {
+                        "id": "source",
+                        "url": "https://yt3.ggpht.com/vbe-n2PeofJy7go4MxGDNw1F32_o4g5P-sfIuatgcHUFXo7LntQrhCKUdXsApK5bOrWqGIthdg"
+                    },
+                    {
+                        "height": 24,
+                        "id": "24x24",
+                        "url": "https://yt3.ggpht.com/vbe-n2PeofJy7go4MxGDNw1F32_o4g5P-sfIuatgcHUFXo7LntQrhCKUdXsApK5bOrWqGIthdg=w24-h24-c-k-nd",
+                        "width": 24
+                    },
+                    {
+                        "height": 48,
+                        "id": "48x48",
+                        "url": "https://yt3.ggpht.com/vbe-n2PeofJy7go4MxGDNw1F32_o4g5P-sfIuatgcHUFXo7LntQrhCKUdXsApK5bOrWqGIthdg=w48-h48-c-k-nd",
+                        "width": 48
+                    }
+                ],
+                "is_custom_emoji": true,
+                "name": ":_poffTheBest:",
+                "search_terms": [
+                    "_poffTheBest",
+                    "poffTheBest",
+                    "_TheBest",
+                    "TheBest"
+                ],
+                "shortcuts": [
+                    ":_poffTheBest:",
+                    ":poffTheBest:",
+                    ":_TheBest:",
+                    ":TheBest:"
+                ]
+            },
+            {
+                "id": "UCIlelqWA2ycq30ebF9-K0Tw/k9yqZYKOLq2j_9EP-uKq8Ak",
+                "images": [
+                    {
+                        "id": "source",
+                        "url": "https://yt3.ggpht.com/LibEXXXcEpUh4WyprTfdR669byfF1LeYOYB_7OHjsqjIBCRa4YaasFGJZhfSOsV63R0UqPO54A"
+                    },
+                    {
+                        "height": 24,
+                        "id": "24x24",
+                        "url": "https://yt3.ggpht.com/LibEXXXcEpUh4WyprTfdR669byfF1LeYOYB_7OHjsqjIBCRa4YaasFGJZhfSOsV63R0UqPO54A=w24-h24-c-k-nd",
+                        "width": 24
+                    },
+                    {
+                        "height": 48,
+                        "id": "48x48",
+                        "url": "https://yt3.ggpht.com/LibEXXXcEpUh4WyprTfdR669byfF1LeYOYB_7OHjsqjIBCRa4YaasFGJZhfSOsV63R0UqPO54A=w48-h48-c-k-nd",
+                        "width": 48
+                    }
+                ],
+                "is_custom_emoji": true,
+                "name": ":_poffMyMan:",
+                "search_terms": [
+                    "_poffMyMan",
+                    "poffMyMan",
+                    "_MyMan",
+                    "MyMan"
+                ],
+                "shortcuts": [
+                    ":_poffMyMan:",
+                    ":poffMyMan:",
+                    ":_MyMan:",
+                    ":MyMan:"
+                ]
+            },
+            {
+                "id": "UCIlelqWA2ycq30ebF9-K0Tw/t65wZfr7B-mo_9EP78-KqAc",
+                "images": [
+                    {
+                        "id": "source",
+                        "url": "https://yt3.ggpht.com/wFP0Lgkzr_hEzjOTPnb_jD__1BRuHgKbco_6nvZ-wdKX2Z_RGePYMYY45prgW_xEOCUxfQoQTg"
+                    },
+                    {
+                        "height": 24,
+                        "id": "24x24",
+                        "url": "https://yt3.ggpht.com/wFP0Lgkzr_hEzjOTPnb_jD__1BRuHgKbco_6nvZ-wdKX2Z_RGePYMYY45prgW_xEOCUxfQoQTg=w24-h24-c-k-nd",
+                        "width": 24
+                    },
+                    {
+                        "height": 48,
+                        "id": "48x48",
+                        "url": "https://yt3.ggpht.com/wFP0Lgkzr_hEzjOTPnb_jD__1BRuHgKbco_6nvZ-wdKX2Z_RGePYMYY45prgW_xEOCUxfQoQTg=w48-h48-c-k-nd",
+                        "width": 48
+                    }
+                ],
+                "is_custom_emoji": true,
+                "name": ":_poffLove:",
+                "search_terms": [
+                    "_poffLove",
+                    "poffLove",
+                    "_Love",
+                    "Love"
+                ],
+                "shortcuts": [
+                    ":_poffLove:",
+                    ":poffLove:",
+                    ":_Love:",
+                    ":Love:"
+                ]
+            },
+            {
+                "id": "UCIlelqWA2ycq30ebF9-K0Tw/t65wZef6B-mo_9EP78-KqAc",
+                "images": [
+                    {
+                        "id": "source",
+                        "url": "https://yt3.ggpht.com/rjVFxnBDGfPF2rwhl9jwDoskclVzZps4sISY0cXK0vfsxlBopTxD-itXMa6i7wyOSXYQnnpi"
+                    },
+                    {
+                        "height": 24,
+                        "id": "24x24",
+                        "url": "https://yt3.ggpht.com/rjVFxnBDGfPF2rwhl9jwDoskclVzZps4sISY0cXK0vfsxlBopTxD-itXMa6i7wyOSXYQnnpi=w24-h24-c-k-nd",
+                        "width": 24
+                    },
+                    {
+                        "height": 48,
+                        "id": "48x48",
+                        "url": "https://yt3.ggpht.com/rjVFxnBDGfPF2rwhl9jwDoskclVzZps4sISY0cXK0vfsxlBopTxD-itXMa6i7wyOSXYQnnpi=w48-h48-c-k-nd",
+                        "width": 48
+                    }
+                ],
+                "is_custom_emoji": true,
+                "name": ":_poffScarf:",
+                "search_terms": [
+                    "_poffScarf",
+                    "poffScarf",
+                    "_Scarf",
+                    "Scarf"
+                ],
+                "shortcuts": [
+                    ":_poffScarf:",
+                    ":poffScarf:",
+                    ":_Scarf:",
+                    ":Scarf:"
+                ]
+            },
+            {
+                "id": "UCIlelqWA2ycq30ebF9-K0Tw/t65wZYT7B-mo_9EP78-KqAc",
+                "images": [
+                    {
+                        "id": "source",
+                        "url": "https://yt3.ggpht.com/61wwoJv9x512qdmfexIYYKRl-MRAxNH6jot476Iuh4Hm1znmqsKlGx1N_eUWNPAe9ipPai1UAA"
+                    },
+                    {
+                        "height": 24,
+                        "id": "24x24",
+                        "url": "https://yt3.ggpht.com/61wwoJv9x512qdmfexIYYKRl-MRAxNH6jot476Iuh4Hm1znmqsKlGx1N_eUWNPAe9ipPai1UAA=w24-h24-c-k-nd",
+                        "width": 24
+                    },
+                    {
+                        "height": 48,
+                        "id": "48x48",
+                        "url": "https://yt3.ggpht.com/61wwoJv9x512qdmfexIYYKRl-MRAxNH6jot476Iuh4Hm1znmqsKlGx1N_eUWNPAe9ipPai1UAA=w48-h48-c-k-nd",
+                        "width": 48
+                    }
+                ],
+                "is_custom_emoji": true,
+                "name": ":_poffSquad:",
+                "search_terms": [
+                    "_poffSquad",
+                    "poffSquad",
+                    "_Squad",
+                    "Squad"
+                ],
+                "shortcuts": [
+                    ":_poffSquad:",
+                    ":poffSquad:",
+                    ":_Squad:",
+                    ":Squad:"
+                ]
+            }
+        ],
+        "message": ":_poffGGs::_poffGGs::_poffGGs::_poffGGs::_poffOhYeah::_poffTheBest::_poffMyMan::_poffTheBest::_poffLove::_poffScarf::_poffSquad::_poffLove::_poffLove::_poffLove:",
+        "message_id": "ChwKGkNLeUR4SWJrc1k0REZmSER3Z1FkQWlzWEh3",
+        "message_type": "text_message",
+        "timestamp": 1752132995844388
+    }, 
+    {
+        "action_type": "add_chat_item",
+        "author": {
+            "id": "UCr8_EltYdPGzEk6hWaAnttQ",
+            "images": [
+                {
+                    "id": "source",
+                    "url": "https://yt4.ggpht.com/ytc/AIdro_mJvUs25QZi06OspH1Sc9kocGZy7o1fdp35qaP0mDk"
+                },
+                {
+                    "height": 32,
+                    "id": "32x32",
+                    "url": "https://yt4.ggpht.com/ytc/AIdro_mJvUs25QZi06OspH1Sc9kocGZy7o1fdp35qaP0mDk=s32-c-k-c0x00ffffff-no-rj",
+                    "width": 32
+                },
+                {
+                    "height": 64,
+                    "id": "64x64",
+                    "url": "https://yt4.ggpht.com/ytc/AIdro_mJvUs25QZi06OspH1Sc9kocGZy7o1fdp35qaP0mDk=s64-c-k-c0x00ffffff-no-rj",
+                    "width": 64
+                }
+            ],
+            "name": "pydor88"
+        },
+        "message": "Been a good run tonight!!!",
+        "message_id": "ChwKGkNKZkEtb2prc1k0REZkN09GZ2tkUVAwM3JB",
+        "message_type": "text_message",
+        "timestamp": 1752133000932380
+    }, 
+    {
+        "action_type": "add_chat_item",
+        "author": {
+            "id": "UCmsy1yw57CXnPEC6_R40-0g",
+            "images": [
+                {
+                    "id": "source",
+                    "url": "https://yt4.ggpht.com/UKGaOXPmbLcd3DuG52Ul_hT2Pwp-ns_NfrMapmrpgodfdhs08GOo1-XjKEz9IYWNk2BPkAA1Ng"
+                },
+                {
+                    "height": 32,
+                    "id": "32x32",
+                    "url": "https://yt4.ggpht.com/UKGaOXPmbLcd3DuG52Ul_hT2Pwp-ns_NfrMapmrpgodfdhs08GOo1-XjKEz9IYWNk2BPkAA1Ng=s32-c-k-c0x00ffffff-no-rj",
+                    "width": 32
+                },
+                {
+                    "height": 64,
+                    "id": "64x64",
+                    "url": "https://yt4.ggpht.com/UKGaOXPmbLcd3DuG52Ul_hT2Pwp-ns_NfrMapmrpgodfdhs08GOo1-XjKEz9IYWNk2BPkAA1Ng=s64-c-k-c0x00ffffff-no-rj",
+                    "width": 64
+                }
+            ],
+            "name": "Ethan Staniford"
+        },
+        "message": "ggs",
+        "message_id": "ChwKGkNOdVhoWXZrc1k0REZXVEx3Z1FkSWdjdDZR",
+        "message_type": "text_message",
+        "timestamp": 1752133005300856
+    }, 
+    {
+        "action_type": "add_chat_item",
+        "author": {
+            "badges": [
+                {
+                    "icons": [
+                        {
+                            "id": "source",
+                            "url": "https://yt3.ggpht.com/WTHXbCJZspVQ2WyZu-9Qmyyb_RPr4t8rFamGp6hAhHIBqDd58Wb45tLwvnhix11w80zCbKtCzw"
+                        },
+                        {
+                            "height": 16,
+                            "id": "16x16",
+                            "url": "https://yt3.ggpht.com/WTHXbCJZspVQ2WyZu-9Qmyyb_RPr4t8rFamGp6hAhHIBqDd58Wb45tLwvnhix11w80zCbKtCzw=s16-c-k",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "id": "32x32",
+                            "url": "https://yt3.ggpht.com/WTHXbCJZspVQ2WyZu-9Qmyyb_RPr4t8rFamGp6hAhHIBqDd58Wb45tLwvnhix11w80zCbKtCzw=s32-c-k",
+                            "width": 32
+                        }
+                    ],
+                    "title": "Member (1 year)"
+                }
+            ],
+            "id": "UCW-jX-R64PsdIV4S6vG81nA",
+            "images": [
+                {
+                    "id": "source",
+                    "url": "https://yt4.ggpht.com/Bxr54IiahK3dPTtx9CCXUZKb-c7AOJUQFbrP4IL79nNoAO1efu4IXqPa_u6jyXO-VD5HQS_k0Q"
+                },
+                {
+                    "height": 32,
+                    "id": "32x32",
+                    "url": "https://yt4.ggpht.com/Bxr54IiahK3dPTtx9CCXUZKb-c7AOJUQFbrP4IL79nNoAO1efu4IXqPa_u6jyXO-VD5HQS_k0Q=s32-c-k-c0x00ffffff-no-rj",
+                    "width": 32
+                },
+                {
+                    "height": 64,
+                    "id": "64x64",
+                    "url": "https://yt4.ggpht.com/Bxr54IiahK3dPTtx9CCXUZKb-c7AOJUQFbrP4IL79nNoAO1efu4IXqPa_u6jyXO-VD5HQS_k0Q=s64-c-k-c0x00ffffff-no-rj",
+                    "width": 64
+                }
+            ],
+            "name": "Welcome to Warzone"
+        },
+        "message": "We love you",
+        "message_id": "ChwKGkNJRGxrWXZrc1k0REZRSWcxZ0FkRmNvQlFn",
+        "message_type": "text_message",
+        "timestamp": 1752133005507750
+    }, 
+    {
+        "action_type": "add_chat_item",
+        "author": {
+            "badges": [
+                {
+                    "icons": [
+                        {
+                            "id": "source",
+                            "url": "https://yt3.ggpht.com/oz-bSX5HnluX07ZHfcva9_NrNzms1V4G3QMtbFwP7v37x1-q826mtGA6H6E0cQLUa-lmv4h6cw"
+                        },
+                        {
+                            "height": 16,
+                            "id": "16x16",
+                            "url": "https://yt3.ggpht.com/oz-bSX5HnluX07ZHfcva9_NrNzms1V4G3QMtbFwP7v37x1-q826mtGA6H6E0cQLUa-lmv4h6cw=s16-c-k",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "id": "32x32",
+                            "url": "https://yt3.ggpht.com/oz-bSX5HnluX07ZHfcva9_NrNzms1V4G3QMtbFwP7v37x1-q826mtGA6H6E0cQLUa-lmv4h6cw=s32-c-k",
+                            "width": 32
+                        }
+                    ],
+                    "title": "Member (6 months)"
+                }
+            ],
+            "id": "UCyBSjNhbs2g94Zd8UBG-6VQ",
+            "images": [
+                {
+                    "id": "source",
+                    "url": "https://yt4.ggpht.com/7qoe6GZATE2-O9e5oBJo3m3A7dqMlHRcZihI2rNRzFnTmkKDA4t_jyjPnV0VQ3TLWWHQ0zL08w"
+                },
+                {
+                    "height": 32,
+                    "id": "32x32",
+                    "url": "https://yt4.ggpht.com/7qoe6GZATE2-O9e5oBJo3m3A7dqMlHRcZihI2rNRzFnTmkKDA4t_jyjPnV0VQ3TLWWHQ0zL08w=s32-c-k-c0x00ffffff-no-rj",
+                    "width": 32
+                },
+                {
+                    "height": 64,
+                    "id": "64x64",
+                    "url": "https://yt4.ggpht.com/7qoe6GZATE2-O9e5oBJo3m3A7dqMlHRcZihI2rNRzFnTmkKDA4t_jyjPnV0VQ3TLWWHQ0zL08w=s64-c-k-c0x00ffffff-no-rj",
+                    "width": 64
+                }
+            ],
+            "name": "VoodoDoc"
+        },
+        "message": "Best stream yet Big Bob!!!",
+        "message_id": "ChwKGkNJdUNpSTNrc1k0REZaYTdyZ1VkZk93aHZ3",
+        "message_type": "text_message",
+        "timestamp": 1752133009540558
+    }, 
+    {
+        "action_type": "add_chat_item",
+        "author": {
+            "badges": [
+                {
+                    "icon_name": "moderator",
+                    "title": "Moderator"
+                },
+                {
+                    "icons": [
+                        {
+                            "id": "source",
+                            "url": "https://yt3.ggpht.com/WTHXbCJZspVQ2WyZu-9Qmyyb_RPr4t8rFamGp6hAhHIBqDd58Wb45tLwvnhix11w80zCbKtCzw"
+                        },
+                        {
+                            "height": 16,
+                            "id": "16x16",
+                            "url": "https://yt3.ggpht.com/WTHXbCJZspVQ2WyZu-9Qmyyb_RPr4t8rFamGp6hAhHIBqDd58Wb45tLwvnhix11w80zCbKtCzw=s16-c-k",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "id": "32x32",
+                            "url": "https://yt3.ggpht.com/WTHXbCJZspVQ2WyZu-9Qmyyb_RPr4t8rFamGp6hAhHIBqDd58Wb45tLwvnhix11w80zCbKtCzw=s32-c-k",
+                            "width": 32
+                        }
+                    ],
+                    "title": "Member (1 year)"
+                }
+            ],
+            "id": "UCL3c1Fs_Lfaf4VHVUt8nTDw",
+            "images": [
+                {
+                    "id": "source",
+                    "url": "https://yt4.ggpht.com/AFByDu6GyGPYBf-94O6hWKLyvoRs5dyqwyk13dTIiX2pyYytpG5UKSp-qi7w9iV8rd_k_MHu4g"
+                },
+                {
+                    "height": 32,
+                    "id": "32x32",
+                    "url": "https://yt4.ggpht.com/AFByDu6GyGPYBf-94O6hWKLyvoRs5dyqwyk13dTIiX2pyYytpG5UKSp-qi7w9iV8rd_k_MHu4g=s32-c-k-c0x00ffffff-no-rj",
+                    "width": 32
+                },
+                {
+                    "height": 64,
+                    "id": "64x64",
+                    "url": "https://yt4.ggpht.com/AFByDu6GyGPYBf-94O6hWKLyvoRs5dyqwyk13dTIiX2pyYytpG5UKSp-qi7w9iV8rd_k_MHu4g=s64-c-k-c0x00ffffff-no-rj",
+                    "width": 64
+                }
+            ],
+            "name": "Oogie Boogie"
+        },
+        "message": "I knew it, yay!",
+        "message_id": "ChwKGkNLMnVtcERrc1k0REZYN0N3Z1FkSzlNN3h3",
+        "message_type": "text_message",
+        "timestamp": 1752133016134316
+    }, 
+    {
+        "action_type": "add_chat_item",
+        "author": {
+            "id": "UCBnvvbWXGj5S_DKmsKd_s5w",
+            "images": [
+                {
+                    "id": "source",
+                    "url": "https://yt4.ggpht.com/ytc/AIdro_nbHO1aVV_uT3cy6YvXBq4t0-5IaP5sszmBugAMKwuJhA"
+                },
+                {
+                    "height": 32,
+                    "id": "32x32",
+                    "url": "https://yt4.ggpht.com/ytc/AIdro_nbHO1aVV_uT3cy6YvXBq4t0-5IaP5sszmBugAMKwuJhA=s32-c-k-c0x00ffffff-no-rj",
+                    "width": 32
+                },
+                {
+                    "height": 64,
+                    "id": "64x64",
+                    "url": "https://yt4.ggpht.com/ytc/AIdro_nbHO1aVV_uT3cy6YvXBq4t0-5IaP5sszmBugAMKwuJhA=s64-c-k-c0x00ffffff-no-rj",
+                    "width": 64
+                }
+            ],
+            "name": "pontiacf"
+        },
+        "message": "Good night",
+        "message_id": "ChwKGkNNM1ZocEhrc1k0REZaSEFsQWtkSkRnaTdn",
+        "message_type": "text_message",
+        "timestamp": 1752133017909336
+    }, 
+    {
+        "action_type": "add_chat_item",
+        "author": {
+            "id": "UCE5ZJCebOEK0GKiZQzhcfAQ",
+            "images": [
+                {
+                    "id": "source",
+                    "url": "https://yt4.ggpht.com/ytc/AIdro_mkdeTBGlDh-mszZu7GIFaSddBTI--mUeWebPpa52I"
+                },
+                {
+                    "height": 32,
+                    "id": "32x32",
+                    "url": "https://yt4.ggpht.com/ytc/AIdro_mkdeTBGlDh-mszZu7GIFaSddBTI--mUeWebPpa52I=s32-c-k-c0x00ffffff-no-rj",
+                    "width": 32
+                },
+                {
+                    "height": 64,
+                    "id": "64x64",
+                    "url": "https://yt4.ggpht.com/ytc/AIdro_mkdeTBGlDh-mszZu7GIFaSddBTI--mUeWebPpa52I=s64-c-k-c0x00ffffff-no-rj",
+                    "width": 64
+                }
+            ],
+            "name": "steve quist"
+        },
+        "message": "awesome stream ggs.",
+        "message_id": "ChwKGkNLS1lncGJrc1k0REZVTUkxZ0FkOHBvWktn",
+        "message_type": "text_message",
+        "timestamp": 1752133028320465
+    }, 
+    {
+        "action_type": "add_chat_item",
+        "author": {
+            "badges": [
+                {
+                    "icons": [
+                        {
+                            "id": "source",
+                            "url": "https://yt3.ggpht.com/zjvtMjZCg_7joyLzs_V8BvQ0L5MOYHvWrzzHlSKQrf10RQVGUdcexHNNcFozuvWwmpYzFlpc"
+                        },
+                        {
+                            "height": 16,
+                            "id": "16x16",
+                            "url": "https://yt3.ggpht.com/zjvtMjZCg_7joyLzs_V8BvQ0L5MOYHvWrzzHlSKQrf10RQVGUdcexHNNcFozuvWwmpYzFlpc=s16-c-k",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "id": "32x32",
+                            "url": "https://yt3.ggpht.com/zjvtMjZCg_7joyLzs_V8BvQ0L5MOYHvWrzzHlSKQrf10RQVGUdcexHNNcFozuvWwmpYzFlpc=s32-c-k",
+                            "width": 32
+                        }
+                    ],
+                    "title": "Member (1 month)"
+                }
+            ],
+            "id": "UCdUHqVuKvGofez79Im4BLFw",
+            "images": [
+                {
+                    "id": "source",
+                    "url": "https://yt4.ggpht.com/ytc/AIdro_lhRCpMYpaOuavIVVcx0SrbhvZJbnyUyYm5LKMoCKY7ffk"
+                },
+                {
+                    "height": 32,
+                    "id": "32x32",
+                    "url": "https://yt4.ggpht.com/ytc/AIdro_lhRCpMYpaOuavIVVcx0SrbhvZJbnyUyYm5LKMoCKY7ffk=s32-c-k-c0x00ffffff-no-rj",
+                    "width": 32
+                },
+                {
+                    "height": 64,
+                    "id": "64x64",
+                    "url": "https://yt4.ggpht.com/ytc/AIdro_lhRCpMYpaOuavIVVcx0SrbhvZJbnyUyYm5LKMoCKY7ffk=s64-c-k-c0x00ffffff-no-rj",
+                    "width": 64
+                }
+            ],
+            "name": "Yeahnahbro"
+        },
+        "emotes": [
+            {
+                "id": "UCIlelqWA2ycq30ebF9-K0Tw/k9yqZfOOLq2j_9EP-uKq8Ak",
+                "images": [
+                    {
+                        "id": "source",
+                        "url": "https://yt3.ggpht.com/SGtjdf1yHRGPJhtkyt8dTAwqBNQjc-dfpjEEV8fgiPvfvz5YK6vD9aVwO0XL7gyeWcxotmR_jYA"
+                    },
+                    {
+                        "height": 24,
+                        "id": "24x24",
+                        "url": "https://yt3.ggpht.com/SGtjdf1yHRGPJhtkyt8dTAwqBNQjc-dfpjEEV8fgiPvfvz5YK6vD9aVwO0XL7gyeWcxotmR_jYA=w24-h24-c-k-nd",
+                        "width": 24
+                    },
+                    {
+                        "height": 48,
+                        "id": "48x48",
+                        "url": "https://yt3.ggpht.com/SGtjdf1yHRGPJhtkyt8dTAwqBNQjc-dfpjEEV8fgiPvfvz5YK6vD9aVwO0XL7gyeWcxotmR_jYA=w48-h48-c-k-nd",
+                        "width": 48
+                    }
+                ],
+                "is_custom_emoji": true,
+                "name": ":_poffOhYeah:",
+                "search_terms": [
+                    "_poffOhYeah",
+                    "poffOhYeah",
+                    "_OhYeah",
+                    "OhYeah"
+                ],
+                "shortcuts": [
+                    ":_poffOhYeah:",
+                    ":poffOhYeah:",
+                    ":_OhYeah:",
+                    ":OhYeah:"
+                ]
+            },
+            {
+                "id": "UCIlelqWA2ycq30ebF9-K0Tw/t65wZcD7B-mo_9EP78-KqAc",
+                "images": [
+                    {
+                        "id": "source",
+                        "url": "https://yt3.ggpht.com/Z-Kp37MkzvnfhWkTc3PQ5UdhMiA3qrTKTbkJ83DcY-nKOiku3yHmIcMwSCVFjvr_F6Ha4uZ6jQ"
+                    },
+                    {
+                        "height": 24,
+                        "id": "24x24",
+                        "url": "https://yt3.ggpht.com/Z-Kp37MkzvnfhWkTc3PQ5UdhMiA3qrTKTbkJ83DcY-nKOiku3yHmIcMwSCVFjvr_F6Ha4uZ6jQ=w24-h24-c-k-nd",
+                        "width": 24
+                    },
+                    {
+                        "height": 48,
+                        "id": "48x48",
+                        "url": "https://yt3.ggpht.com/Z-Kp37MkzvnfhWkTc3PQ5UdhMiA3qrTKTbkJ83DcY-nKOiku3yHmIcMwSCVFjvr_F6Ha4uZ6jQ=w48-h48-c-k-nd",
+                        "width": 48
+                    }
+                ],
+                "is_custom_emoji": true,
+                "name": ":_poffSend:",
+                "search_terms": [
+                    "_poffSend",
+                    "poffSend",
+                    "_Send",
+                    "Send"
+                ],
+                "shortcuts": [
+                    ":_poffSend:",
+                    ":poffSend:",
+                    ":_Send:",
+                    ":Send:"
+                ]
+            }
+        ],
+        "message": "THE SHOTTY BOYS:_poffOhYeah::_poffSend::_poffSend::_poffSend:",
+        "message_id": "ChwKGkNPbW1qWmprc1k0REZadmV3Z1FkNmk0d2R3",
+        "message_type": "text_message",
+        "timestamp": 1752133032697851
+    }, 
+    {
+        "action_type": "add_chat_item",
+        "author": {
+            "badges": [
+                {
+                    "icon_name": "moderator",
+                    "title": "Moderator"
+                },
+                {
+                    "icons": [
+                        {
+                            "id": "source",
+                            "url": "https://yt3.ggpht.com/WTHXbCJZspVQ2WyZu-9Qmyyb_RPr4t8rFamGp6hAhHIBqDd58Wb45tLwvnhix11w80zCbKtCzw"
+                        },
+                        {
+                            "height": 16,
+                            "id": "16x16",
+                            "url": "https://yt3.ggpht.com/WTHXbCJZspVQ2WyZu-9Qmyyb_RPr4t8rFamGp6hAhHIBqDd58Wb45tLwvnhix11w80zCbKtCzw=s16-c-k",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "id": "32x32",
+                            "url": "https://yt3.ggpht.com/WTHXbCJZspVQ2WyZu-9Qmyyb_RPr4t8rFamGp6hAhHIBqDd58Wb45tLwvnhix11w80zCbKtCzw=s32-c-k",
+                            "width": 32
+                        }
+                    ],
+                    "title": "Member (1 year)"
+                }
+            ],
+            "id": "UC_n821nAP3279nwH7VvNdPQ",
+            "images": [
+                {
+                    "id": "source",
+                    "url": "https://yt4.ggpht.com/bkzWnbcVxBmn7W9LKfodhJApu26vt9H8UXYKHyx16U4IzCW5nLwv8kfgsloql_SSKUpEd3dF3Q"
+                },
+                {
+                    "height": 32,
+                    "id": "32x32",
+                    "url": "https://yt4.ggpht.com/bkzWnbcVxBmn7W9LKfodhJApu26vt9H8UXYKHyx16U4IzCW5nLwv8kfgsloql_SSKUpEd3dF3Q=s32-c-k-c0x00ffffff-no-rj",
+                    "width": 32
+                },
+                {
+                    "height": 64,
+                    "id": "64x64",
+                    "url": "https://yt4.ggpht.com/bkzWnbcVxBmn7W9LKfodhJApu26vt9H8UXYKHyx16U4IzCW5nLwv8kfgsloql_SSKUpEd3dF3Q=s64-c-k-c0x00ffffff-no-rj",
+                    "width": 64
+                }
+            ],
+            "name": "CRUNCHY CRAIG"
+        },
+        "message": "Gg GOODNIGHT ",
+        "message_id": "ChwKGkNMelV1cG5rc1k0REZZR1k1UWNkRHRZTklB",
+        "message_type": "text_message",
+        "timestamp": 1752133035537738
+    }, 
+    {
+        "action_type": "add_chat_item",
+        "author": {
+            "badges": [
+                {
+                    "icons": [
+                        {
+                            "id": "source",
+                            "url": "https://yt3.ggpht.com/zjvtMjZCg_7joyLzs_V8BvQ0L5MOYHvWrzzHlSKQrf10RQVGUdcexHNNcFozuvWwmpYzFlpc"
+                        },
+                        {
+                            "height": 16,
+                            "id": "16x16",
+                            "url": "https://yt3.ggpht.com/zjvtMjZCg_7joyLzs_V8BvQ0L5MOYHvWrzzHlSKQrf10RQVGUdcexHNNcFozuvWwmpYzFlpc=s16-c-k",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "id": "32x32",
+                            "url": "https://yt3.ggpht.com/zjvtMjZCg_7joyLzs_V8BvQ0L5MOYHvWrzzHlSKQrf10RQVGUdcexHNNcFozuvWwmpYzFlpc=s32-c-k",
+                            "width": 32
+                        }
+                    ],
+                    "title": "Member (1 month)"
+                }
+            ],
+            "id": "UC6Nwr8s5aZtkiSTk2m1Db-w",
+            "images": [
+                {
+                    "id": "source",
+                    "url": "https://yt4.ggpht.com/BeQhusgVOY1Q25EYaqEpgit8Nx6eyPmDK7iLXso7hB9CVbINncT8A718mll3EubQhslz1o9Ga5c"
+                },
+                {
+                    "height": 32,
+                    "id": "32x32",
+                    "url": "https://yt4.ggpht.com/BeQhusgVOY1Q25EYaqEpgit8Nx6eyPmDK7iLXso7hB9CVbINncT8A718mll3EubQhslz1o9Ga5c=s32-c-k-c0x00ffffff-no-rj",
+                    "width": 32
+                },
+                {
+                    "height": 64,
+                    "id": "64x64",
+                    "url": "https://yt4.ggpht.com/BeQhusgVOY1Q25EYaqEpgit8Nx6eyPmDK7iLXso7hB9CVbINncT8A718mll3EubQhslz1o9Ga5c=s64-c-k-c0x00ffffff-no-rj",
+                    "width": 64
+                }
+            ],
+            "name": "BigHomie"
+        },
+        "message": "you ain't gotta justify shit bobby",
+        "message_id": "ChwKGkNLbTJuSnZrc1k0REZRcjJGZ2tkdDdZRzBn",
+        "message_type": "text_message",
+        "timestamp": 1752133039236975
+    }, 
+    {
+        "action_type": "add_chat_item",
+        "author": {
+            "badges": [
+                {
+                    "icons": [
+                        {
+                            "id": "source",
+                            "url": "https://yt3.ggpht.com/zjvtMjZCg_7joyLzs_V8BvQ0L5MOYHvWrzzHlSKQrf10RQVGUdcexHNNcFozuvWwmpYzFlpc"
+                        },
+                        {
+                            "height": 16,
+                            "id": "16x16",
+                            "url": "https://yt3.ggpht.com/zjvtMjZCg_7joyLzs_V8BvQ0L5MOYHvWrzzHlSKQrf10RQVGUdcexHNNcFozuvWwmpYzFlpc=s16-c-k",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "id": "32x32",
+                            "url": "https://yt3.ggpht.com/zjvtMjZCg_7joyLzs_V8BvQ0L5MOYHvWrzzHlSKQrf10RQVGUdcexHNNcFozuvWwmpYzFlpc=s32-c-k",
+                            "width": 32
+                        }
+                    ],
+                    "title": "Member (1 month)"
+                }
+            ],
+            "id": "UC6Nwr8s5aZtkiSTk2m1Db-w",
+            "images": [
+                {
+                    "id": "source",
+                    "url": "https://yt4.ggpht.com/BeQhusgVOY1Q25EYaqEpgit8Nx6eyPmDK7iLXso7hB9CVbINncT8A718mll3EubQhslz1o9Ga5c"
+                },
+                {
+                    "height": 32,
+                    "id": "32x32",
+                    "url": "https://yt4.ggpht.com/BeQhusgVOY1Q25EYaqEpgit8Nx6eyPmDK7iLXso7hB9CVbINncT8A718mll3EubQhslz1o9Ga5c=s32-c-k-c0x00ffffff-no-rj",
+                    "width": 32
+                },
+                {
+                    "height": 64,
+                    "id": "64x64",
+                    "url": "https://yt4.ggpht.com/BeQhusgVOY1Q25EYaqEpgit8Nx6eyPmDK7iLXso7hB9CVbINncT8A718mll3EubQhslz1o9Ga5c=s64-c-k-c0x00ffffff-no-rj",
+                    "width": 64
+                }
+            ],
+            "name": "BigHomie"
+        },
+        "message": "get some sleep big dawg",
+        "message_id": "ChwKGkNNMmc0Sjdrc1k0REZlV2Y1UWNkVEZZVmVB",
+        "message_type": "text_message",
+        "timestamp": 1752133046638963
+    }, 
+    {
+        "action_type": "add_chat_item",
+        "author": {
+            "id": "UCRLFxKVG0ltEWGoCtssDsdQ",
+            "images": [
+                {
+                    "id": "source",
+                    "url": "https://yt4.ggpht.com/I_o50gl4-YDn5LcRDSfyNF98IonhyzryWo4jBK4KQvvCsyRY-_uve8mm4WpmLT_53wG9ggyofg"
+                },
+                {
+                    "height": 32,
+                    "id": "32x32",
+                    "url": "https://yt4.ggpht.com/I_o50gl4-YDn5LcRDSfyNF98IonhyzryWo4jBK4KQvvCsyRY-_uve8mm4WpmLT_53wG9ggyofg=s32-c-k-c0x00ffffff-no-rj",
+                    "width": 32
+                },
+                {
+                    "height": 64,
+                    "id": "64x64",
+                    "url": "https://yt4.ggpht.com/I_o50gl4-YDn5LcRDSfyNF98IonhyzryWo4jBK4KQvvCsyRY-_uve8mm4WpmLT_53wG9ggyofg=s64-c-k-c0x00ffffff-no-rj",
+                    "width": 64
+                }
+            ],
+            "name": "Gage"
+        },
+        "message": "Gg ",
+        "message_id": "ChwKGkNJckVxS0Rrc1k0REZkcktGZ2tkNnhrTGJ3",
+        "message_type": "text_message",
+        "timestamp": 1752133049919717
+    }, 
+    {
+        "action_type": "add_chat_item",
+        "author": {
+            "badges": [
+                {
+                    "icon_name": "moderator",
+                    "title": "Moderator"
+                },
+                {
+                    "icons": [
+                        {
+                            "id": "source",
+                            "url": "https://yt3.ggpht.com/WTHXbCJZspVQ2WyZu-9Qmyyb_RPr4t8rFamGp6hAhHIBqDd58Wb45tLwvnhix11w80zCbKtCzw"
+                        },
+                        {
+                            "height": 16,
+                            "id": "16x16",
+                            "url": "https://yt3.ggpht.com/WTHXbCJZspVQ2WyZu-9Qmyyb_RPr4t8rFamGp6hAhHIBqDd58Wb45tLwvnhix11w80zCbKtCzw=s16-c-k",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "id": "32x32",
+                            "url": "https://yt3.ggpht.com/WTHXbCJZspVQ2WyZu-9Qmyyb_RPr4t8rFamGp6hAhHIBqDd58Wb45tLwvnhix11w80zCbKtCzw=s32-c-k",
+                            "width": 32
+                        }
+                    ],
+                    "title": "Member (1 year)"
+                }
+            ],
+            "id": "UCL3c1Fs_Lfaf4VHVUt8nTDw",
+            "images": [
+                {
+                    "id": "source",
+                    "url": "https://yt4.ggpht.com/AFByDu6GyGPYBf-94O6hWKLyvoRs5dyqwyk13dTIiX2pyYytpG5UKSp-qi7w9iV8rd_k_MHu4g"
+                },
+                {
+                    "height": 32,
+                    "id": "32x32",
+                    "url": "https://yt4.ggpht.com/AFByDu6GyGPYBf-94O6hWKLyvoRs5dyqwyk13dTIiX2pyYytpG5UKSp-qi7w9iV8rd_k_MHu4g=s32-c-k-c0x00ffffff-no-rj",
+                    "width": 32
+                },
+                {
+                    "height": 64,
+                    "id": "64x64",
+                    "url": "https://yt4.ggpht.com/AFByDu6GyGPYBf-94O6hWKLyvoRs5dyqwyk13dTIiX2pyYytpG5UKSp-qi7w9iV8rd_k_MHu4g=s64-c-k-c0x00ffffff-no-rj",
+                    "width": 64
+                }
+            ],
+            "name": "Oogie Boogie"
+        },
+        "emotes": [
+            {
+                "id": "UCIlelqWA2ycq30ebF9-K0Tw/k9yqZcuOLq2j_9EP-uKq8Ak",
+                "images": [
+                    {
+                        "id": "source",
+                        "url": "https://yt3.ggpht.com/ybG_dFykn-hu09Z1XBq-atY5PjTwSMRD2ZX87oAjRmhoiIjfnRmBhg3GFHo9jchJnEkyt6XGNg"
+                    },
+                    {
+                        "height": 24,
+                        "id": "24x24",
+                        "url": "https://yt3.ggpht.com/ybG_dFykn-hu09Z1XBq-atY5PjTwSMRD2ZX87oAjRmhoiIjfnRmBhg3GFHo9jchJnEkyt6XGNg=w24-h24-c-k-nd",
+                        "width": 24
+                    },
+                    {
+                        "height": 48,
+                        "id": "48x48",
+                        "url": "https://yt3.ggpht.com/ybG_dFykn-hu09Z1XBq-atY5PjTwSMRD2ZX87oAjRmhoiIjfnRmBhg3GFHo9jchJnEkyt6XGNg=w48-h48-c-k-nd",
+                        "width": 48
+                    }
+                ],
+                "is_custom_emoji": true,
+                "name": ":_poffGGs:",
+                "search_terms": [
+                    "_poffGGs",
+                    "poffGGs",
+                    "_GGs",
+                    "GGs"
+                ],
+                "shortcuts": [
+                    ":_poffGGs:",
+                    ":poffGGs:",
+                    ":_GGs:",
+                    ":GGs:"
+                ]
+            }
+        ],
+        "message": ":_poffGGs::_poffGGs::_poffGGs::_poffGGs: Good night Chat!!",
+        "message_id": "ChwKGkNKcVVyYURrc1k0REZTM1J3Z1FkX3pRNWJn",
+        "message_type": "text_message",
+        "timestamp": 1752133049997126
+    }, 
+    {
+        "action_type": "add_chat_item",
+        "author": {
+            "id": "UCE5ZJCebOEK0GKiZQzhcfAQ",
+            "images": [
+                {
+                    "id": "source",
+                    "url": "https://yt4.ggpht.com/ytc/AIdro_mkdeTBGlDh-mszZu7GIFaSddBTI--mUeWebPpa52I"
+                },
+                {
+                    "height": 32,
+                    "id": "32x32",
+                    "url": "https://yt4.ggpht.com/ytc/AIdro_mkdeTBGlDh-mszZu7GIFaSddBTI--mUeWebPpa52I=s32-c-k-c0x00ffffff-no-rj",
+                    "width": 32
+                },
+                {
+                    "height": 64,
+                    "id": "64x64",
+                    "url": "https://yt4.ggpht.com/ytc/AIdro_mkdeTBGlDh-mszZu7GIFaSddBTI--mUeWebPpa52I=s64-c-k-c0x00ffffff-no-rj",
+                    "width": 64
+                }
+            ],
+            "name": "steve quist"
+        },
+        "message": "17 wins lfg",
+        "message_id": "ChwKGkNPZWI5S0Rrc1k0REZRNEsxZ0FkTUU4VnBB",
+        "message_type": "text_message",
+        "timestamp": 1752133051161956
+    }, 
+    {
+        "action_type": "add_chat_item",
+        "author": {
+            "badges": [
+                {
+                    "icon_name": "moderator",
+                    "title": "Moderator"
+                }
+            ],
+            "id": "UCJMLp8-oyfqLHyFxfUpU7Ig",
+            "images": [
+                {
+                    "id": "source",
+                    "url": "https://yt4.ggpht.com/Qae0Khsat_K9w3KLI_TUx-usVsmpNVDdoSaJjJqkO8yeQsjDwP1oZiwJ8s2cjd_lZ5HnnDuQ"
+                },
+                {
+                    "height": 32,
+                    "id": "32x32",
+                    "url": "https://yt4.ggpht.com/Qae0Khsat_K9w3KLI_TUx-usVsmpNVDdoSaJjJqkO8yeQsjDwP1oZiwJ8s2cjd_lZ5HnnDuQ=s32-c-k-c0x00ffffff-no-rj",
+                    "width": 32
+                },
+                {
+                    "height": 64,
+                    "id": "64x64",
+                    "url": "https://yt4.ggpht.com/Qae0Khsat_K9w3KLI_TUx-usVsmpNVDdoSaJjJqkO8yeQsjDwP1oZiwJ8s2cjd_lZ5HnnDuQ=s64-c-k-c0x00ffffff-no-rj",
+                    "width": 64
+                }
+            ],
+            "name": "Fossabot"
+        },
+        "message": "Now Multi-Streaming to YouTube, Twitch, KICK, X, and TikTok! Drop a \"Like\" on the stream and also check us out at https://twitch.tv/bobbypoffgaming !",
+        "message_id": "ChwKGkNKNnpwYXZrc1k0REZVOF9yUVlkREI0WFpn",
+        "message_type": "text_message",
+        "timestamp": 1752133072938405
+    }, 
+    {
+        "action_type": "add_chat_item",
+        "author": {
+            "badges": [
+                {
+                    "icon_name": "moderator",
+                    "title": "Moderator"
+                },
+                {
+                    "icons": [
+                        {
+                            "id": "source",
+                            "url": "https://yt3.ggpht.com/WTHXbCJZspVQ2WyZu-9Qmyyb_RPr4t8rFamGp6hAhHIBqDd58Wb45tLwvnhix11w80zCbKtCzw"
+                        },
+                        {
+                            "height": 16,
+                            "id": "16x16",
+                            "url": "https://yt3.ggpht.com/WTHXbCJZspVQ2WyZu-9Qmyyb_RPr4t8rFamGp6hAhHIBqDd58Wb45tLwvnhix11w80zCbKtCzw=s16-c-k",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "id": "32x32",
+                            "url": "https://yt3.ggpht.com/WTHXbCJZspVQ2WyZu-9Qmyyb_RPr4t8rFamGp6hAhHIBqDd58Wb45tLwvnhix11w80zCbKtCzw=s32-c-k",
+                            "width": 32
+                        }
+                    ],
+                    "title": "Member (1 year)"
+                }
+            ],
+            "id": "UC_n821nAP3279nwH7VvNdPQ",
+            "images": [
+                {
+                    "id": "source",
+                    "url": "https://yt4.ggpht.com/bkzWnbcVxBmn7W9LKfodhJApu26vt9H8UXYKHyx16U4IzCW5nLwv8kfgsloql_SSKUpEd3dF3Q"
+                },
+                {
+                    "height": 32,
+                    "id": "32x32",
+                    "url": "https://yt4.ggpht.com/bkzWnbcVxBmn7W9LKfodhJApu26vt9H8UXYKHyx16U4IzCW5nLwv8kfgsloql_SSKUpEd3dF3Q=s32-c-k-c0x00ffffff-no-rj",
+                    "width": 32
+                },
+                {
+                    "height": 64,
+                    "id": "64x64",
+                    "url": "https://yt4.ggpht.com/bkzWnbcVxBmn7W9LKfodhJApu26vt9H8UXYKHyx16U4IzCW5nLwv8kfgsloql_SSKUpEd3dF3Q=s64-c-k-c0x00ffffff-no-rj",
+                    "width": 64
+                }
+            ],
+            "name": "CRUNCHY CRAIG"
+        },
+        "emotes": [
+            {
+                "id": "\u270c",
+                "images": [
+                    {
+                        "id": "source",
+                        "url": "https://fonts.gstatic.com/s/e/notoemoji/15.1/270c/72.png"
+                    },
+                    {
+                        "url": "https://fonts.gstatic.com/s/e/notoemoji/15.1/270c/72.png"
+                    }
+                ],
+                "is_custom_emoji": false,
+                "name": ":victory_hand:",
+                "search_terms": [
+                    "victory",
+                    "hand",
+                    "v"
+                ],
+                "shortcuts": [
+                    ":victory_hand:",
+                    ":v:"
+                ]
+            },
+            {
+                "id": "\u2764",
+                "images": [
+                    {
+                        "id": "source",
+                        "url": "https://fonts.gstatic.com/s/e/notoemoji/15.1/2764/72.png"
+                    },
+                    {
+                        "url": "https://fonts.gstatic.com/s/e/notoemoji/15.1/2764/72.png"
+                    }
+                ],
+                "is_custom_emoji": false,
+                "name": ":red_heart:",
+                "search_terms": [
+                    "red",
+                    "heart"
+                ],
+                "shortcuts": [
+                    ":red_heart:",
+                    ":heart:",
+                    "<3"
+                ]
+            }
+        ],
+        "message": ":victory_hand::victory_hand::victory_hand::victory_hand::red_heart::red_heart::red_heart::red_heart:",
+        "message_id": "ChwKGkNJT3hxYTNrc1k0REZUM0ZGZ2tkelcwaU1R",
+        "message_type": "text_message",
+        "timestamp": 1752133077197440
+    }, 
+    {
+        "action_type": "add_chat_item",
+        "author": {
+            "id": "UCRLFxKVG0ltEWGoCtssDsdQ",
+            "images": [
+                {
+                    "id": "source",
+                    "url": "https://yt4.ggpht.com/I_o50gl4-YDn5LcRDSfyNF98IonhyzryWo4jBK4KQvvCsyRY-_uve8mm4WpmLT_53wG9ggyofg"
+                },
+                {
+                    "height": 32,
+                    "id": "32x32",
+                    "url": "https://yt4.ggpht.com/I_o50gl4-YDn5LcRDSfyNF98IonhyzryWo4jBK4KQvvCsyRY-_uve8mm4WpmLT_53wG9ggyofg=s32-c-k-c0x00ffffff-no-rj",
+                    "width": 32
+                },
+                {
+                    "height": 64,
+                    "id": "64x64",
+                    "url": "https://yt4.ggpht.com/I_o50gl4-YDn5LcRDSfyNF98IonhyzryWo4jBK4KQvvCsyRY-_uve8mm4WpmLT_53wG9ggyofg=s64-c-k-c0x00ffffff-no-rj",
+                    "width": 64
+                }
+            ],
+            "name": "Gage"
+        },
+        "message": "Goodnight bob! ",
+        "message_id": "ChwKGkNKZmdpYTdrc1k0REZUek5GZ2tkdmtNWGNn",
+        "message_type": "text_message",
+        "timestamp": 1752133078776842
+    }, 
+    {
+        "action_type": "add_chat_item",
+        "author": {
+            "badges": [
+                {
+                    "icon_name": "moderator",
+                    "title": "Moderator"
+                },
+                {
+                    "icons": [
+                        {
+                            "id": "source",
+                            "url": "https://yt3.ggpht.com/WTHXbCJZspVQ2WyZu-9Qmyyb_RPr4t8rFamGp6hAhHIBqDd58Wb45tLwvnhix11w80zCbKtCzw"
+                        },
+                        {
+                            "height": 16,
+                            "id": "16x16",
+                            "url": "https://yt3.ggpht.com/WTHXbCJZspVQ2WyZu-9Qmyyb_RPr4t8rFamGp6hAhHIBqDd58Wb45tLwvnhix11w80zCbKtCzw=s16-c-k",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "id": "32x32",
+                            "url": "https://yt3.ggpht.com/WTHXbCJZspVQ2WyZu-9Qmyyb_RPr4t8rFamGp6hAhHIBqDd58Wb45tLwvnhix11w80zCbKtCzw=s32-c-k",
+                            "width": 32
+                        }
+                    ],
+                    "title": "Member (1 year)"
+                }
+            ],
+            "id": "UCL3c1Fs_Lfaf4VHVUt8nTDw",
+            "images": [
+                {
+                    "id": "source",
+                    "url": "https://yt4.ggpht.com/AFByDu6GyGPYBf-94O6hWKLyvoRs5dyqwyk13dTIiX2pyYytpG5UKSp-qi7w9iV8rd_k_MHu4g"
+                },
+                {
+                    "height": 32,
+                    "id": "32x32",
+                    "url": "https://yt4.ggpht.com/AFByDu6GyGPYBf-94O6hWKLyvoRs5dyqwyk13dTIiX2pyYytpG5UKSp-qi7w9iV8rd_k_MHu4g=s32-c-k-c0x00ffffff-no-rj",
+                    "width": 32
+                },
+                {
+                    "height": 64,
+                    "id": "64x64",
+                    "url": "https://yt4.ggpht.com/AFByDu6GyGPYBf-94O6hWKLyvoRs5dyqwyk13dTIiX2pyYytpG5UKSp-qi7w9iV8rd_k_MHu4g=s64-c-k-c0x00ffffff-no-rj",
+                    "width": 64
+                }
+            ],
+            "name": "Oogie Boogie"
+        },
+        "emotes": [
+            {
+                "id": "\ud83d\udc51",
+                "images": [
+                    {
+                        "id": "source",
+                        "url": "https://fonts.gstatic.com/s/e/notoemoji/15.1/1f451/72.png"
+                    },
+                    {
+                        "url": "https://fonts.gstatic.com/s/e/notoemoji/15.1/1f451/72.png"
+                    }
+                ],
+                "is_custom_emoji": false,
+                "name": ":crown:",
+                "search_terms": [
+                    "crown"
+                ],
+                "shortcuts": [
+                    ":crown:"
+                ]
+            },
+            {
+                "id": "UCIlelqWA2ycq30ebF9-K0Tw/t65wZfr7B-mo_9EP78-KqAc",
+                "images": [
+                    {
+                        "id": "source",
+                        "url": "https://yt3.ggpht.com/wFP0Lgkzr_hEzjOTPnb_jD__1BRuHgKbco_6nvZ-wdKX2Z_RGePYMYY45prgW_xEOCUxfQoQTg"
+                    },
+                    {
+                        "height": 24,
+                        "id": "24x24",
+                        "url": "https://yt3.ggpht.com/wFP0Lgkzr_hEzjOTPnb_jD__1BRuHgKbco_6nvZ-wdKX2Z_RGePYMYY45prgW_xEOCUxfQoQTg=w24-h24-c-k-nd",
+                        "width": 24
+                    },
+                    {
+                        "height": 48,
+                        "id": "48x48",
+                        "url": "https://yt3.ggpht.com/wFP0Lgkzr_hEzjOTPnb_jD__1BRuHgKbco_6nvZ-wdKX2Z_RGePYMYY45prgW_xEOCUxfQoQTg=w48-h48-c-k-nd",
+                        "width": 48
+                    }
+                ],
+                "is_custom_emoji": true,
+                "name": ":_poffLove:",
+                "search_terms": [
+                    "_poffLove",
+                    "poffLove",
+                    "_Love",
+                    "Love"
+                ],
+                "shortcuts": [
+                    ":_poffLove:",
+                    ":poffLove:",
+                    ":_Love:",
+                    ":Love:"
+                ]
+            }
+        ],
+        "message": "@CRUNCHY CRAIG My liege, :crown: :_poffLove::_poffLove:",
+        "message_id": "ChwKGkNLMklocV9rc1k0REZUYkR3Z1FkMGdNUi13",
+        "message_type": "text_message",
+        "timestamp": 1752133080813058
+    }, 
+    {
+        "action_type": "add_chat_item",
+        "author": {
+            "id": "UCBnvvbWXGj5S_DKmsKd_s5w",
+            "images": [
+                {
+                    "id": "source",
+                    "url": "https://yt4.ggpht.com/ytc/AIdro_nbHO1aVV_uT3cy6YvXBq4t0-5IaP5sszmBugAMKwuJhA"
+                },
+                {
+                    "height": 32,
+                    "id": "32x32",
+                    "url": "https://yt4.ggpht.com/ytc/AIdro_nbHO1aVV_uT3cy6YvXBq4t0-5IaP5sszmBugAMKwuJhA=s32-c-k-c0x00ffffff-no-rj",
+                    "width": 32
+                },
+                {
+                    "height": 64,
+                    "id": "64x64",
+                    "url": "https://yt4.ggpht.com/ytc/AIdro_nbHO1aVV_uT3cy6YvXBq4t0-5IaP5sszmBugAMKwuJhA=s64-c-k-c0x00ffffff-no-rj",
+                    "width": 64
+                }
+            ],
+            "name": "pontiacf"
+        },
+        "emotes": [
+            {
+                "id": "\ud83e\udd18\ud83c\udffb",
+                "images": [
+                    {
+                        "id": "source",
+                        "url": "https://fonts.gstatic.com/s/e/notoemoji/15.1/1f918_1f3fb/72.png"
+                    },
+                    {
+                        "url": "https://fonts.gstatic.com/s/e/notoemoji/15.1/1f918_1f3fb/72.png"
+                    }
+                ],
+                "is_custom_emoji": false,
+                "name": "\ud83e\udd18\ud83c\udffb",
+                "search_terms": null,
+                "shortcuts": null
+            }
+        ],
+        "message": "\ud83e\udd18\ud83c\udffb\ud83e\udd18\ud83c\udffb\ud83e\udd18\ud83c\udffb",
+        "message_id": "ChwKGkNMSDF5N1Brc1k0REZWYlNsQWtkeDI0NFdn",
+        "message_type": "text_message",
+        "timestamp": 1752133090346907
+    }, 
+    {
+        "action_type": "add_chat_item",
+        "author": {
+            "badges": [
+                {
+                    "icon_name": "moderator",
+                    "title": "Moderator"
+                },
+                {
+                    "icons": [
+                        {
+                            "id": "source",
+                            "url": "https://yt3.ggpht.com/WTHXbCJZspVQ2WyZu-9Qmyyb_RPr4t8rFamGp6hAhHIBqDd58Wb45tLwvnhix11w80zCbKtCzw"
+                        },
+                        {
+                            "height": 16,
+                            "id": "16x16",
+                            "url": "https://yt3.ggpht.com/WTHXbCJZspVQ2WyZu-9Qmyyb_RPr4t8rFamGp6hAhHIBqDd58Wb45tLwvnhix11w80zCbKtCzw=s16-c-k",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "id": "32x32",
+                            "url": "https://yt3.ggpht.com/WTHXbCJZspVQ2WyZu-9Qmyyb_RPr4t8rFamGp6hAhHIBqDd58Wb45tLwvnhix11w80zCbKtCzw=s32-c-k",
+                            "width": 32
+                        }
+                    ],
+                    "title": "Member (1 year)"
+                }
+            ],
+            "id": "UC_n821nAP3279nwH7VvNdPQ",
+            "images": [
+                {
+                    "id": "source",
+                    "url": "https://yt4.ggpht.com/bkzWnbcVxBmn7W9LKfodhJApu26vt9H8UXYKHyx16U4IzCW5nLwv8kfgsloql_SSKUpEd3dF3Q"
+                },
+                {
+                    "height": 32,
+                    "id": "32x32",
+                    "url": "https://yt4.ggpht.com/bkzWnbcVxBmn7W9LKfodhJApu26vt9H8UXYKHyx16U4IzCW5nLwv8kfgsloql_SSKUpEd3dF3Q=s32-c-k-c0x00ffffff-no-rj",
+                    "width": 32
+                },
+                {
+                    "height": 64,
+                    "id": "64x64",
+                    "url": "https://yt4.ggpht.com/bkzWnbcVxBmn7W9LKfodhJApu26vt9H8UXYKHyx16U4IzCW5nLwv8kfgsloql_SSKUpEd3dF3Q=s64-c-k-c0x00ffffff-no-rj",
+                    "width": 64
+                }
+            ],
+            "name": "CRUNCHY CRAIG"
+        },
+        "emotes": [
+            {
+                "id": "\u2764",
+                "images": [
+                    {
+                        "id": "source",
+                        "url": "https://fonts.gstatic.com/s/e/notoemoji/15.1/2764/72.png"
+                    },
+                    {
+                        "url": "https://fonts.gstatic.com/s/e/notoemoji/15.1/2764/72.png"
+                    }
+                ],
+                "is_custom_emoji": false,
+                "name": ":red_heart:",
+                "search_terms": [
+                    "red",
+                    "heart"
+                ],
+                "shortcuts": [
+                    ":red_heart:",
+                    ":heart:",
+                    "<3"
+                ]
+            },
+            {
+                "id": "\u270c",
+                "images": [
+                    {
+                        "id": "source",
+                        "url": "https://fonts.gstatic.com/s/e/notoemoji/15.1/270c/72.png"
+                    },
+                    {
+                        "url": "https://fonts.gstatic.com/s/e/notoemoji/15.1/270c/72.png"
+                    }
+                ],
+                "is_custom_emoji": false,
+                "name": ":victory_hand:",
+                "search_terms": [
+                    "victory",
+                    "hand",
+                    "v"
+                ],
+                "shortcuts": [
+                    ":victory_hand:",
+                    ":v:"
+                ]
+            },
+            {
+                "id": "\ud83e\udd1d",
+                "images": [
+                    {
+                        "id": "source",
+                        "url": "https://fonts.gstatic.com/s/e/notoemoji/15.1/1f91d/72.png"
+                    },
+                    {
+                        "url": "https://fonts.gstatic.com/s/e/notoemoji/15.1/1f91d/72.png"
+                    }
+                ],
+                "is_custom_emoji": false,
+                "name": ":handshake:",
+                "search_terms": [
+                    "handshake"
+                ],
+                "shortcuts": [
+                    ":handshake:"
+                ]
+            }
+        ],
+        "message": "OOGIE :red_heart::victory_hand::handshake:",
+        "message_id": "ChwKGkNMbldfTFhrc1k0REZkcktGZ2tkNnhrTGJ3",
+        "message_type": "text_message",
+        "timestamp": 1752133095338624
+    }, 
+    {
+        "action_type": "add_chat_item",
+        "author": {
+            "badges": [
+                {
+                    "icons": [
+                        {
+                            "id": "source",
+                            "url": "https://yt3.ggpht.com/SFT9wHETZglkD8Ae56grwYN_k0hQo_l0S93wRQpUj8Yzzo1-FI33hpHPW7rJOOxTteRxjG3_JOU"
+                        },
+                        {
+                            "height": 16,
+                            "id": "16x16",
+                            "url": "https://yt3.ggpht.com/SFT9wHETZglkD8Ae56grwYN_k0hQo_l0S93wRQpUj8Yzzo1-FI33hpHPW7rJOOxTteRxjG3_JOU=s16-c-k",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "id": "32x32",
+                            "url": "https://yt3.ggpht.com/SFT9wHETZglkD8Ae56grwYN_k0hQo_l0S93wRQpUj8Yzzo1-FI33hpHPW7rJOOxTteRxjG3_JOU=s32-c-k",
+                            "width": 32
+                        }
+                    ],
+                    "title": "New member"
+                }
+            ],
+            "id": "UCwSOgh0nWxpYQu1J1w2tCwQ",
+            "images": [
+                {
+                    "id": "source",
+                    "url": "https://yt4.ggpht.com/ytc/AIdro_kg0BdQ8aBu_InUG2V5dPRhb_w-rTCqLJMytIX5X7GyKw"
+                },
+                {
+                    "height": 32,
+                    "id": "32x32",
+                    "url": "https://yt4.ggpht.com/ytc/AIdro_kg0BdQ8aBu_InUG2V5dPRhb_w-rTCqLJMytIX5X7GyKw=s32-c-k-c0x00ffffff-no-rj",
+                    "width": 32
+                },
+                {
+                    "height": 64,
+                    "id": "64x64",
+                    "url": "https://yt4.ggpht.com/ytc/AIdro_kg0BdQ8aBu_InUG2V5dPRhb_w-rTCqLJMytIX5X7GyKw=s64-c-k-c0x00ffffff-no-rj",
+                    "width": 64
+                }
+            ],
+            "name": "dabizz24"
+        },
+        "emotes": [
+            {
+                "id": "UCIlelqWA2ycq30ebF9-K0Tw/k9yqZcuOLq2j_9EP-uKq8Ak",
+                "images": [
+                    {
+                        "id": "source",
+                        "url": "https://yt3.ggpht.com/ybG_dFykn-hu09Z1XBq-atY5PjTwSMRD2ZX87oAjRmhoiIjfnRmBhg3GFHo9jchJnEkyt6XGNg"
+                    },
+                    {
+                        "height": 24,
+                        "id": "24x24",
+                        "url": "https://yt3.ggpht.com/ybG_dFykn-hu09Z1XBq-atY5PjTwSMRD2ZX87oAjRmhoiIjfnRmBhg3GFHo9jchJnEkyt6XGNg=w24-h24-c-k-nd",
+                        "width": 24
+                    },
+                    {
+                        "height": 48,
+                        "id": "48x48",
+                        "url": "https://yt3.ggpht.com/ybG_dFykn-hu09Z1XBq-atY5PjTwSMRD2ZX87oAjRmhoiIjfnRmBhg3GFHo9jchJnEkyt6XGNg=w48-h48-c-k-nd",
+                        "width": 48
+                    }
+                ],
+                "is_custom_emoji": true,
+                "name": ":_poffGGs:",
+                "search_terms": [
+                    "_poffGGs",
+                    "poffGGs",
+                    "_GGs",
+                    "GGs"
+                ],
+                "shortcuts": [
+                    ":_poffGGs:",
+                    ":poffGGs:",
+                    ":_GGs:",
+                    ":GGs:"
+                ]
+            }
+        ],
+        "message": ":_poffGGs::_poffGGs::_poffGGs::_poffGGs::_poffGGs::_poffGGs::_poffGGs::_poffGGs::_poffGGs::_poffGGs::_poffGGs::_poffGGs::_poffGGs:",
+        "message_id": "ChwKGkNMV3Z2N25rc1k0REZaRFVsQWtkelk4ME53",
+        "message_type": "text_message",
+        "timestamp": 1752133102723737
+    }, 
+    {
+        "action_type": "add_chat_item",
+        "author": {
+            "id": "UCvJ82bKaixUaCJOGMXzyF5w",
+            "images": [
+                {
+                    "id": "source",
+                    "url": "https://yt4.ggpht.com/ytc/AIdro_lm_zOZN6FVCMC9XEgozZJNxopPmyd0qspJwRJFxH0emdOvBN8EgbvmEsBy4G2A8EPFaA"
+                },
+                {
+                    "height": 32,
+                    "id": "32x32",
+                    "url": "https://yt4.ggpht.com/ytc/AIdro_lm_zOZN6FVCMC9XEgozZJNxopPmyd0qspJwRJFxH0emdOvBN8EgbvmEsBy4G2A8EPFaA=s32-c-k-c0x00ffffff-no-rj",
+                    "width": 32
+                },
+                {
+                    "height": 64,
+                    "id": "64x64",
+                    "url": "https://yt4.ggpht.com/ytc/AIdro_lm_zOZN6FVCMC9XEgozZJNxopPmyd0qspJwRJFxH0emdOvBN8EgbvmEsBy4G2A8EPFaA=s64-c-k-c0x00ffffff-no-rj",
+                    "width": 64
+                }
+            ],
+            "name": "John Shotgun"
+        },
+        "emotes": [
+            {
+                "id": "\u2764",
+                "images": [
+                    {
+                        "id": "source",
+                        "url": "https://fonts.gstatic.com/s/e/notoemoji/15.1/2764/72.png"
+                    },
+                    {
+                        "url": "https://fonts.gstatic.com/s/e/notoemoji/15.1/2764/72.png"
+                    }
+                ],
+                "is_custom_emoji": false,
+                "name": ":red_heart:",
+                "search_terms": [
+                    "red",
+                    "heart"
+                ],
+                "shortcuts": [
+                    ":red_heart:",
+                    ":heart:",
+                    "<3"
+                ]
+            }
+        ],
+        "message": ":red_heart::red_heart::red_heart:",
+        "message_id": "ChwKGkNMblNsN3Jrc1k0REZVc0gxZ0FkTDBJUURR",
+        "message_type": "text_message",
+        "timestamp": 1752133104170307
+    }, 
+    {
+        "action_type": "add_chat_item",
+        "author": {
+            "badges": [
+                {
+                    "icons": [
+                        {
+                            "id": "source",
+                            "url": "https://yt3.ggpht.com/zjvtMjZCg_7joyLzs_V8BvQ0L5MOYHvWrzzHlSKQrf10RQVGUdcexHNNcFozuvWwmpYzFlpc"
+                        },
+                        {
+                            "height": 16,
+                            "id": "16x16",
+                            "url": "https://yt3.ggpht.com/zjvtMjZCg_7joyLzs_V8BvQ0L5MOYHvWrzzHlSKQrf10RQVGUdcexHNNcFozuvWwmpYzFlpc=s16-c-k",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "id": "32x32",
+                            "url": "https://yt3.ggpht.com/zjvtMjZCg_7joyLzs_V8BvQ0L5MOYHvWrzzHlSKQrf10RQVGUdcexHNNcFozuvWwmpYzFlpc=s32-c-k",
+                            "width": 32
+                        }
+                    ],
+                    "title": "Member (1 month)"
+                }
+            ],
+            "id": "UC6Nwr8s5aZtkiSTk2m1Db-w",
+            "images": [
+                {
+                    "id": "source",
+                    "url": "https://yt4.ggpht.com/BeQhusgVOY1Q25EYaqEpgit8Nx6eyPmDK7iLXso7hB9CVbINncT8A718mll3EubQhslz1o9Ga5c"
+                },
+                {
+                    "height": 32,
+                    "id": "32x32",
+                    "url": "https://yt4.ggpht.com/BeQhusgVOY1Q25EYaqEpgit8Nx6eyPmDK7iLXso7hB9CVbINncT8A718mll3EubQhslz1o9Ga5c=s32-c-k-c0x00ffffff-no-rj",
+                    "width": 32
+                },
+                {
+                    "height": 64,
+                    "id": "64x64",
+                    "url": "https://yt4.ggpht.com/BeQhusgVOY1Q25EYaqEpgit8Nx6eyPmDK7iLXso7hB9CVbINncT8A718mll3EubQhslz1o9Ga5c=s64-c-k-c0x00ffffff-no-rj",
+                    "width": 64
+                }
+            ],
+            "name": "BigHomie"
+        },
+        "message": "sweet dreams oogie",
+        "message_id": "ChwKGkNJUFM3N3Zrc1k0REZRZkR3Z1FkRmM0Yk13",
+        "message_type": "text_message",
+        "timestamp": 1752133107708856
+    }, 
+    {
+        "action_type": "add_chat_item",
+        "author": {
+            "badges": [
+                {
+                    "icons": [
+                        {
+                            "id": "source",
+                            "url": "https://yt3.ggpht.com/SFT9wHETZglkD8Ae56grwYN_k0hQo_l0S93wRQpUj8Yzzo1-FI33hpHPW7rJOOxTteRxjG3_JOU"
+                        },
+                        {
+                            "height": 16,
+                            "id": "16x16",
+                            "url": "https://yt3.ggpht.com/SFT9wHETZglkD8Ae56grwYN_k0hQo_l0S93wRQpUj8Yzzo1-FI33hpHPW7rJOOxTteRxjG3_JOU=s16-c-k",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "id": "32x32",
+                            "url": "https://yt3.ggpht.com/SFT9wHETZglkD8Ae56grwYN_k0hQo_l0S93wRQpUj8Yzzo1-FI33hpHPW7rJOOxTteRxjG3_JOU=s32-c-k",
+                            "width": 32
+                        }
+                    ],
+                    "title": "New member"
+                }
+            ],
+            "id": "UCwSOgh0nWxpYQu1J1w2tCwQ",
+            "images": [
+                {
+                    "id": "source",
+                    "url": "https://yt4.ggpht.com/ytc/AIdro_kg0BdQ8aBu_InUG2V5dPRhb_w-rTCqLJMytIX5X7GyKw"
+                },
+                {
+                    "height": 32,
+                    "id": "32x32",
+                    "url": "https://yt4.ggpht.com/ytc/AIdro_kg0BdQ8aBu_InUG2V5dPRhb_w-rTCqLJMytIX5X7GyKw=s32-c-k-c0x00ffffff-no-rj",
+                    "width": 32
+                },
+                {
+                    "height": 64,
+                    "id": "64x64",
+                    "url": "https://yt4.ggpht.com/ytc/AIdro_kg0BdQ8aBu_InUG2V5dPRhb_w-rTCqLJMytIX5X7GyKw=s64-c-k-c0x00ffffff-no-rj",
+                    "width": 64
+                }
+            ],
+            "name": "dabizz24"
+        },
+        "message": "night chat",
+        "message_id": "ChwKGkNLM293YjNrc1k0REZWYlNsQWtkeDI0NFdn",
+        "message_type": "text_message",
+        "timestamp": 1752133111161110
+    }, 
+    {
+        "action_type": "add_chat_item",
+        "author": {
+            "id": "UCFItx-GSJWBH-eOQbNkxN_g",
+            "images": [
+                {
+                    "id": "source",
+                    "url": "https://yt4.ggpht.com/ytc/AIdro_l7TnzphHoVXWHrkEvrS8WszL32QsFDRjM1sdqNOi1r9A"
+                },
+                {
+                    "height": 32,
+                    "id": "32x32",
+                    "url": "https://yt4.ggpht.com/ytc/AIdro_l7TnzphHoVXWHrkEvrS8WszL32QsFDRjM1sdqNOi1r9A=s32-c-k-c0x00ffffff-no-rj",
+                    "width": 32
+                },
+                {
+                    "height": 64,
+                    "id": "64x64",
+                    "url": "https://yt4.ggpht.com/ytc/AIdro_l7TnzphHoVXWHrkEvrS8WszL32QsFDRjM1sdqNOi1r9A=s64-c-k-c0x00ffffff-no-rj",
+                    "width": 64
+                }
+            ],
+            "name": "Jason B"
+        },
+        "message": "You da man",
+        "message_id": "ChwKGkNLV003Nzdrc1k0REZYUFB3Z1FkVFpNcUNn",
+        "message_type": "text_message",
+        "timestamp": 1752133113992394
+    }, 
+    {
+        "action_type": "add_chat_item",
+        "author": {
+            "id": "UCFItx-GSJWBH-eOQbNkxN_g",
+            "images": [
+                {
+                    "id": "source",
+                    "url": "https://yt4.ggpht.com/ytc/AIdro_l7TnzphHoVXWHrkEvrS8WszL32QsFDRjM1sdqNOi1r9A"
+                },
+                {
+                    "height": 32,
+                    "id": "32x32",
+                    "url": "https://yt4.ggpht.com/ytc/AIdro_l7TnzphHoVXWHrkEvrS8WszL32QsFDRjM1sdqNOi1r9A=s32-c-k-c0x00ffffff-no-rj",
+                    "width": 32
+                },
+                {
+                    "height": 64,
+                    "id": "64x64",
+                    "url": "https://yt4.ggpht.com/ytc/AIdro_l7TnzphHoVXWHrkEvrS8WszL32QsFDRjM1sdqNOi1r9A=s64-c-k-c0x00ffffff-no-rj",
+                    "width": 64
+                }
+            ],
+            "name": "Jason B"
+        },
+        "message": "Goodnight",
+        "message_id": "ChwKGkNJR2V6c0Rrc1k0REZiY19yUVlkLWZBbk9B",
+        "message_type": "text_message",
+        "timestamp": 1752133117650144
+    }, 
+    {
+        "action_type": "add_chat_item",
+        "author": {
+            "id": "UCpGDxKKlivJ0yKiBz7584kQ",
+            "images": [
+                {
+                    "id": "source",
+                    "url": "https://yt4.ggpht.com/k0wAdfNH2EtGpB7k-lB1vt3A_UcwbtemVUc05Si6kV5jU4QmSWW-wzX8Q_PcBYsMj6bJVY05Nw"
+                },
+                {
+                    "height": 32,
+                    "id": "32x32",
+                    "url": "https://yt4.ggpht.com/k0wAdfNH2EtGpB7k-lB1vt3A_UcwbtemVUc05Si6kV5jU4QmSWW-wzX8Q_PcBYsMj6bJVY05Nw=s32-c-k-c0x00ffffff-no-rj",
+                    "width": 32
+                },
+                {
+                    "height": 64,
+                    "id": "64x64",
+                    "url": "https://yt4.ggpht.com/k0wAdfNH2EtGpB7k-lB1vt3A_UcwbtemVUc05Si6kV5jU4QmSWW-wzX8Q_PcBYsMj6bJVY05Nw=s64-c-k-c0x00ffffff-no-rj",
+                    "width": 64
+                }
+            ],
+            "name": "Sassyfrass"
+        },
+        "message": "Bobby had to remind them who daddy is.",
+        "message_id": "ChwKGkNNcnpsTUhrc1k0REZkekJsQWtkcS1Rc2pR",
+        "message_type": "text_message",
+        "timestamp": 1752133118806392
+    }, 
+    {
+        "action_type": "add_chat_item",
+        "author": {
+            "badges": [
+                {
+                    "icon_name": "moderator",
+                    "title": "Moderator"
+                },
+                {
+                    "icons": [
+                        {
+                            "id": "source",
+                            "url": "https://yt3.ggpht.com/WTHXbCJZspVQ2WyZu-9Qmyyb_RPr4t8rFamGp6hAhHIBqDd58Wb45tLwvnhix11w80zCbKtCzw"
+                        },
+                        {
+                            "height": 16,
+                            "id": "16x16",
+                            "url": "https://yt3.ggpht.com/WTHXbCJZspVQ2WyZu-9Qmyyb_RPr4t8rFamGp6hAhHIBqDd58Wb45tLwvnhix11w80zCbKtCzw=s16-c-k",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "id": "32x32",
+                            "url": "https://yt3.ggpht.com/WTHXbCJZspVQ2WyZu-9Qmyyb_RPr4t8rFamGp6hAhHIBqDd58Wb45tLwvnhix11w80zCbKtCzw=s32-c-k",
+                            "width": 32
+                        }
+                    ],
+                    "title": "Member (1 year)"
+                }
+            ],
+            "id": "UCL3c1Fs_Lfaf4VHVUt8nTDw",
+            "images": [
+                {
+                    "id": "source",
+                    "url": "https://yt4.ggpht.com/AFByDu6GyGPYBf-94O6hWKLyvoRs5dyqwyk13dTIiX2pyYytpG5UKSp-qi7w9iV8rd_k_MHu4g"
+                },
+                {
+                    "height": 32,
+                    "id": "32x32",
+                    "url": "https://yt4.ggpht.com/AFByDu6GyGPYBf-94O6hWKLyvoRs5dyqwyk13dTIiX2pyYytpG5UKSp-qi7w9iV8rd_k_MHu4g=s32-c-k-c0x00ffffff-no-rj",
+                    "width": 32
+                },
+                {
+                    "height": 64,
+                    "id": "64x64",
+                    "url": "https://yt4.ggpht.com/AFByDu6GyGPYBf-94O6hWKLyvoRs5dyqwyk13dTIiX2pyYytpG5UKSp-qi7w9iV8rd_k_MHu4g=s64-c-k-c0x00ffffff-no-rj",
+                    "width": 64
+                }
+            ],
+            "name": "Oogie Boogie"
+        },
+        "message": "Thanks Homie, you too!",
+        "message_id": "ChwKGkNQYlIyOEhrc1k0REZmelB3Z1FkNWpzT093",
+        "message_type": "text_message",
+        "timestamp": 1752133119963547
+    }, 
+    {
+        "action_type": "add_chat_item",
+        "author": {
+            "id": "UCRLFxKVG0ltEWGoCtssDsdQ",
+            "images": [
+                {
+                    "id": "source",
+                    "url": "https://yt4.ggpht.com/I_o50gl4-YDn5LcRDSfyNF98IonhyzryWo4jBK4KQvvCsyRY-_uve8mm4WpmLT_53wG9ggyofg"
+                },
+                {
+                    "height": 32,
+                    "id": "32x32",
+                    "url": "https://yt4.ggpht.com/I_o50gl4-YDn5LcRDSfyNF98IonhyzryWo4jBK4KQvvCsyRY-_uve8mm4WpmLT_53wG9ggyofg=s32-c-k-c0x00ffffff-no-rj",
+                    "width": 32
+                },
+                {
+                    "height": 64,
+                    "id": "64x64",
+                    "url": "https://yt4.ggpht.com/I_o50gl4-YDn5LcRDSfyNF98IonhyzryWo4jBK4KQvvCsyRY-_uve8mm4WpmLT_53wG9ggyofg=s64-c-k-c0x00ffffff-no-rj",
+                    "width": 64
+                }
+            ],
+            "name": "Gage"
+        },
+        "message": "Night everyone ",
+        "message_id": "ChwKGkNMZkU3OEhrc1k0REZTUE1GZ2tkV04wcFFB",
+        "message_type": "text_message",
+        "timestamp": 1752133120290473
+    }, 
+    {
+        "action_type": "add_chat_item",
+        "author": {
+            "id": "UCDFvccfc_-EAwMMhN8noYng",
+            "images": [
+                {
+                    "id": "source",
+                    "url": "https://yt4.ggpht.com/4taUj7SlD3luedKBqGE35odMKTCEp_MDqFXzNJ1QrnpshP1smB4b2mInVFH536_BKuxZ_-MaNvA"
+                },
+                {
+                    "height": 32,
+                    "id": "32x32",
+                    "url": "https://yt4.ggpht.com/4taUj7SlD3luedKBqGE35odMKTCEp_MDqFXzNJ1QrnpshP1smB4b2mInVFH536_BKuxZ_-MaNvA=s32-c-k-c0x00ffffff-no-rj",
+                    "width": 32
+                },
+                {
+                    "height": 64,
+                    "id": "64x64",
+                    "url": "https://yt4.ggpht.com/4taUj7SlD3luedKBqGE35odMKTCEp_MDqFXzNJ1QrnpshP1smB4b2mInVFH536_BKuxZ_-MaNvA=s64-c-k-c0x00ffffff-no-rj",
+                    "width": 64
+                }
+            ],
+            "name": "Driftspeed"
+        },
+        "message": "Massive W",
+        "message_id": "ChwKGkNLaTUzY1Rrc1k0REZaRFVsQWtkelk4ME53",
+        "message_type": "text_message",
+        "timestamp": 1752133126287023
+    }, 
+    {
+        "action_type": "add_chat_item",
+        "author": {
+            "badges": [
+                {
+                    "icon_name": "moderator",
+                    "title": "Moderator"
+                },
+                {
+                    "icons": [
+                        {
+                            "id": "source",
+                            "url": "https://yt3.ggpht.com/WTHXbCJZspVQ2WyZu-9Qmyyb_RPr4t8rFamGp6hAhHIBqDd58Wb45tLwvnhix11w80zCbKtCzw"
+                        },
+                        {
+                            "height": 16,
+                            "id": "16x16",
+                            "url": "https://yt3.ggpht.com/WTHXbCJZspVQ2WyZu-9Qmyyb_RPr4t8rFamGp6hAhHIBqDd58Wb45tLwvnhix11w80zCbKtCzw=s16-c-k",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "id": "32x32",
+                            "url": "https://yt3.ggpht.com/WTHXbCJZspVQ2WyZu-9Qmyyb_RPr4t8rFamGp6hAhHIBqDd58Wb45tLwvnhix11w80zCbKtCzw=s32-c-k",
+                            "width": 32
+                        }
+                    ],
+                    "title": "Member (1 year)"
+                }
+            ],
+            "id": "UC_n821nAP3279nwH7VvNdPQ",
+            "images": [
+                {
+                    "id": "source",
+                    "url": "https://yt4.ggpht.com/bkzWnbcVxBmn7W9LKfodhJApu26vt9H8UXYKHyx16U4IzCW5nLwv8kfgsloql_SSKUpEd3dF3Q"
+                },
+                {
+                    "height": 32,
+                    "id": "32x32",
+                    "url": "https://yt4.ggpht.com/bkzWnbcVxBmn7W9LKfodhJApu26vt9H8UXYKHyx16U4IzCW5nLwv8kfgsloql_SSKUpEd3dF3Q=s32-c-k-c0x00ffffff-no-rj",
+                    "width": 32
+                },
+                {
+                    "height": 64,
+                    "id": "64x64",
+                    "url": "https://yt4.ggpht.com/bkzWnbcVxBmn7W9LKfodhJApu26vt9H8UXYKHyx16U4IzCW5nLwv8kfgsloql_SSKUpEd3dF3Q=s64-c-k-c0x00ffffff-no-rj",
+                    "width": 64
+                }
+            ],
+            "name": "CRUNCHY CRAIG"
+        },
+        "message": "GO LIKE THE PREMIER ",
+        "message_id": "ChwKGkNOWG9vc2prc1k0REZjS2E1UWNkMUw0cGJn",
+        "message_type": "text_message",
+        "timestamp": 1752133133712819
+    }, 
+    {
+        "action_type": "add_chat_item",
+        "author": {
+            "badges": [
+                {
+                    "icons": [
+                        {
+                            "id": "source",
+                            "url": "https://yt3.ggpht.com/zjvtMjZCg_7joyLzs_V8BvQ0L5MOYHvWrzzHlSKQrf10RQVGUdcexHNNcFozuvWwmpYzFlpc"
+                        },
+                        {
+                            "height": 16,
+                            "id": "16x16",
+                            "url": "https://yt3.ggpht.com/zjvtMjZCg_7joyLzs_V8BvQ0L5MOYHvWrzzHlSKQrf10RQVGUdcexHNNcFozuvWwmpYzFlpc=s16-c-k",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "id": "32x32",
+                            "url": "https://yt3.ggpht.com/zjvtMjZCg_7joyLzs_V8BvQ0L5MOYHvWrzzHlSKQrf10RQVGUdcexHNNcFozuvWwmpYzFlpc=s32-c-k",
+                            "width": 32
+                        }
+                    ],
+                    "title": "Member (1 month)"
+                }
+            ],
+            "id": "UC6Nwr8s5aZtkiSTk2m1Db-w",
+            "images": [
+                {
+                    "id": "source",
+                    "url": "https://yt4.ggpht.com/BeQhusgVOY1Q25EYaqEpgit8Nx6eyPmDK7iLXso7hB9CVbINncT8A718mll3EubQhslz1o9Ga5c"
+                },
+                {
+                    "height": 32,
+                    "id": "32x32",
+                    "url": "https://yt4.ggpht.com/BeQhusgVOY1Q25EYaqEpgit8Nx6eyPmDK7iLXso7hB9CVbINncT8A718mll3EubQhslz1o9Ga5c=s32-c-k-c0x00ffffff-no-rj",
+                    "width": 32
+                },
+                {
+                    "height": 64,
+                    "id": "64x64",
+                    "url": "https://yt4.ggpht.com/BeQhusgVOY1Q25EYaqEpgit8Nx6eyPmDK7iLXso7hB9CVbINncT8A718mll3EubQhslz1o9Ga5c=s64-c-k-c0x00ffffff-no-rj",
+                    "width": 64
+                }
+            ],
+            "name": "BigHomie"
+        },
+        "emotes": [
+            {
+                "id": "\ud83d\ude0a",
+                "images": [
+                    {
+                        "id": "source",
+                        "url": "https://fonts.gstatic.com/s/e/notoemoji/15.1/1f60a/72.png"
+                    },
+                    {
+                        "url": "https://fonts.gstatic.com/s/e/notoemoji/15.1/1f60a/72.png"
+                    }
+                ],
+                "is_custom_emoji": false,
+                "name": ":smiling_face_with_smiling_eyes:",
+                "search_terms": [
+                    "smiling",
+                    "face",
+                    "with",
+                    "eyes",
+                    "blush"
+                ],
+                "shortcuts": [
+                    ":smiling_face_with_smiling_eyes:",
+                    ":blush:"
+                ]
+            }
+        ],
+        "message": ":smiling_face_with_smiling_eyes:",
+        "message_id": "ChwKGkNNcXZ6OGprc1k0REZjdnNGZ2tkN0ZvRGx3",
+        "message_type": "text_message",
+        "timestamp": 1752133134442549
+    }, 
+    {
+        "action_type": "add_chat_item",
+        "author": {
+            "badges": [
+                {
+                    "icon_name": "moderator",
+                    "title": "Moderator"
+                }
+            ],
+            "id": "UCJMLp8-oyfqLHyFxfUpU7Ig",
+            "images": [
+                {
+                    "id": "source",
+                    "url": "https://yt4.ggpht.com/Qae0Khsat_K9w3KLI_TUx-usVsmpNVDdoSaJjJqkO8yeQsjDwP1oZiwJ8s2cjd_lZ5HnnDuQ"
+                },
+                {
+                    "height": 32,
+                    "id": "32x32",
+                    "url": "https://yt4.ggpht.com/Qae0Khsat_K9w3KLI_TUx-usVsmpNVDdoSaJjJqkO8yeQsjDwP1oZiwJ8s2cjd_lZ5HnnDuQ=s32-c-k-c0x00ffffff-no-rj",
+                    "width": 32
+                },
+                {
+                    "height": 64,
+                    "id": "64x64",
+                    "url": "https://yt4.ggpht.com/Qae0Khsat_K9w3KLI_TUx-usVsmpNVDdoSaJjJqkO8yeQsjDwP1oZiwJ8s2cjd_lZ5HnnDuQ=s64-c-k-c0x00ffffff-no-rj",
+                    "width": 64
+                }
+            ],
+            "name": "Fossabot"
+        },
+        "message": "Twitter: twitter.com/bobbypoff | Instagram: instagram.com/bobbypoffgaming | YouTube: https://youtube.com/bobbypoffgaming | KICK: https://kick.com/bobbypoff | TikTok: tiktok.com/@bobbypoffgaming | ",
+        "message_id": "ChwKGkNLM1V4OHJrc1k0REZjdTdyZ1VkZ3ZFVnh3",
+        "message_type": "text_message",
+        "timestamp": 1752133138511489
+    }, 
+    {
+        "action_type": "add_chat_item",
+        "author": {
+            "badges": [
+                {
+                    "icons": [
+                        {
+                            "id": "source",
+                            "url": "https://yt3.ggpht.com/SFT9wHETZglkD8Ae56grwYN_k0hQo_l0S93wRQpUj8Yzzo1-FI33hpHPW7rJOOxTteRxjG3_JOU"
+                        },
+                        {
+                            "height": 16,
+                            "id": "16x16",
+                            "url": "https://yt3.ggpht.com/SFT9wHETZglkD8Ae56grwYN_k0hQo_l0S93wRQpUj8Yzzo1-FI33hpHPW7rJOOxTteRxjG3_JOU=s16-c-k",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "id": "32x32",
+                            "url": "https://yt3.ggpht.com/SFT9wHETZglkD8Ae56grwYN_k0hQo_l0S93wRQpUj8Yzzo1-FI33hpHPW7rJOOxTteRxjG3_JOU=s32-c-k",
+                            "width": 32
+                        }
+                    ],
+                    "title": "New member"
+                }
+            ],
+            "id": "UCwSOgh0nWxpYQu1J1w2tCwQ",
+            "images": [
+                {
+                    "id": "source",
+                    "url": "https://yt4.ggpht.com/ytc/AIdro_kg0BdQ8aBu_InUG2V5dPRhb_w-rTCqLJMytIX5X7GyKw"
+                },
+                {
+                    "height": 32,
+                    "id": "32x32",
+                    "url": "https://yt4.ggpht.com/ytc/AIdro_kg0BdQ8aBu_InUG2V5dPRhb_w-rTCqLJMytIX5X7GyKw=s32-c-k-c0x00ffffff-no-rj",
+                    "width": 32
+                },
+                {
+                    "height": 64,
+                    "id": "64x64",
+                    "url": "https://yt4.ggpht.com/ytc/AIdro_kg0BdQ8aBu_InUG2V5dPRhb_w-rTCqLJMytIX5X7GyKw=s64-c-k-c0x00ffffff-no-rj",
+                    "width": 64
+                }
+            ],
+            "name": "dabizz24"
+        },
+        "message": "expecting to see sum of you at Rallied",
+        "message_id": "ChwKGkNLLVUxTXZrc1k0REZkSE5sQWtkRGRZdUNR",
+        "message_type": "text_message",
+        "timestamp": 1752133140814397
+    }, 
+    {
+        "action_type": "add_chat_item",
+        "author": {
+            "id": "UCRLFxKVG0ltEWGoCtssDsdQ",
+            "images": [
+                {
+                    "id": "source",
+                    "url": "https://yt4.ggpht.com/I_o50gl4-YDn5LcRDSfyNF98IonhyzryWo4jBK4KQvvCsyRY-_uve8mm4WpmLT_53wG9ggyofg"
+                },
+                {
+                    "height": 32,
+                    "id": "32x32",
+                    "url": "https://yt4.ggpht.com/I_o50gl4-YDn5LcRDSfyNF98IonhyzryWo4jBK4KQvvCsyRY-_uve8mm4WpmLT_53wG9ggyofg=s32-c-k-c0x00ffffff-no-rj",
+                    "width": 32
+                },
+                {
+                    "height": 64,
+                    "id": "64x64",
+                    "url": "https://yt4.ggpht.com/I_o50gl4-YDn5LcRDSfyNF98IonhyzryWo4jBK4KQvvCsyRY-_uve8mm4WpmLT_53wG9ggyofg=s64-c-k-c0x00ffffff-no-rj",
+                    "width": 64
+                }
+            ],
+            "name": "Gage"
+        },
+        "message": "10-4",
+        "message_id": "ChwKGkNMaktvczdrc1k0REZTMDVzd0FkQnVZY0t3",
+        "message_type": "text_message",
+        "timestamp": 1752133146293117
+    }, 
+    {
+        "action_type": "add_chat_item",
+        "author": {
+            "id": "UCBnvvbWXGj5S_DKmsKd_s5w",
+            "images": [
+                {
+                    "id": "source",
+                    "url": "https://yt4.ggpht.com/ytc/AIdro_nbHO1aVV_uT3cy6YvXBq4t0-5IaP5sszmBugAMKwuJhA"
+                },
+                {
+                    "height": 32,
+                    "id": "32x32",
+                    "url": "https://yt4.ggpht.com/ytc/AIdro_nbHO1aVV_uT3cy6YvXBq4t0-5IaP5sszmBugAMKwuJhA=s32-c-k-c0x00ffffff-no-rj",
+                    "width": 32
+                },
+                {
+                    "height": 64,
+                    "id": "64x64",
+                    "url": "https://yt4.ggpht.com/ytc/AIdro_nbHO1aVV_uT3cy6YvXBq4t0-5IaP5sszmBugAMKwuJhA=s64-c-k-c0x00ffffff-no-rj",
+                    "width": 64
+                }
+            ],
+            "name": "pontiacf"
+        },
+        "message": "Gn ",
+        "message_id": "ChwKGkNJR1Zuczdrc1k0REZiaTdyZ1VkTmJVWFd3",
+        "message_type": "text_message",
+        "timestamp": 1752133146220136
+    }, 
+    {
+        "action_type": "add_chat_item",
+        "author": {
+            "badges": [
+                {
+                    "icon_name": "verified",
+                    "title": "Verified"
+                },
+                {
+                    "icon_name": "owner",
+                    "title": "Owner"
+                }
+            ],
+            "id": "UCIlelqWA2ycq30ebF9-K0Tw",
+            "images": [
+                {
+                    "id": "source",
+                    "url": "https://yt4.ggpht.com/ISz-uyjNC53HtZ9EuqKakvs0-HW6IGWdpSfIfWUCkUpSeT3XI5Q5g8ayqmh4dsxRvv622CiSMQ"
+                },
+                {
+                    "height": 32,
+                    "id": "32x32",
+                    "url": "https://yt4.ggpht.com/ISz-uyjNC53HtZ9EuqKakvs0-HW6IGWdpSfIfWUCkUpSeT3XI5Q5g8ayqmh4dsxRvv622CiSMQ=s32-c-k-c0x00ffffff-no-rj",
+                    "width": 32
+                },
+                {
+                    "height": 64,
+                    "id": "64x64",
+                    "url": "https://yt4.ggpht.com/ISz-uyjNC53HtZ9EuqKakvs0-HW6IGWdpSfIfWUCkUpSeT3XI5Q5g8ayqmh4dsxRvv622CiSMQ=s64-c-k-c0x00ffffff-no-rj",
+                    "width": 64
+                }
+            ],
+            "name": "BobbyPoffGaming"
+        },
+        "message": "https://www.youtube.com/watch?v=sJYbqGhbrxY",
+        "message_id": "ChwKGkNKX3J1c19rc1k0REZhUFF3Z1FkV0lndVNR",
+        "message_type": "text_message",
+        "timestamp": 1752133148786580
+    }, 
+    {
+        "action_type": "add_chat_item",
+        "author": {
+            "badges": [
+                {
+                    "icon_name": "verified",
+                    "title": "Verified"
+                },
+                {
+                    "icon_name": "owner",
+                    "title": "Owner"
+                }
+            ],
+            "id": "UCIlelqWA2ycq30ebF9-K0Tw",
+            "images": [
+                {
+                    "id": "source",
+                    "url": "https://yt4.ggpht.com/ISz-uyjNC53HtZ9EuqKakvs0-HW6IGWdpSfIfWUCkUpSeT3XI5Q5g8ayqmh4dsxRvv622CiSMQ"
+                },
+                {
+                    "height": 32,
+                    "id": "32x32",
+                    "url": "https://yt4.ggpht.com/ISz-uyjNC53HtZ9EuqKakvs0-HW6IGWdpSfIfWUCkUpSeT3XI5Q5g8ayqmh4dsxRvv622CiSMQ=s32-c-k-c0x00ffffff-no-rj",
+                    "width": 32
+                },
+                {
+                    "height": 64,
+                    "id": "64x64",
+                    "url": "https://yt4.ggpht.com/ISz-uyjNC53HtZ9EuqKakvs0-HW6IGWdpSfIfWUCkUpSeT3XI5Q5g8ayqmh4dsxRvv622CiSMQ=s64-c-k-c0x00ffffff-no-rj",
+                    "width": 64
+                }
+            ],
+            "name": "BobbyPoffGaming"
+        },
+        "message": "https://www.youtube.com/watch?v=sJYbqGhbrxY",
+        "message_id": "ChwKGkNLVF94OURrc1k0REZSNmg1UWNkNU5VUm1B",
+        "message_type": "text_message",
+        "timestamp": 1752133151098441
+    }, 
+    {
+        "action_type": "add_chat_item",
+        "author": {
+            "badges": [
+                {
+                    "icon_name": "verified",
+                    "title": "Verified"
+                },
+                {
+                    "icon_name": "owner",
+                    "title": "Owner"
+                }
+            ],
+            "id": "UCIlelqWA2ycq30ebF9-K0Tw",
+            "images": [
+                {
+                    "id": "source",
+                    "url": "https://yt4.ggpht.com/ISz-uyjNC53HtZ9EuqKakvs0-HW6IGWdpSfIfWUCkUpSeT3XI5Q5g8ayqmh4dsxRvv622CiSMQ"
+                },
+                {
+                    "height": 32,
+                    "id": "32x32",
+                    "url": "https://yt4.ggpht.com/ISz-uyjNC53HtZ9EuqKakvs0-HW6IGWdpSfIfWUCkUpSeT3XI5Q5g8ayqmh4dsxRvv622CiSMQ=s32-c-k-c0x00ffffff-no-rj",
+                    "width": 32
+                },
+                {
+                    "height": 64,
+                    "id": "64x64",
+                    "url": "https://yt4.ggpht.com/ISz-uyjNC53HtZ9EuqKakvs0-HW6IGWdpSfIfWUCkUpSeT3XI5Q5g8ayqmh4dsxRvv622CiSMQ=s64-c-k-c0x00ffffff-no-rj",
+                    "width": 64
+                }
+            ],
+            "name": "BobbyPoffGaming"
+        },
+        "message": "https://www.youtube.com/watch?v=sJYbqGhbrxY",
+        "message_id": "ChwKGkNLcmpqOUxrc1k0REZjdnNGZ2tkN0ZvRGx3",
+        "message_type": "text_message",
+        "timestamp": 1752133154374111
+    }, 
+    {
+        "action_type": "add_chat_item",
+        "author": {
+            "badges": [
+                {
+                    "icon_name": "moderator",
+                    "title": "Moderator"
+                },
+                {
+                    "icons": [
+                        {
+                            "id": "source",
+                            "url": "https://yt3.ggpht.com/WTHXbCJZspVQ2WyZu-9Qmyyb_RPr4t8rFamGp6hAhHIBqDd58Wb45tLwvnhix11w80zCbKtCzw"
+                        },
+                        {
+                            "height": 16,
+                            "id": "16x16",
+                            "url": "https://yt3.ggpht.com/WTHXbCJZspVQ2WyZu-9Qmyyb_RPr4t8rFamGp6hAhHIBqDd58Wb45tLwvnhix11w80zCbKtCzw=s16-c-k",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "id": "32x32",
+                            "url": "https://yt3.ggpht.com/WTHXbCJZspVQ2WyZu-9Qmyyb_RPr4t8rFamGp6hAhHIBqDd58Wb45tLwvnhix11w80zCbKtCzw=s32-c-k",
+                            "width": 32
+                        }
+                    ],
+                    "title": "Member (1 year)"
+                }
+            ],
+            "id": "UC_n821nAP3279nwH7VvNdPQ",
+            "images": [
+                {
+                    "id": "source",
+                    "url": "https://yt4.ggpht.com/bkzWnbcVxBmn7W9LKfodhJApu26vt9H8UXYKHyx16U4IzCW5nLwv8kfgsloql_SSKUpEd3dF3Q"
+                },
+                {
+                    "height": 32,
+                    "id": "32x32",
+                    "url": "https://yt4.ggpht.com/bkzWnbcVxBmn7W9LKfodhJApu26vt9H8UXYKHyx16U4IzCW5nLwv8kfgsloql_SSKUpEd3dF3Q=s32-c-k-c0x00ffffff-no-rj",
+                    "width": 32
+                },
+                {
+                    "height": 64,
+                    "id": "64x64",
+                    "url": "https://yt4.ggpht.com/bkzWnbcVxBmn7W9LKfodhJApu26vt9H8UXYKHyx16U4IzCW5nLwv8kfgsloql_SSKUpEd3dF3Q=s64-c-k-c0x00ffffff-no-rj",
+                    "width": 64
+                }
+            ],
+            "name": "CRUNCHY CRAIG"
+        },
+        "message": "Wwwwwwww",
+        "message_id": "ChwKGkNJQ3p0Tkxrc1k0REZXQ1g1UWNkc20wdDB3",
+        "message_type": "text_message",
+        "timestamp": 1752133154972302
+    }, 
+    {
+        "action_type": "add_chat_item",
+        "author": {
+            "badges": [
+                {
+                    "icon_name": "verified",
+                    "title": "Verified"
+                },
+                {
+                    "icon_name": "owner",
+                    "title": "Owner"
+                }
+            ],
+            "id": "UCIlelqWA2ycq30ebF9-K0Tw",
+            "images": [
+                {
+                    "id": "source",
+                    "url": "https://yt4.ggpht.com/ISz-uyjNC53HtZ9EuqKakvs0-HW6IGWdpSfIfWUCkUpSeT3XI5Q5g8ayqmh4dsxRvv622CiSMQ"
+                },
+                {
+                    "height": 32,
+                    "id": "32x32",
+                    "url": "https://yt4.ggpht.com/ISz-uyjNC53HtZ9EuqKakvs0-HW6IGWdpSfIfWUCkUpSeT3XI5Q5g8ayqmh4dsxRvv622CiSMQ=s32-c-k-c0x00ffffff-no-rj",
+                    "width": 32
+                },
+                {
+                    "height": 64,
+                    "id": "64x64",
+                    "url": "https://yt4.ggpht.com/ISz-uyjNC53HtZ9EuqKakvs0-HW6IGWdpSfIfWUCkUpSeT3XI5Q5g8ayqmh4dsxRvv622CiSMQ=s64-c-k-c0x00ffffff-no-rj",
+                    "width": 64
+                }
+            ],
+            "name": "BobbyPoffGaming"
+        },
+        "message": "https://www.youtube.com/watch?v=sJYbqGhbrxY",
+        "message_id": "ChwKGkNMYVNtZFBrc1k0REZSTExGZ2tkWGZJWVBR",
+        "message_type": "text_message",
+        "timestamp": 1752133156623291
+    }, 
+    {
+        "action_type": "add_chat_item",
+        "author": {
+            "badges": [
+                {
+                    "icon_name": "verified",
+                    "title": "Verified"
+                },
+                {
+                    "icon_name": "owner",
+                    "title": "Owner"
+                }
+            ],
+            "id": "UCIlelqWA2ycq30ebF9-K0Tw",
+            "images": [
+                {
+                    "id": "source",
+                    "url": "https://yt4.ggpht.com/ISz-uyjNC53HtZ9EuqKakvs0-HW6IGWdpSfIfWUCkUpSeT3XI5Q5g8ayqmh4dsxRvv622CiSMQ"
+                },
+                {
+                    "height": 32,
+                    "id": "32x32",
+                    "url": "https://yt4.ggpht.com/ISz-uyjNC53HtZ9EuqKakvs0-HW6IGWdpSfIfWUCkUpSeT3XI5Q5g8ayqmh4dsxRvv622CiSMQ=s32-c-k-c0x00ffffff-no-rj",
+                    "width": 32
+                },
+                {
+                    "height": 64,
+                    "id": "64x64",
+                    "url": "https://yt4.ggpht.com/ISz-uyjNC53HtZ9EuqKakvs0-HW6IGWdpSfIfWUCkUpSeT3XI5Q5g8ayqmh4dsxRvv622CiSMQ=s64-c-k-c0x00ffffff-no-rj",
+                    "width": 64
+                }
+            ],
+            "name": "BobbyPoffGaming"
+        },
+        "message": "https://www.youtube.com/watch?v=sJYbqGhbrxY",
+        "message_id": "ChwKGkNQbWpuTlRrc1k0REZXdkN3Z1FkaGFvRER3",
+        "message_type": "text_message",
+        "timestamp": 1752133158772774
+    }, 
+    {
+        "action_type": "add_chat_item",
+        "author": {
+            "id": "UCpGDxKKlivJ0yKiBz7584kQ",
+            "images": [
+                {
+                    "id": "source",
+                    "url": "https://yt4.ggpht.com/k0wAdfNH2EtGpB7k-lB1vt3A_UcwbtemVUc05Si6kV5jU4QmSWW-wzX8Q_PcBYsMj6bJVY05Nw"
+                },
+                {
+                    "height": 32,
+                    "id": "32x32",
+                    "url": "https://yt4.ggpht.com/k0wAdfNH2EtGpB7k-lB1vt3A_UcwbtemVUc05Si6kV5jU4QmSWW-wzX8Q_PcBYsMj6bJVY05Nw=s32-c-k-c0x00ffffff-no-rj",
+                    "width": 32
+                },
+                {
+                    "height": 64,
+                    "id": "64x64",
+                    "url": "https://yt4.ggpht.com/k0wAdfNH2EtGpB7k-lB1vt3A_UcwbtemVUc05Si6kV5jU4QmSWW-wzX8Q_PcBYsMj6bJVY05Nw=s64-c-k-c0x00ffffff-no-rj",
+                    "width": 64
+                }
+            ],
+            "name": "Sassyfrass"
+        },
+        "message": "a little taste",
+        "message_id": "ChwKGkNKektvZGJrc1k0REZWQTdzd0FkbDRRWkNn",
+        "message_type": "text_message",
+        "timestamp": 1752133163053579
+    }, 
+    {
+        "action_type": "add_chat_item",
+        "author": {
+            "id": "UCDFvccfc_-EAwMMhN8noYng",
+            "images": [
+                {
+                    "id": "source",
+                    "url": "https://yt4.ggpht.com/4taUj7SlD3luedKBqGE35odMKTCEp_MDqFXzNJ1QrnpshP1smB4b2mInVFH536_BKuxZ_-MaNvA"
+                },
+                {
+                    "height": 32,
+                    "id": "32x32",
+                    "url": "https://yt4.ggpht.com/4taUj7SlD3luedKBqGE35odMKTCEp_MDqFXzNJ1QrnpshP1smB4b2mInVFH536_BKuxZ_-MaNvA=s32-c-k-c0x00ffffff-no-rj",
+                    "width": 32
+                },
+                {
+                    "height": 64,
+                    "id": "64x64",
+                    "url": "https://yt4.ggpht.com/4taUj7SlD3luedKBqGE35odMKTCEp_MDqFXzNJ1QrnpshP1smB4b2mInVFH536_BKuxZ_-MaNvA=s64-c-k-c0x00ffffff-no-rj",
+                    "width": 64
+                }
+            ],
+            "name": "Driftspeed"
+        },
+        "emotes": [
+            {
+                "id": "\ud83e\udd19",
+                "images": [
+                    {
+                        "id": "source",
+                        "url": "https://fonts.gstatic.com/s/e/notoemoji/15.1/1f919/72.png"
+                    },
+                    {
+                        "url": "https://fonts.gstatic.com/s/e/notoemoji/15.1/1f919/72.png"
+                    }
+                ],
+                "is_custom_emoji": false,
+                "name": ":call_me_hand:",
+                "search_terms": [
+                    "call",
+                    "me",
+                    "hand"
+                ],
+                "shortcuts": [
+                    ":call_me_hand:"
+                ]
+            }
+        ],
+        "message": "Great stuff bro :call_me_hand: ",
+        "message_id": "ChwKGkNQS2c1TnJrc1k0REZiaTdyZ1VkTmJVWFd3",
+        "message_type": "text_message",
+        "timestamp": 1752133172533172
+    }, 
+    {
+        "action_type": "add_chat_item",
+        "author": {
+            "badges": [
+                {
+                    "icon_name": "moderator",
+                    "title": "Moderator"
+                },
+                {
+                    "icons": [
+                        {
+                            "id": "source",
+                            "url": "https://yt3.ggpht.com/WTHXbCJZspVQ2WyZu-9Qmyyb_RPr4t8rFamGp6hAhHIBqDd58Wb45tLwvnhix11w80zCbKtCzw"
+                        },
+                        {
+                            "height": 16,
+                            "id": "16x16",
+                            "url": "https://yt3.ggpht.com/WTHXbCJZspVQ2WyZu-9Qmyyb_RPr4t8rFamGp6hAhHIBqDd58Wb45tLwvnhix11w80zCbKtCzw=s16-c-k",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "id": "32x32",
+                            "url": "https://yt3.ggpht.com/WTHXbCJZspVQ2WyZu-9Qmyyb_RPr4t8rFamGp6hAhHIBqDd58Wb45tLwvnhix11w80zCbKtCzw=s32-c-k",
+                            "width": 32
+                        }
+                    ],
+                    "title": "Member (1 year)"
+                }
+            ],
+            "id": "UCL3c1Fs_Lfaf4VHVUt8nTDw",
+            "images": [
+                {
+                    "id": "source",
+                    "url": "https://yt4.ggpht.com/AFByDu6GyGPYBf-94O6hWKLyvoRs5dyqwyk13dTIiX2pyYytpG5UKSp-qi7w9iV8rd_k_MHu4g"
+                },
+                {
+                    "height": 32,
+                    "id": "32x32",
+                    "url": "https://yt4.ggpht.com/AFByDu6GyGPYBf-94O6hWKLyvoRs5dyqwyk13dTIiX2pyYytpG5UKSp-qi7w9iV8rd_k_MHu4g=s32-c-k-c0x00ffffff-no-rj",
+                    "width": 32
+                },
+                {
+                    "height": 64,
+                    "id": "64x64",
+                    "url": "https://yt4.ggpht.com/AFByDu6GyGPYBf-94O6hWKLyvoRs5dyqwyk13dTIiX2pyYytpG5UKSp-qi7w9iV8rd_k_MHu4g=s64-c-k-c0x00ffffff-no-rj",
+                    "width": 64
+                }
+            ],
+            "name": "Oogie Boogie"
+        },
+        "message": "Rallied is still playing?",
+        "message_id": "ChwKGkNJNkRwTnZrc1k0REZiY19yUVlkLWZBbk9B",
+        "message_type": "text_message",
+        "timestamp": 1752133173579414
+    }, 
+    {
+        "action_type": "add_chat_item",
+        "author": {
+            "id": "UCvt7iKv9ruWEHwwwSzfVMow",
+            "images": [
+                {
+                    "id": "source",
+                    "url": "https://yt4.ggpht.com/ytc/AIdro_ljK2mezHZQw6DmGp0GhSIUvyDZIahuyQ9mhIpJ7QU"
+                },
+                {
+                    "height": 32,
+                    "id": "32x32",
+                    "url": "https://yt4.ggpht.com/ytc/AIdro_ljK2mezHZQw6DmGp0GhSIUvyDZIahuyQ9mhIpJ7QU=s32-c-k-c0x00ffffff-no-rj",
+                    "width": 32
+                },
+                {
+                    "height": 64,
+                    "id": "64x64",
+                    "url": "https://yt4.ggpht.com/ytc/AIdro_ljK2mezHZQw6DmGp0GhSIUvyDZIahuyQ9mhIpJ7QU=s64-c-k-c0x00ffffff-no-rj",
+                    "width": 64
+                }
+            ],
+            "name": "Tyler"
+        },
+        "message": "Yes ",
+        "message_id": "ChwKGkNPZms1ZUxrc1k0REZiN1FsQWtkMGJFM1dB",
+        "message_type": "text_message",
+        "timestamp": 1752133189337343
+    }, 
+    {
+        "action_type": "add_chat_item",
+        "author": {
+            "id": "UCDFvccfc_-EAwMMhN8noYng",
+            "images": [
+                {
+                    "id": "source",
+                    "url": "https://yt4.ggpht.com/4taUj7SlD3luedKBqGE35odMKTCEp_MDqFXzNJ1QrnpshP1smB4b2mInVFH536_BKuxZ_-MaNvA"
+                },
+                {
+                    "height": 32,
+                    "id": "32x32",
+                    "url": "https://yt4.ggpht.com/4taUj7SlD3luedKBqGE35odMKTCEp_MDqFXzNJ1QrnpshP1smB4b2mInVFH536_BKuxZ_-MaNvA=s32-c-k-c0x00ffffff-no-rj",
+                    "width": 32
+                },
+                {
+                    "height": 64,
+                    "id": "64x64",
+                    "url": "https://yt4.ggpht.com/4taUj7SlD3luedKBqGE35odMKTCEp_MDqFXzNJ1QrnpshP1smB4b2mInVFH536_BKuxZ_-MaNvA=s64-c-k-c0x00ffffff-no-rj",
+                    "width": 64
+                }
+            ],
+            "name": "Driftspeed"
+        },
+        "emotes": [
+            {
+                "id": "\ud83e\uddc3",
+                "images": [
+                    {
+                        "id": "source",
+                        "url": "https://fonts.gstatic.com/s/e/notoemoji/15.1/1f9c3/72.png"
+                    },
+                    {
+                        "url": "https://fonts.gstatic.com/s/e/notoemoji/15.1/1f9c3/72.png"
+                    }
+                ],
+                "is_custom_emoji": false,
+                "name": ":beverage_box:",
+                "search_terms": [
+                    "beverage",
+                    "box"
+                ],
+                "shortcuts": [
+                    ":beverage_box:"
+                ]
+            }
+        ],
+        "message": "The juice is loose :beverage_box: ",
+        "message_id": "ChwKGkNLWDF3LVhrc1k0REZjWFJsQWtkSUNFUnZ3",
+        "message_type": "text_message",
+        "timestamp": 1752133195072580
+    }, 
+    {
+        "action_type": "add_chat_item",
+        "author": {
+            "badges": [
+                {
+                    "icon_name": "moderator",
+                    "title": "Moderator"
+                },
+                {
+                    "icons": [
+                        {
+                            "id": "source",
+                            "url": "https://yt3.ggpht.com/WTHXbCJZspVQ2WyZu-9Qmyyb_RPr4t8rFamGp6hAhHIBqDd58Wb45tLwvnhix11w80zCbKtCzw"
+                        },
+                        {
+                            "height": 16,
+                            "id": "16x16",
+                            "url": "https://yt3.ggpht.com/WTHXbCJZspVQ2WyZu-9Qmyyb_RPr4t8rFamGp6hAhHIBqDd58Wb45tLwvnhix11w80zCbKtCzw=s16-c-k",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "id": "32x32",
+                            "url": "https://yt3.ggpht.com/WTHXbCJZspVQ2WyZu-9Qmyyb_RPr4t8rFamGp6hAhHIBqDd58Wb45tLwvnhix11w80zCbKtCzw=s32-c-k",
+                            "width": 32
+                        }
+                    ],
+                    "title": "Member (1 year)"
+                }
+            ],
+            "id": "UCL3c1Fs_Lfaf4VHVUt8nTDw",
+            "images": [
+                {
+                    "id": "source",
+                    "url": "https://yt4.ggpht.com/AFByDu6GyGPYBf-94O6hWKLyvoRs5dyqwyk13dTIiX2pyYytpG5UKSp-qi7w9iV8rd_k_MHu4g"
+                },
+                {
+                    "height": 32,
+                    "id": "32x32",
+                    "url": "https://yt4.ggpht.com/AFByDu6GyGPYBf-94O6hWKLyvoRs5dyqwyk13dTIiX2pyYytpG5UKSp-qi7w9iV8rd_k_MHu4g=s32-c-k-c0x00ffffff-no-rj",
+                    "width": 32
+                },
+                {
+                    "height": 64,
+                    "id": "64x64",
+                    "url": "https://yt4.ggpht.com/AFByDu6GyGPYBf-94O6hWKLyvoRs5dyqwyk13dTIiX2pyYytpG5UKSp-qi7w9iV8rd_k_MHu4g=s64-c-k-c0x00ffffff-no-rj",
+                    "width": 64
+                }
+            ],
+            "name": "Oogie Boogie"
+        },
+        "message": "Cool!",
+        "message_id": "ChwKGkNJLXFnT2Zrc1k0REZhVEF3Z1FkMWhBbGVn",
+        "message_type": "text_message",
+        "timestamp": 1752133198160467
+    }, 
+    {
+        "action_type": "add_chat_item",
+        "author": {
+            "badges": [
+                {
+                    "icon_name": "moderator",
+                    "title": "Moderator"
+                },
+                {
+                    "icons": [
+                        {
+                            "id": "source",
+                            "url": "https://yt3.ggpht.com/WTHXbCJZspVQ2WyZu-9Qmyyb_RPr4t8rFamGp6hAhHIBqDd58Wb45tLwvnhix11w80zCbKtCzw"
+                        },
+                        {
+                            "height": 16,
+                            "id": "16x16",
+                            "url": "https://yt3.ggpht.com/WTHXbCJZspVQ2WyZu-9Qmyyb_RPr4t8rFamGp6hAhHIBqDd58Wb45tLwvnhix11w80zCbKtCzw=s16-c-k",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "id": "32x32",
+                            "url": "https://yt3.ggpht.com/WTHXbCJZspVQ2WyZu-9Qmyyb_RPr4t8rFamGp6hAhHIBqDd58Wb45tLwvnhix11w80zCbKtCzw=s32-c-k",
+                            "width": 32
+                        }
+                    ],
+                    "title": "Member (1 year)"
+                }
+            ],
+            "id": "UC_n821nAP3279nwH7VvNdPQ",
+            "images": [
+                {
+                    "id": "source",
+                    "url": "https://yt4.ggpht.com/bkzWnbcVxBmn7W9LKfodhJApu26vt9H8UXYKHyx16U4IzCW5nLwv8kfgsloql_SSKUpEd3dF3Q"
+                },
+                {
+                    "height": 32,
+                    "id": "32x32",
+                    "url": "https://yt4.ggpht.com/bkzWnbcVxBmn7W9LKfodhJApu26vt9H8UXYKHyx16U4IzCW5nLwv8kfgsloql_SSKUpEd3dF3Q=s32-c-k-c0x00ffffff-no-rj",
+                    "width": 32
+                },
+                {
+                    "height": 64,
+                    "id": "64x64",
+                    "url": "https://yt4.ggpht.com/bkzWnbcVxBmn7W9LKfodhJApu26vt9H8UXYKHyx16U4IzCW5nLwv8kfgsloql_SSKUpEd3dF3Q=s64-c-k-c0x00ffffff-no-rj",
+                    "width": 64
+                }
+            ],
+            "name": "CRUNCHY CRAIG"
+        },
+        "message": "See yall tomorrow ",
+        "message_id": "ChwKGkNQR3N3Zkhrc1k0REZlMk41UWNkclNBdnFn",
+        "message_type": "text_message",
+        "timestamp": 1752133220196973
+    }, 
+    {
+        "action_type": "add_chat_item",
+        "author": {
+            "badges": [
+                {
+                    "icon_name": "moderator",
+                    "title": "Moderator"
+                },
+                {
+                    "icons": [
+                        {
+                            "id": "source",
+                            "url": "https://yt3.ggpht.com/WTHXbCJZspVQ2WyZu-9Qmyyb_RPr4t8rFamGp6hAhHIBqDd58Wb45tLwvnhix11w80zCbKtCzw"
+                        },
+                        {
+                            "height": 16,
+                            "id": "16x16",
+                            "url": "https://yt3.ggpht.com/WTHXbCJZspVQ2WyZu-9Qmyyb_RPr4t8rFamGp6hAhHIBqDd58Wb45tLwvnhix11w80zCbKtCzw=s16-c-k",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "id": "32x32",
+                            "url": "https://yt3.ggpht.com/WTHXbCJZspVQ2WyZu-9Qmyyb_RPr4t8rFamGp6hAhHIBqDd58Wb45tLwvnhix11w80zCbKtCzw=s32-c-k",
+                            "width": 32
+                        }
+                    ],
+                    "title": "Member (1 year)"
+                }
+            ],
+            "id": "UCL3c1Fs_Lfaf4VHVUt8nTDw",
+            "images": [
+                {
+                    "id": "source",
+                    "url": "https://yt4.ggpht.com/AFByDu6GyGPYBf-94O6hWKLyvoRs5dyqwyk13dTIiX2pyYytpG5UKSp-qi7w9iV8rd_k_MHu4g"
+                },
+                {
+                    "height": 32,
+                    "id": "32x32",
+                    "url": "https://yt4.ggpht.com/AFByDu6GyGPYBf-94O6hWKLyvoRs5dyqwyk13dTIiX2pyYytpG5UKSp-qi7w9iV8rd_k_MHu4g=s32-c-k-c0x00ffffff-no-rj",
+                    "width": 32
+                },
+                {
+                    "height": 64,
+                    "id": "64x64",
+                    "url": "https://yt4.ggpht.com/AFByDu6GyGPYBf-94O6hWKLyvoRs5dyqwyk13dTIiX2pyYytpG5UKSp-qi7w9iV8rd_k_MHu4g=s64-c-k-c0x00ffffff-no-rj",
+                    "width": 64
+                }
+            ],
+            "name": "Oogie Boogie"
+        },
+        "message": "Please go and like the premiere!",
+        "message_id": "ChwKGkNLYlN4Zlhrc1k0REZTM1J3Z1FkX3pRNWJn",
+        "message_type": "text_message",
+        "timestamp": 1752133228655428
+    }, 
+    {
+        "action_type": "add_chat_item",
+        "author": {
+            "badges": [
+                {
+                    "icons": [
+                        {
+                            "id": "source",
+                            "url": "https://yt3.ggpht.com/WTHXbCJZspVQ2WyZu-9Qmyyb_RPr4t8rFamGp6hAhHIBqDd58Wb45tLwvnhix11w80zCbKtCzw"
+                        },
+                        {
+                            "height": 16,
+                            "id": "16x16",
+                            "url": "https://yt3.ggpht.com/WTHXbCJZspVQ2WyZu-9Qmyyb_RPr4t8rFamGp6hAhHIBqDd58Wb45tLwvnhix11w80zCbKtCzw=s16-c-k",
+                            "width": 16
+                        },
+                        {
+                            "height": 32,
+                            "id": "32x32",
+                            "url": "https://yt3.ggpht.com/WTHXbCJZspVQ2WyZu-9Qmyyb_RPr4t8rFamGp6hAhHIBqDd58Wb45tLwvnhix11w80zCbKtCzw=s32-c-k",
+                            "width": 32
+                        }
+                    ],
+                    "title": "Member (1 year)"
+                }
+            ],
+            "id": "UC6fRZiGMhwvaN0Eae8JLO-w",
+            "images": [
+                {
+                    "id": "source",
+                    "url": "https://yt4.ggpht.com/t3HunyBPW821i6Azgsqxfq25y_wUwTLZCBXDzQ7KvYHy3myu2768Qu5DkcgXh_xwrIIp6eYrRQ"
+                },
+                {
+                    "height": 32,
+                    "id": "32x32",
+                    "url": "https://yt4.ggpht.com/t3HunyBPW821i6Azgsqxfq25y_wUwTLZCBXDzQ7KvYHy3myu2768Qu5DkcgXh_xwrIIp6eYrRQ=s32-c-k-c0x00ffffff-no-rj",
+                    "width": 32
+                },
+                {
+                    "height": 64,
+                    "id": "64x64",
+                    "url": "https://yt4.ggpht.com/t3HunyBPW821i6Azgsqxfq25y_wUwTLZCBXDzQ7KvYHy3myu2768Qu5DkcgXh_xwrIIp6eYrRQ=s64-c-k-c0x00ffffff-no-rj",
+                    "width": 64
+                }
+            ],
+            "name": "Randy "
+        },
+        "message": "Crunchyyyyyyy",
+        "message_id": "ChwKGkNOT0U3ZmZrc1k0REZRcjJGZ2tkdDdZRzBn",
+        "message_type": "text_message",
+        "timestamp": 1752133233494902
+    }
+]

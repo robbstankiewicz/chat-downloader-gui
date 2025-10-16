@@ -1,0 +1,857 @@
+[
+    {
+        "action_type": "user_notice",
+        "author": {
+            "badges": [
+                {
+                    "clickAction": "SUBSCRIBE",
+                    "clickURL": null,
+                    "icons": [
+                        {
+                            "height": 18,
+                            "id": "18x18",
+                            "url": "https://static-cdn.jtvnw.net/badges/v1/1e0e872a-f0e8-418a-a706-b3f74d16634b/1",
+                            "width": 18
+                        },
+                        {
+                            "height": 36,
+                            "id": "36x36",
+                            "url": "https://static-cdn.jtvnw.net/badges/v1/1e0e872a-f0e8-418a-a706-b3f74d16634b/2",
+                            "width": 36
+                        },
+                        {
+                            "height": 72,
+                            "id": "72x72",
+                            "url": "https://static-cdn.jtvnw.net/badges/v1/1e0e872a-f0e8-418a-a706-b3f74d16634b/3",
+                            "width": 72
+                        }
+                    ],
+                    "months": 49,
+                    "name": "subscriber",
+                    "title": "4-Year Subscriber",
+                    "version": 48
+                },
+                {
+                    "clickAction": "VISIT_URL",
+                    "clickURL": "https://gaming.amazon.com",
+                    "icons": [
+                        {
+                            "height": 18,
+                            "id": "18x18",
+                            "url": "https://static-cdn.jtvnw.net/badges/v1/bbbe0db0-a598-423e-86d0-f9fb98ca1933/1",
+                            "width": 18
+                        },
+                        {
+                            "height": 36,
+                            "id": "36x36",
+                            "url": "https://static-cdn.jtvnw.net/badges/v1/bbbe0db0-a598-423e-86d0-f9fb98ca1933/2",
+                            "width": 36
+                        },
+                        {
+                            "height": 72,
+                            "id": "72x72",
+                            "url": "https://static-cdn.jtvnw.net/badges/v1/bbbe0db0-a598-423e-86d0-f9fb98ca1933/3",
+                            "width": 72
+                        }
+                    ],
+                    "name": "premium",
+                    "title": "Prime Gaming",
+                    "version": 1
+                }
+            ],
+            "display_name": "sancho_042",
+            "id": "99846702",
+            "is_moderator": false,
+            "is_subscriber": true,
+            "name": "sancho_042"
+        },
+        "channel_id": "123456",
+        "colour": "#00FDDA",
+        "cumulative_months": 49,
+        "flags": "",
+        "is_vip": false,
+        "message": "yo",
+        "message_id": "d1dc9a9b-cd8a-4d74-af56-19315debb38a",
+        "message_type": "resubscription",
+        "months": 0,
+        "multimonth_duration": 1,
+        "multimonth_tenure": 0,
+        "number_of_consecutive_months_subscribed": 49,
+        "subscription_plan_name": "Woke Beys (foobar): $4.99 Sub",
+        "subscription_type": "Prime",
+        "system_message": "sancho_042 subscribed with Prime. They've subscribed for 49 months, currently on a 49 month streak!",
+        "timestamp": 1750273122849000,
+        "user_type": "",
+        "user_wants_to_share_streaks": true,
+        "was_gifted": false
+    },
+    {
+        "action_type": "user_notice",
+        "author": {
+            "badges": [
+                {
+                    "clickAction": "SUBSCRIBE",
+                    "clickURL": null,
+                    "icons": [
+                        {
+                            "height": 18,
+                            "id": "18x18",
+                            "url": "https://static-cdn.jtvnw.net/badges/v1/1e0e872a-f0e8-418a-a706-b3f74d16634b/1",
+                            "width": 18
+                        },
+                        {
+                            "height": 36,
+                            "id": "36x36",
+                            "url": "https://static-cdn.jtvnw.net/badges/v1/1e0e872a-f0e8-418a-a706-b3f74d16634b/2",
+                            "width": 36
+                        },
+                        {
+                            "height": 72,
+                            "id": "72x72",
+                            "url": "https://static-cdn.jtvnw.net/badges/v1/1e0e872a-f0e8-418a-a706-b3f74d16634b/3",
+                            "width": 72
+                        }
+                    ],
+                    "months": 49,
+                    "name": "subscriber",
+                    "title": "4-Year Subscriber",
+                    "version": 48
+                },
+                {
+                    "clickAction": "VISIT_URL",
+                    "clickURL": "https://gaming.amazon.com",
+                    "icons": [
+                        {
+                            "height": 18,
+                            "id": "18x18",
+                            "url": "https://static-cdn.jtvnw.net/badges/v1/bbbe0db0-a598-423e-86d0-f9fb98ca1933/1",
+                            "width": 18
+                        },
+                        {
+                            "height": 36,
+                            "id": "36x36",
+                            "url": "https://static-cdn.jtvnw.net/badges/v1/bbbe0db0-a598-423e-86d0-f9fb98ca1933/2",
+                            "width": 36
+                        },
+                        {
+                            "height": 72,
+                            "id": "72x72",
+                            "url": "https://static-cdn.jtvnw.net/badges/v1/bbbe0db0-a598-423e-86d0-f9fb98ca1933/3",
+                            "width": 72
+                        }
+                    ],
+                    "name": "premium",
+                    "title": "Prime Gaming",
+                    "version": 1
+                }
+            ],
+            "display_name": "FAKATA",
+            "id": "577922844",
+            "is_moderator": false,
+            "is_subscriber": true,
+            "name": "fakata"
+        },
+        "channel_id": "123456",
+        "colour": "#1E90FF",
+        "cumulative_months": 49,
+        "emotes": [],
+        "flags": "",
+        "is_vip": false,
+        "message_id": "db8fccb4-21d7-437d-a3ec-7d2ecd168a67",
+        "message_type": "resubscription",
+        "months": 0,
+        "multimonth_duration": 1,
+        "multimonth_tenure": 0,
+        "subscription_plan_name": "Woke Beys (foobar): $4.99 Sub",
+        "subscription_type": "Prime",
+        "system_message": "FAKATA subscribed with Prime. They've subscribed for 49 months!",
+        "timestamp": 1750273140226000,
+        "user_type": "",
+        "user_wants_to_share_streaks": false,
+        "was_gifted": false
+    },
+    {
+        "action_type": "user_notice",
+        "author": {
+            "badges": [
+                {
+                    "clickAction": "SUBSCRIBE",
+                    "clickURL": null,
+                    "icons": [
+                        {
+                            "height": 18,
+                            "id": "18x18",
+                            "url": "https://static-cdn.jtvnw.net/badges/v1/56666e6d-8828-46bf-afbf-55fe464422aa/1",
+                            "width": 18
+                        },
+                        {
+                            "height": 36,
+                            "id": "36x36",
+                            "url": "https://static-cdn.jtvnw.net/badges/v1/56666e6d-8828-46bf-afbf-55fe464422aa/2",
+                            "width": 36
+                        },
+                        {
+                            "height": 72,
+                            "id": "72x72",
+                            "url": "https://static-cdn.jtvnw.net/badges/v1/56666e6d-8828-46bf-afbf-55fe464422aa/3",
+                            "width": 72
+                        }
+                    ],
+                    "months": 36,
+                    "name": "subscriber",
+                    "title": "3-Year Subscriber",
+                    "version": 36
+                },
+                {
+                    "clickAction": null,
+                    "clickURL": null,
+                    "icons": [
+                        {
+                            "height": 18,
+                            "id": "18x18",
+                            "url": "https://static-cdn.jtvnw.net/badges/v1/cd479dc0-4a15-407d-891f-9fd2740bddda/1",
+                            "width": 18
+                        },
+                        {
+                            "height": 36,
+                            "id": "36x36",
+                            "url": "https://static-cdn.jtvnw.net/badges/v1/cd479dc0-4a15-407d-891f-9fd2740bddda/2",
+                            "width": 36
+                        },
+                        {
+                            "height": 72,
+                            "id": "72x72",
+                            "url": "https://static-cdn.jtvnw.net/badges/v1/cd479dc0-4a15-407d-891f-9fd2740bddda/3",
+                            "width": 72
+                        }
+                    ],
+                    "name": "sub_gifter",
+                    "title": "250 Gift Subs",
+                    "version": 250
+                }
+            ],
+            "display_name": "FOO_BAZ",
+            "id": "530415169",
+            "is_moderator": false,
+            "is_subscriber": true,
+            "name": "FOO_BAZ"
+        },
+        "channel_id": "123456",
+        "colour": "#00FF7F",
+        "emotes": [],
+        "flags": "",
+        "is_vip": false,
+        "mass_gift_count": 10,
+        "message_id": "e7afb4a9-bd23-41f0-b6e3-7a2961c26c48",
+        "message_type": "mystery_subscription_gift",
+        "msg_param_community_gift_id": "6671903347329250483",
+        "origin_id": "6671903347329250483",
+        "sender_count": 267,
+        "subscription_type": "Tier 1",
+        "system_message": "FOO_BAZ is gifting 10 Tier 1 Subs to foobar's community! They've gifted a total of 267 in the channel!",
+        "timestamp": 1750273160892000,
+        "user_type": ""
+    },
+    {
+        "action_type": "user_notice",
+        "author": {
+            "badges": [
+                {
+                    "clickAction": "SUBSCRIBE",
+                    "clickURL": null,
+                    "icons": [
+                        {
+                            "height": 18,
+                            "id": "18x18",
+                            "url": "https://static-cdn.jtvnw.net/badges/v1/56666e6d-8828-46bf-afbf-55fe464422aa/1",
+                            "width": 18
+                        },
+                        {
+                            "height": 36,
+                            "id": "36x36",
+                            "url": "https://static-cdn.jtvnw.net/badges/v1/56666e6d-8828-46bf-afbf-55fe464422aa/2",
+                            "width": 36
+                        },
+                        {
+                            "height": 72,
+                            "id": "72x72",
+                            "url": "https://static-cdn.jtvnw.net/badges/v1/56666e6d-8828-46bf-afbf-55fe464422aa/3",
+                            "width": 72
+                        }
+                    ],
+                    "months": 36,
+                    "name": "subscriber",
+                    "title": "3-Year Subscriber",
+                    "version": 36
+                },
+                {
+                    "clickAction": null,
+                    "clickURL": null,
+                    "icons": [
+                        {
+                            "height": 18,
+                            "id": "18x18",
+                            "url": "https://static-cdn.jtvnw.net/badges/v1/cd479dc0-4a15-407d-891f-9fd2740bddda/1",
+                            "width": 18
+                        },
+                        {
+                            "height": 36,
+                            "id": "36x36",
+                            "url": "https://static-cdn.jtvnw.net/badges/v1/cd479dc0-4a15-407d-891f-9fd2740bddda/2",
+                            "width": 36
+                        },
+                        {
+                            "height": 72,
+                            "id": "72x72",
+                            "url": "https://static-cdn.jtvnw.net/badges/v1/cd479dc0-4a15-407d-891f-9fd2740bddda/3",
+                            "width": 72
+                        }
+                    ],
+                    "name": "sub_gifter",
+                    "title": "250 Gift Subs",
+                    "version": 250
+                }
+            ],
+            "display_name": "FOO_BAZ",
+            "id": "530415169",
+            "is_moderator": false,
+            "is_subscriber": true,
+            "name": "FOO_BAZ"
+        },
+        "channel_id": "123456",
+        "colour": "#00FF7F",
+        "emotes": [],
+        "flags": "",
+        "gift_recipient_display_name": "phunkking",
+        "gift_recipient_id": "2556969",
+        "is_vip": false,
+        "message_id": "4ed4d0fe-679e-4d26-b71c-2a16b094ae4d",
+        "message_type": "subscription_gift",
+        "months": 41,
+        "msg_param_community_gift_id": "6671903347329250483",
+        "number_of_months_gifted": 1,
+        "origin_id": "6671903347329250483",
+        "sender_count": 0,
+        "subscription_plan_name": "Woke Beys (foobar): $4.99 Sub",
+        "subscription_type": "Tier 1",
+        "system_message": "FOO_BAZ gifted a Tier 1 sub to phunkking!",
+        "timestamp": 1750273161627000,
+        "user_type": ""
+    },
+    {
+        "action_type": "user_notice",
+        "author": {
+            "badges": [
+                {
+                    "clickAction": "SUBSCRIBE",
+                    "clickURL": null,
+                    "icons": [
+                        {
+                            "height": 18,
+                            "id": "18x18",
+                            "url": "https://static-cdn.jtvnw.net/badges/v1/56666e6d-8828-46bf-afbf-55fe464422aa/1",
+                            "width": 18
+                        },
+                        {
+                            "height": 36,
+                            "id": "36x36",
+                            "url": "https://static-cdn.jtvnw.net/badges/v1/56666e6d-8828-46bf-afbf-55fe464422aa/2",
+                            "width": 36
+                        },
+                        {
+                            "height": 72,
+                            "id": "72x72",
+                            "url": "https://static-cdn.jtvnw.net/badges/v1/56666e6d-8828-46bf-afbf-55fe464422aa/3",
+                            "width": 72
+                        }
+                    ],
+                    "months": 36,
+                    "name": "subscriber",
+                    "title": "3-Year Subscriber",
+                    "version": 36
+                },
+                {
+                    "clickAction": null,
+                    "clickURL": null,
+                    "icons": [
+                        {
+                            "height": 18,
+                            "id": "18x18",
+                            "url": "https://static-cdn.jtvnw.net/badges/v1/cd479dc0-4a15-407d-891f-9fd2740bddda/1",
+                            "width": 18
+                        },
+                        {
+                            "height": 36,
+                            "id": "36x36",
+                            "url": "https://static-cdn.jtvnw.net/badges/v1/cd479dc0-4a15-407d-891f-9fd2740bddda/2",
+                            "width": 36
+                        },
+                        {
+                            "height": 72,
+                            "id": "72x72",
+                            "url": "https://static-cdn.jtvnw.net/badges/v1/cd479dc0-4a15-407d-891f-9fd2740bddda/3",
+                            "width": 72
+                        }
+                    ],
+                    "name": "sub_gifter",
+                    "title": "250 Gift Subs",
+                    "version": 250
+                }
+            ],
+            "display_name": "FOO_BAZ",
+            "id": "530415169",
+            "is_moderator": false,
+            "is_subscriber": true,
+            "name": "FOO_BAZ"
+        },
+        "channel_id": "123456",
+        "colour": "#00FF7F",
+        "emotes": [],
+        "flags": "",
+        "gift_recipient_display_name": "rassmad",
+        "gift_recipient_id": "33619478",
+        "is_vip": false,
+        "message_id": "4f5296a8-d2db-4da4-99a0-bcb5257416f5",
+        "message_type": "subscription_gift",
+        "months": 3,
+        "msg_param_community_gift_id": "6671903347329250483",
+        "number_of_months_gifted": 1,
+        "origin_id": "6671903347329250483",
+        "sender_count": 0,
+        "subscription_plan_name": "Woke Beys (foobar): $4.99 Sub",
+        "subscription_type": "Tier 1",
+        "system_message": "FOO_BAZ gifted a Tier 1 sub to rassmad!",
+        "timestamp": 1750273161645000,
+        "user_type": ""
+    },
+    {
+        "action_type": "user_notice",
+        "author": {
+            "badges": [
+                {
+                    "clickAction": "SUBSCRIBE",
+                    "clickURL": null,
+                    "icons": [
+                        {
+                            "height": 18,
+                            "id": "18x18",
+                            "url": "https://static-cdn.jtvnw.net/badges/v1/56666e6d-8828-46bf-afbf-55fe464422aa/1",
+                            "width": 18
+                        },
+                        {
+                            "height": 36,
+                            "id": "36x36",
+                            "url": "https://static-cdn.jtvnw.net/badges/v1/56666e6d-8828-46bf-afbf-55fe464422aa/2",
+                            "width": 36
+                        },
+                        {
+                            "height": 72,
+                            "id": "72x72",
+                            "url": "https://static-cdn.jtvnw.net/badges/v1/56666e6d-8828-46bf-afbf-55fe464422aa/3",
+                            "width": 72
+                        }
+                    ],
+                    "months": 36,
+                    "name": "subscriber",
+                    "title": "3-Year Subscriber",
+                    "version": 36
+                },
+                {
+                    "clickAction": null,
+                    "clickURL": null,
+                    "icons": [
+                        {
+                            "height": 18,
+                            "id": "18x18",
+                            "url": "https://static-cdn.jtvnw.net/badges/v1/cd479dc0-4a15-407d-891f-9fd2740bddda/1",
+                            "width": 18
+                        },
+                        {
+                            "height": 36,
+                            "id": "36x36",
+                            "url": "https://static-cdn.jtvnw.net/badges/v1/cd479dc0-4a15-407d-891f-9fd2740bddda/2",
+                            "width": 36
+                        },
+                        {
+                            "height": 72,
+                            "id": "72x72",
+                            "url": "https://static-cdn.jtvnw.net/badges/v1/cd479dc0-4a15-407d-891f-9fd2740bddda/3",
+                            "width": 72
+                        }
+                    ],
+                    "name": "sub_gifter",
+                    "title": "250 Gift Subs",
+                    "version": 250
+                }
+            ],
+            "display_name": "FOO_BAZ",
+            "id": "530415169",
+            "is_moderator": false,
+            "is_subscriber": true,
+            "name": "FOO_BAZ"
+        },
+        "channel_id": "123456",
+        "colour": "#00FF7F",
+        "emotes": [],
+        "flags": "",
+        "gift_recipient_display_name": "keziah69",
+        "gift_recipient_id": "73840132",
+        "is_vip": false,
+        "message_id": "b43acc1a-4f3e-436a-9c08-cf1b26fd1999",
+        "message_type": "subscription_gift",
+        "months": 3,
+        "msg_param_community_gift_id": "6671903347329250483",
+        "number_of_months_gifted": 1,
+        "origin_id": "6671903347329250483",
+        "sender_count": 0,
+        "subscription_plan_name": "Woke Beys (foobar): $4.99 Sub",
+        "subscription_type": "Tier 1",
+        "system_message": "FOO_BAZ gifted a Tier 1 sub to keziah69!",
+        "timestamp": 1750273161658000,
+        "user_type": ""
+    },
+    {
+        "action_type": "user_notice",
+        "author": {
+            "badges": [
+                {
+                    "clickAction": "SUBSCRIBE",
+                    "clickURL": null,
+                    "icons": [
+                        {
+                            "height": 18,
+                            "id": "18x18",
+                            "url": "https://static-cdn.jtvnw.net/badges/v1/56666e6d-8828-46bf-afbf-55fe464422aa/1",
+                            "width": 18
+                        },
+                        {
+                            "height": 36,
+                            "id": "36x36",
+                            "url": "https://static-cdn.jtvnw.net/badges/v1/56666e6d-8828-46bf-afbf-55fe464422aa/2",
+                            "width": 36
+                        },
+                        {
+                            "height": 72,
+                            "id": "72x72",
+                            "url": "https://static-cdn.jtvnw.net/badges/v1/56666e6d-8828-46bf-afbf-55fe464422aa/3",
+                            "width": 72
+                        }
+                    ],
+                    "months": 36,
+                    "name": "subscriber",
+                    "title": "3-Year Subscriber",
+                    "version": 36
+                },
+                {
+                    "clickAction": null,
+                    "clickURL": null,
+                    "icons": [
+                        {
+                            "height": 18,
+                            "id": "18x18",
+                            "url": "https://static-cdn.jtvnw.net/badges/v1/cd479dc0-4a15-407d-891f-9fd2740bddda/1",
+                            "width": 18
+                        },
+                        {
+                            "height": 36,
+                            "id": "36x36",
+                            "url": "https://static-cdn.jtvnw.net/badges/v1/cd479dc0-4a15-407d-891f-9fd2740bddda/2",
+                            "width": 36
+                        },
+                        {
+                            "height": 72,
+                            "id": "72x72",
+                            "url": "https://static-cdn.jtvnw.net/badges/v1/cd479dc0-4a15-407d-891f-9fd2740bddda/3",
+                            "width": 72
+                        }
+                    ],
+                    "name": "sub_gifter",
+                    "title": "250 Gift Subs",
+                    "version": 250
+                }
+            ],
+            "display_name": "FOO_BAZ",
+            "id": "530415169",
+            "is_moderator": false,
+            "is_subscriber": true,
+            "name": "FOO_BAZ"
+        },
+        "channel_id": "123456",
+        "colour": "#00FF7F",
+        "emotes": [],
+        "flags": "",
+        "gift_recipient_display_name": "jaggytheguy",
+        "gift_recipient_id": "941643079",
+        "is_vip": false,
+        "message_id": "30e50382-b9e9-4294-b300-c991e4d88ace",
+        "message_type": "subscription_gift",
+        "months": 2,
+        "msg_param_community_gift_id": "6671903347329250483",
+        "number_of_months_gifted": 1,
+        "origin_id": "6671903347329250483",
+        "sender_count": 0,
+        "subscription_plan_name": "Woke Beys (foobar): $4.99 Sub",
+        "subscription_type": "Tier 1",
+        "system_message": "FOO_BAZ gifted a Tier 1 sub to JaggyTheGuy!",
+        "timestamp": 1750273161715000,
+        "user_type": ""
+    },
+    {
+        "action_type": "user_notice",
+        "author": {
+            "badges": [
+                {
+                    "clickAction": "SUBSCRIBE",
+                    "clickURL": null,
+                    "icons": [
+                        {
+                            "height": 18,
+                            "id": "18x18",
+                            "url": "https://static-cdn.jtvnw.net/badges/v1/56666e6d-8828-46bf-afbf-55fe464422aa/1",
+                            "width": 18
+                        },
+                        {
+                            "height": 36,
+                            "id": "36x36",
+                            "url": "https://static-cdn.jtvnw.net/badges/v1/56666e6d-8828-46bf-afbf-55fe464422aa/2",
+                            "width": 36
+                        },
+                        {
+                            "height": 72,
+                            "id": "72x72",
+                            "url": "https://static-cdn.jtvnw.net/badges/v1/56666e6d-8828-46bf-afbf-55fe464422aa/3",
+                            "width": 72
+                        }
+                    ],
+                    "months": 36,
+                    "name": "subscriber",
+                    "title": "3-Year Subscriber",
+                    "version": 36
+                },
+                {
+                    "clickAction": null,
+                    "clickURL": null,
+                    "icons": [
+                        {
+                            "height": 18,
+                            "id": "18x18",
+                            "url": "https://static-cdn.jtvnw.net/badges/v1/cd479dc0-4a15-407d-891f-9fd2740bddda/1",
+                            "width": 18
+                        },
+                        {
+                            "height": 36,
+                            "id": "36x36",
+                            "url": "https://static-cdn.jtvnw.net/badges/v1/cd479dc0-4a15-407d-891f-9fd2740bddda/2",
+                            "width": 36
+                        },
+                        {
+                            "height": 72,
+                            "id": "72x72",
+                            "url": "https://static-cdn.jtvnw.net/badges/v1/cd479dc0-4a15-407d-891f-9fd2740bddda/3",
+                            "width": 72
+                        }
+                    ],
+                    "name": "sub_gifter",
+                    "title": "250 Gift Subs",
+                    "version": 250
+                }
+            ],
+            "display_name": "FOO_BAZ",
+            "id": "530415169",
+            "is_moderator": false,
+            "is_subscriber": true,
+            "name": "FOO_BAZ"
+        },
+        "channel_id": "123456",
+        "colour": "#00FF7F",
+        "emotes": [],
+        "flags": "",
+        "gift_recipient_display_name": "itsvynel",
+        "gift_recipient_id": "794186890",
+        "is_vip": false,
+        "message_id": "2ae5031b-7644-44cc-a232-8e97662911f0",
+        "message_type": "subscription_gift",
+        "months": 2,
+        "msg_param_community_gift_id": "6671903347329250483",
+        "number_of_months_gifted": 1,
+        "origin_id": "6671903347329250483",
+        "sender_count": 0,
+        "subscription_plan_name": "Woke Beys (foobar): $4.99 Sub",
+        "subscription_type": "Tier 1",
+        "system_message": "FOO_BAZ gifted a Tier 1 sub to itsvynel!",
+        "timestamp": 1750273161716000,
+        "user_type": ""
+    },
+    {
+        "action_type": "user_notice",
+        "author": {
+            "badges": [
+                {
+                    "clickAction": "SUBSCRIBE",
+                    "clickURL": null,
+                    "icons": [
+                        {
+                            "height": 18,
+                            "id": "18x18",
+                            "url": "https://static-cdn.jtvnw.net/badges/v1/56666e6d-8828-46bf-afbf-55fe464422aa/1",
+                            "width": 18
+                        },
+                        {
+                            "height": 36,
+                            "id": "36x36",
+                            "url": "https://static-cdn.jtvnw.net/badges/v1/56666e6d-8828-46bf-afbf-55fe464422aa/2",
+                            "width": 36
+                        },
+                        {
+                            "height": 72,
+                            "id": "72x72",
+                            "url": "https://static-cdn.jtvnw.net/badges/v1/56666e6d-8828-46bf-afbf-55fe464422aa/3",
+                            "width": 72
+                        }
+                    ],
+                    "months": 36,
+                    "name": "subscriber",
+                    "title": "3-Year Subscriber",
+                    "version": 36
+                },
+                {
+                    "clickAction": null,
+                    "clickURL": null,
+                    "icons": [
+                        {
+                            "height": 18,
+                            "id": "18x18",
+                            "url": "https://static-cdn.jtvnw.net/badges/v1/cd479dc0-4a15-407d-891f-9fd2740bddda/1",
+                            "width": 18
+                        },
+                        {
+                            "height": 36,
+                            "id": "36x36",
+                            "url": "https://static-cdn.jtvnw.net/badges/v1/cd479dc0-4a15-407d-891f-9fd2740bddda/2",
+                            "width": 36
+                        },
+                        {
+                            "height": 72,
+                            "id": "72x72",
+                            "url": "https://static-cdn.jtvnw.net/badges/v1/cd479dc0-4a15-407d-891f-9fd2740bddda/3",
+                            "width": 72
+                        }
+                    ],
+                    "name": "sub_gifter",
+                    "title": "250 Gift Subs",
+                    "version": 250
+                }
+            ],
+            "display_name": "FOO_BAZ",
+            "id": "530415169",
+            "is_moderator": false,
+            "is_subscriber": true,
+            "name": "FOO_BAZ"
+        },
+        "channel_id": "123456",
+        "colour": "#00FF7F",
+        "emotes": [],
+        "flags": "",
+        "gift_recipient_display_name": "tangypickle8",
+        "gift_recipient_id": "31533381",
+        "is_vip": false,
+        "message_id": "c105609c-9e10-4924-9149-d3515bb542d7",
+        "message_type": "subscription_gift",
+        "months": 6,
+        "msg_param_community_gift_id": "6671903347329250483",
+        "number_of_months_gifted": 1,
+        "origin_id": "6671903347329250483",
+        "sender_count": 0,
+        "subscription_plan_name": "Woke Beys (foobar): $4.99 Sub",
+        "subscription_type": "Tier 1",
+        "system_message": "FOO_BAZ gifted a Tier 1 sub to tangypickle8!",
+        "timestamp": 1750273161723000,
+        "user_type": ""
+    },
+    {
+        "action_type": "user_notice",
+        "author": {
+            "badges": [
+                {
+                    "clickAction": "SUBSCRIBE",
+                    "clickURL": null,
+                    "icons": [
+                        {
+                            "height": 18,
+                            "id": "18x18",
+                            "url": "https://static-cdn.jtvnw.net/badges/v1/56666e6d-8828-46bf-afbf-55fe464422aa/1",
+                            "width": 18
+                        },
+                        {
+                            "height": 36,
+                            "id": "36x36",
+                            "url": "https://static-cdn.jtvnw.net/badges/v1/56666e6d-8828-46bf-afbf-55fe464422aa/2",
+                            "width": 36
+                        },
+                        {
+                            "height": 72,
+                            "id": "72x72",
+                            "url": "https://static-cdn.jtvnw.net/badges/v1/56666e6d-8828-46bf-afbf-55fe464422aa/3",
+                            "width": 72
+                        }
+                    ],
+                    "months": 36,
+                    "name": "subscriber",
+                    "title": "3-Year Subscriber",
+                    "version": 36
+                },
+                {
+                    "clickAction": null,
+                    "clickURL": null,
+                    "icons": [
+                        {
+                            "height": 18,
+                            "id": "18x18",
+                            "url": "https://static-cdn.jtvnw.net/badges/v1/cd479dc0-4a15-407d-891f-9fd2740bddda/1",
+                            "width": 18
+                        },
+                        {
+                            "height": 36,
+                            "id": "36x36",
+                            "url": "https://static-cdn.jtvnw.net/badges/v1/cd479dc0-4a15-407d-891f-9fd2740bddda/2",
+                            "width": 36
+                        },
+                        {
+                            "height": 72,
+                            "id": "72x72",
+                            "url": "https://static-cdn.jtvnw.net/badges/v1/cd479dc0-4a15-407d-891f-9fd2740bddda/3",
+                            "width": 72
+                        }
+                    ],
+                    "name": "sub_gifter",
+                    "title": "250 Gift Subs",
+                    "version": 250
+                }
+            ],
+            "display_name": "FOO_BAZ",
+            "id": "530415169",
+            "is_moderator": false,
+            "is_subscriber": true,
+            "name": "FOO_BAZ"
+        },
+        "channel_id": "123456",
+        "colour": "#00FF7F",
+        "emotes": [],
+        "flags": "",
+        "gift_recipient_display_name": "darmuh",
+        "gift_recipient_id": "35865706",
+        "is_vip": false,
+        "message_id": "4a4baad5-6132-42f7-82ba-cad252c689a0",
+        "message_type": "subscription_gift",
+        "months": 6,
+        "msg_param_community_gift_id": "6671903347329250483",
+        "number_of_months_gifted": 1,
+        "origin_id": "6671903347329250483",
+        "sender_count": 0,
+        "subscription_plan_name": "Woke Beys (foobar): $4.99 Sub",
+        "subscription_type": "Tier 1",
+        "system_message": "FOO_BAZ gifted a Tier 1 sub to darmuh!",
+        "timestamp": 1750273161715000,
+        "user_type": ""
+    }
+]

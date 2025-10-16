@@ -1,0 +1,40 @@
+@let data = message();
+<span class="time">{{ timestamp() }}</span>
+<span
+    class="author"
+    [style.color]="isSystem() ? null : data.author.color"
+    (click)="authorClicked.emit(data.author)">
+    {{ name() }}:
+</span>
+<span class="value">
+    @if (isSub()) {
+        Superchat from
+        <span class="author" (click)="authorClicked.emit(data.author)">
+            {{ authorName() }}
+        </span>
+        @if (message().message) {
+            - {{ message().message }}
+        }
+    } @else if (isBan()) {
+        @switch (data.banType) {
+            @case ('removed') {
+                Message by
+                <span class="author--banned" (click)="authorClicked.emit(data.author)">
+                    {{ data.author.name }}
+                </span>
+                removed
+            }
+            @case ('retracted') {
+                <span class="author--banned" (click)="authorClicked.emit(data.author)">
+                    {{ data.author.name }}
+                </span>
+                retracted some message
+            }
+            @default {
+                {{ messageValue() }}
+            }
+        }
+    } @else {
+        {{ messageValue() }}
+    }
+</span>

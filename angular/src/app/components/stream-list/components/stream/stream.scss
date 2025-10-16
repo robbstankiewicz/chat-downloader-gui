@@ -1,0 +1,164 @@
+:host {
+    cursor: pointer;
+    position: relative;
+    &.not-selectable {
+        cursor: auto;
+    }
+    &.active {
+        ::ng-deep {
+            .p-card {
+                box-shadow: 0px 0px 1px 4px var(--p-primary-400);
+            }
+        }
+    }
+}
+::ng-deep {
+    .p-card {
+        min-height: 6.75rem;
+    }
+}
+.container {
+    display: flex;
+    gap: 0.5em;
+    width: 100%;
+    align-items: center;
+    position: relative;
+    z-index: 2;
+}
+.spinner-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 1rem 0;
+    color: var(--p-primary-color);
+}
+.provider-icon {
+    position: relative;
+    display: block;
+    font-size: 3rem;
+    &.jumping {
+        animation: iconJump 1.5s cubic-bezier(0.78, -0.01, 0.2, 1) infinite;
+    }
+}
+
+.error-container {
+    flex: 1 1;
+    display: flex;
+    align-items: center;
+    gap: 1.5rem;
+    padding: 0rem 1rem;
+    overflow: auto;
+    h3, i {
+        color: var(--p-red-500);
+    }
+    h4,
+    h5 {
+        color: var(--p-neutral-400);
+    }
+}
+.error-icon {
+    font-size: 3rem;
+}
+
+.type {
+    flex-basis: 5rem;
+    flex-direction: column;
+    text-align: center;
+}
+.data {
+    flex: 1 1;
+    overflow: hidden;
+    h4,
+    h5 {
+        color: var(--p-neutral-400);
+    }
+}
+
+.controls {
+    // flex: 0;
+    display: flex;
+    gap: 0.5em;
+}
+
+h3,
+h4,
+h5 {
+    margin: 0;
+    // margin-block-start: 0;
+    // margin-block-end: .3em;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.downloading-animation {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    pointer-events: none;
+    z-index: 1;
+    overflow: hidden;
+    border-radius: inherit;
+
+    &::before {
+        content: '';
+        position: absolute;
+        top: 0;
+        left: -100%;
+        width: 100%;
+        height: 100%;
+        background: linear-gradient(
+            90deg,
+            transparent,
+            transparent,
+            color-mix(in srgb, var(--p-primary-300) 25%, transparent),
+            transparent
+        );
+        animation: dataFlow 1.5s ease-in-out infinite;
+    }
+
+}
+
+@keyframes dataFlow {
+    0% {
+        left: -100%;
+        opacity: 0;
+    }
+    15% {
+        opacity: 0;
+    }
+    50% {
+        opacity: 1;
+    }
+    65% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 0;
+        left: 100%;
+    }
+}
+
+@keyframes iconJump {
+    0%,
+    100% {
+        transform: translate(0, 0);
+    }
+    43% {
+        transform: translate(0, -8px);
+    }
+    45% {
+        transform: translate(-2px, -8px);
+    }
+    50% {
+        transform: translate(0, -8px);
+    }
+    55% {
+        transform: translate(2px, -8px);
+    }
+    56% {
+        transform: translate(0, -8px);
+    }
+}
